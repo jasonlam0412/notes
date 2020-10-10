@@ -35,7 +35,7 @@ public:
 		cin >> s_indel;
 		cin >> str_r;
 		cin >> str_s;*/
-		int i;
+		int i, j;
 		best_alignment_score = 0;
 		s_match = 2;				//initialize
 		s_ts = -1;
@@ -54,7 +54,15 @@ public:
 		scoreBoard = new int* [len_r + 1];
 		for (i = 0; i < len_r + 1; i++) {
 			scoreBoard[i] = new int[len_s + 1];
-			memset(scoreBoard[i], 0, sizeof(int) * (len_s));
+			//memset(scoreBoard[i], 0, sizeof(int) * (len_s));
+		}
+		for (i = 0; i < len_r;i++) {
+			for (j = 0; j < len_s;j++) {
+				scoreBoard[i][j] = 0;
+				arrayBoard[i][j].diagonal_array = false;
+				arrayBoard[i][j].left_array = false;
+				arrayBoard[i][j].up_array = false;
+			}
 		}
 
 
@@ -92,6 +100,15 @@ public:
 		}
 		return score;
 	}
+
+	void checkSameScore(int r_entry, int s_entry, int s_diagonal, int s_horizontal, int s_vertical) {
+		int score = scoreBoard[r_entry][s_entry];
+		if (score == s_diagonal) {
+			arrayBoard[r_entry][s_entry].diagonal_array = true;
+		}
+
+	}
+
 	void optimal() {
 		int r_entry, s_entry;
 		int s_diagonal, s_horizontal, s_vertical;
@@ -110,6 +127,7 @@ public:
 					s_vertical = s_indel * (len_s - s_entry+1);
 					scoreBoard[r_entry][s_entry] = maxScore(s_diagonal, s_horizontal, s_vertical);
 					cout << s_entry << " : " << s_diagonal << " " << s_horizontal << " " << s_vertical << endl;
+					arrayBoard[r_entry][s_entry].left_array = true;                
 				}
 				else if (s_entry == len_s - 1) {                          // case: last column(right)
 					
@@ -118,12 +136,14 @@ public:
 					s_vertical = scoreBoard[r_entry + 1][s_entry] + s_indel; 
 					scoreBoard[r_entry][s_entry] = maxScore(s_diagonal, s_horizontal, s_vertical);
 					cout << r_entry << " : " << s_diagonal << " " << s_horizontal << " " << s_vertical << endl;
+					arrayBoard[r_entry][s_entry].up_array = true;
 				}
 				else {
 					s_diagonal = checkMatch(r_entry, s_entry) + scoreBoard[r_entry + 1][s_entry+1];
 					s_horizontal = scoreBoard[r_entry][s_entry + 1] + s_indel;
 					s_vertical = scoreBoard[r_entry + 1][s_entry] + s_indel;
 					scoreBoard[r_entry][s_entry] = maxScore(s_diagonal, s_horizontal, s_vertical);
+					
 
 				}
 				//scoreBoard[r_entry][s_entry] = checkMatch(r_entry, s_entry);
