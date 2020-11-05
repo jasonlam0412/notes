@@ -1,0 +1,3537 @@
+0.0732199999911245	EXP	Created Window = Window( name=Window, fullscr=true, color=#000000, units=height, waitBlanking=true, autoLog=true, size=[1680,869] )
+14.919594999984838	DATA	Keydown: j
+15.080439999990631	DATA	Keydown: u
+15.136839999991935	DATA	Keydown: d
+15.180465000012191	DATA	Keydown: e
+15.326249999983702	DATA	Keydown:  
+15.441855000011856	DATA	Keydown: g
+15.497524999984307	DATA	Keydown: r
+15.567934999999125	DATA	Keydown: o
+15.69168499999796	DATA	Keydown: v
+15.734425000002375	DATA	Keydown: e
+15.842470000003232	DATA	Keydown: r
+16.817674999998417	EXP	Created initialinstr = TextStim( name=initialinstr, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=Press the space bar to begin, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.818919999990612	EXP	Created exptinstr = TextStim( name=exptinstr, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=In this experiment you will see some words on the ~, font=Arial, color=#FFC0CB, contrast=1, height=0.06, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.819820000004256	EXP	Created Fix = TextStim( name=Fix, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=*, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.82252499999595	EXP	Created PTarget1 = TextStim( name=PTarget1, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=default text, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.823884999990696	EXP	Created Pprime = TextStim( name=Pprime, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=default text, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.824319999985164	EXP	Created PTarget = TextStim( name=PTarget, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=default text, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.824714999995194	EXP	Created Feedback_2 = TextStim( name=Feedback_2, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=default text, font=Arial, color=#FFC0CB, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.825119999994058	EXP	Created text = TextStim( name=text, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=Practice over.  Are you ready to start the experim~, font=Arial, color=#FFC0CB, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.82568999999785	EXP	Created Fixation = TextStim( name=Fixation, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=*, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.826265000010608	EXP	Created ETarget1 = TextStim( name=ETarget1, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=default text, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.82673000000068	EXP	Created EPrime = TextStim( name=EPrime, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=default text, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.827759999985574	EXP	Created Target = TextStim( name=Target, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=default text, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.828559999994468	EXP	Created text_2 = TextStim( name=text_2, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=This is the end of the first experiment.
+In the ne~, font=Arial, color=#FFFFFF, contrast=1, height=0.06, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.833829999988666	EXP	Created image = ImageStim( name=image, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=[1.5,1], image={}, mask=undefined, color=#ffffff, contrast=1, texRes=128, interpolate=true, depth=null, flipHoriz=null, flipVert=null )
+16.83429500000784	EXP	Created text_feedback = TextStim( name=text_feedback, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=null, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.834679999999935	EXP	Created text_4 = TextStim( name=text_4, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0.25], size=undefined, text=Please type in the last word you read in the wordl~, font=Arial, color=#FFFFFF, contrast=1, height=0.06, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.83710499998415	EXP	Created text_7 = TextStim( name=text_7, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=In the next task, a passage will be presented on s~, font=Arial, color=#FFFFFF, contrast=1, height=0.06, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.83981499998481	EXP	Created image_2 = ImageStim( name=image_2, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=[1.5,1], image={}, mask=undefined, color=#ffffff, contrast=1, texRes=128, interpolate=true, depth=null, flipHoriz=null, flipVert=null )
+16.840345000004163	EXP	Created text_feedback2 = TextStim( name=text_feedback2, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=null, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.840974999999162	EXP	Created text_5 = TextStim( name=text_5, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0.25], size=undefined, text=Please type in the last sentence/ few words you re~, font=Arial, color=#FFFFFF, contrast=1, height=0.06, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.841290000011213	EXP	Created TheEnd = TextStim( name=TheEnd, win=Window( name=Window, fullscr=true, color=#000000, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=This is the end of the experiment, please press an~, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+16.95719499999541	EXP	initialinstr: units = "height"
+16.95719499999541	EXP	initialinstr: ori = 0
+16.95719499999541	EXP	initialinstr: opacity = 1
+16.95719499999541	EXP	initialinstr: pos = [0,0]
+16.95719499999541	EXP	initialinstr: size = undefined
+16.95719499999541	EXP	initialinstr: text = "Press the space bar to begin"
+16.95719499999541	EXP	initialinstr: font = "Arial"
+16.95719499999541	EXP	initialinstr: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	initialinstr: contrast = 1
+16.95719499999541	EXP	initialinstr: height = 0.1
+16.95719499999541	EXP	initialinstr: bold = false
+16.95719499999541	EXP	initialinstr: italic = false
+16.95719499999541	EXP	initialinstr: alignHoriz = "left"
+16.95719499999541	EXP	initialinstr: alignVert = "center"
+16.95719499999541	EXP	initialinstr: wrapWidth = 1
+16.95719499999541	EXP	initialinstr: flipHoriz = false
+16.95719499999541	EXP	initialinstr: flipVert = false
+16.95719499999541	EXP	exptinstr: units = "height"
+16.95719499999541	EXP	exptinstr: ori = 0
+16.95719499999541	EXP	exptinstr: opacity = 1
+16.95719499999541	EXP	exptinstr: pos = [0,0]
+16.95719499999541	EXP	exptinstr: size = undefined
+16.95719499999541	EXP	exptinstr: text = "In this experiment you will see some words on the screen.\nYou have to decide whether each word is real or not (using English pronunciation!).\nIf it is REAL, press M\nIf it is NOT REAL, press Z\nWe will start with a few practice trials.\nPress the space bar to continue."
+16.95719499999541	EXP	exptinstr: font = "Arial"
+16.95719499999541	EXP	exptinstr: color = {"_hex":"#FFC0CB","_rgb":[1,0.7529411764705882,0.796078431372549]}
+16.95719499999541	EXP	exptinstr: contrast = 1
+16.95719499999541	EXP	exptinstr: height = 0.06
+16.95719499999541	EXP	exptinstr: bold = false
+16.95719499999541	EXP	exptinstr: italic = false
+16.95719499999541	EXP	exptinstr: alignHoriz = "left"
+16.95719499999541	EXP	exptinstr: alignVert = "center"
+16.95719499999541	EXP	exptinstr: wrapWidth = 1
+16.95719499999541	EXP	exptinstr: flipHoriz = false
+16.95719499999541	EXP	exptinstr: flipVert = false
+16.95719499999541	EXP	Fix: units = "height"
+16.95719499999541	EXP	Fix: ori = 0
+16.95719499999541	EXP	Fix: opacity = 1
+16.95719499999541	EXP	Fix: pos = [0,0]
+16.95719499999541	EXP	Fix: size = undefined
+16.95719499999541	EXP	Fix: text = "*"
+16.95719499999541	EXP	Fix: font = "Arial"
+16.95719499999541	EXP	Fix: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	Fix: contrast = 1
+16.95719499999541	EXP	Fix: height = 0.1
+16.95719499999541	EXP	Fix: bold = false
+16.95719499999541	EXP	Fix: italic = false
+16.95719499999541	EXP	Fix: alignHoriz = "left"
+16.95719499999541	EXP	Fix: alignVert = "center"
+16.95719499999541	EXP	Fix: wrapWidth = 1
+16.95719499999541	EXP	Fix: flipHoriz = false
+16.95719499999541	EXP	Fix: flipVert = false
+16.95719499999541	EXP	PTarget1: units = "height"
+16.95719499999541	EXP	PTarget1: ori = 0
+16.95719499999541	EXP	PTarget1: opacity = 1
+16.95719499999541	EXP	PTarget1: pos = [0,0]
+16.95719499999541	EXP	PTarget1: size = undefined
+16.95719499999541	EXP	PTarget1: text = "default text"
+16.95719499999541	EXP	PTarget1: font = "Arial"
+16.95719499999541	EXP	PTarget1: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	PTarget1: contrast = 1
+16.95719499999541	EXP	PTarget1: height = 0.1
+16.95719499999541	EXP	PTarget1: bold = false
+16.95719499999541	EXP	PTarget1: italic = false
+16.95719499999541	EXP	PTarget1: alignHoriz = "left"
+16.95719499999541	EXP	PTarget1: alignVert = "center"
+16.95719499999541	EXP	PTarget1: wrapWidth = 1
+16.95719499999541	EXP	PTarget1: flipHoriz = false
+16.95719499999541	EXP	PTarget1: flipVert = false
+16.95719499999541	EXP	Pprime: units = "height"
+16.95719499999541	EXP	Pprime: ori = 0
+16.95719499999541	EXP	Pprime: opacity = 1
+16.95719499999541	EXP	Pprime: pos = [0,0]
+16.95719499999541	EXP	Pprime: size = undefined
+16.95719499999541	EXP	Pprime: text = "default text"
+16.95719499999541	EXP	Pprime: font = "Arial"
+16.95719499999541	EXP	Pprime: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	Pprime: contrast = 1
+16.95719499999541	EXP	Pprime: height = 0.1
+16.95719499999541	EXP	Pprime: bold = false
+16.95719499999541	EXP	Pprime: italic = false
+16.95719499999541	EXP	Pprime: alignHoriz = "left"
+16.95719499999541	EXP	Pprime: alignVert = "center"
+16.95719499999541	EXP	Pprime: wrapWidth = 1
+16.95719499999541	EXP	Pprime: flipHoriz = false
+16.95719499999541	EXP	Pprime: flipVert = false
+16.95719499999541	EXP	PTarget: units = "height"
+16.95719499999541	EXP	PTarget: ori = 0
+16.95719499999541	EXP	PTarget: opacity = 1
+16.95719499999541	EXP	PTarget: pos = [0,0]
+16.95719499999541	EXP	PTarget: size = undefined
+16.95719499999541	EXP	PTarget: text = "default text"
+16.95719499999541	EXP	PTarget: font = "Arial"
+16.95719499999541	EXP	PTarget: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	PTarget: contrast = 1
+16.95719499999541	EXP	PTarget: height = 0.1
+16.95719499999541	EXP	PTarget: bold = false
+16.95719499999541	EXP	PTarget: italic = false
+16.95719499999541	EXP	PTarget: alignHoriz = "left"
+16.95719499999541	EXP	PTarget: alignVert = "center"
+16.95719499999541	EXP	PTarget: wrapWidth = 1
+16.95719499999541	EXP	PTarget: flipHoriz = false
+16.95719499999541	EXP	PTarget: flipVert = false
+16.95719499999541	EXP	Feedback_2: units = "height"
+16.95719499999541	EXP	Feedback_2: ori = 0
+16.95719499999541	EXP	Feedback_2: opacity = 1
+16.95719499999541	EXP	Feedback_2: pos = [0,0]
+16.95719499999541	EXP	Feedback_2: size = undefined
+16.95719499999541	EXP	Feedback_2: text = "default text"
+16.95719499999541	EXP	Feedback_2: font = "Arial"
+16.95719499999541	EXP	Feedback_2: color = {"_hex":"#FFC0CB","_rgb":[1,0.7529411764705882,0.796078431372549]}
+16.95719499999541	EXP	Feedback_2: contrast = 1
+16.95719499999541	EXP	Feedback_2: height = 0.1
+16.95719499999541	EXP	Feedback_2: bold = false
+16.95719499999541	EXP	Feedback_2: italic = false
+16.95719499999541	EXP	Feedback_2: alignHoriz = "left"
+16.95719499999541	EXP	Feedback_2: alignVert = "center"
+16.95719499999541	EXP	Feedback_2: wrapWidth = 1
+16.95719499999541	EXP	Feedback_2: flipHoriz = false
+16.95719499999541	EXP	Feedback_2: flipVert = false
+16.95719499999541	EXP	text: units = "height"
+16.95719499999541	EXP	text: ori = 0
+16.95719499999541	EXP	text: opacity = 1
+16.95719499999541	EXP	text: pos = [0,0]
+16.95719499999541	EXP	text: size = undefined
+16.95719499999541	EXP	text: text = "Practice over.  Are you ready to start the experiment?\nPress the space bar when you are ready."
+16.95719499999541	EXP	text: font = "Arial"
+16.95719499999541	EXP	text: color = {"_hex":"#FFC0CB","_rgb":[1,0.7529411764705882,0.796078431372549]}
+16.95719499999541	EXP	text: contrast = 1
+16.95719499999541	EXP	text: height = 0.1
+16.95719499999541	EXP	text: bold = false
+16.95719499999541	EXP	text: italic = false
+16.95719499999541	EXP	text: alignHoriz = "left"
+16.95719499999541	EXP	text: alignVert = "center"
+16.95719499999541	EXP	text: wrapWidth = 1
+16.95719499999541	EXP	text: flipHoriz = false
+16.95719499999541	EXP	text: flipVert = false
+16.95719499999541	EXP	Fixation: units = "height"
+16.95719499999541	EXP	Fixation: ori = 0
+16.95719499999541	EXP	Fixation: opacity = 1
+16.95719499999541	EXP	Fixation: pos = [0,0]
+16.95719499999541	EXP	Fixation: size = undefined
+16.95719499999541	EXP	Fixation: text = "*"
+16.95719499999541	EXP	Fixation: font = "Arial"
+16.95719499999541	EXP	Fixation: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	Fixation: contrast = 1
+16.95719499999541	EXP	Fixation: height = 0.1
+16.95719499999541	EXP	Fixation: bold = false
+16.95719499999541	EXP	Fixation: italic = false
+16.95719499999541	EXP	Fixation: alignHoriz = "left"
+16.95719499999541	EXP	Fixation: alignVert = "center"
+16.95719499999541	EXP	Fixation: wrapWidth = 1
+16.95719499999541	EXP	Fixation: flipHoriz = false
+16.95719499999541	EXP	Fixation: flipVert = false
+16.95719499999541	EXP	ETarget1: units = "height"
+16.95719499999541	EXP	ETarget1: ori = 0
+16.95719499999541	EXP	ETarget1: opacity = 1
+16.95719499999541	EXP	ETarget1: pos = [0,0]
+16.95719499999541	EXP	ETarget1: size = undefined
+16.95719499999541	EXP	ETarget1: text = "default text"
+16.95719499999541	EXP	ETarget1: font = "Arial"
+16.95719499999541	EXP	ETarget1: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	ETarget1: contrast = 1
+16.95719499999541	EXP	ETarget1: height = 0.1
+16.95719499999541	EXP	ETarget1: bold = false
+16.95719499999541	EXP	ETarget1: italic = false
+16.95719499999541	EXP	ETarget1: alignHoriz = "left"
+16.95719499999541	EXP	ETarget1: alignVert = "center"
+16.95719499999541	EXP	ETarget1: wrapWidth = 1
+16.95719499999541	EXP	ETarget1: flipHoriz = false
+16.95719499999541	EXP	ETarget1: flipVert = false
+16.95719499999541	EXP	EPrime: units = "height"
+16.95719499999541	EXP	EPrime: ori = 0
+16.95719499999541	EXP	EPrime: opacity = 1
+16.95719499999541	EXP	EPrime: pos = [0,0]
+16.95719499999541	EXP	EPrime: size = undefined
+16.95719499999541	EXP	EPrime: text = "default text"
+16.95719499999541	EXP	EPrime: font = "Arial"
+16.95719499999541	EXP	EPrime: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	EPrime: contrast = 1
+16.95719499999541	EXP	EPrime: height = 0.1
+16.95719499999541	EXP	EPrime: bold = false
+16.95719499999541	EXP	EPrime: italic = false
+16.95719499999541	EXP	EPrime: alignHoriz = "left"
+16.95719499999541	EXP	EPrime: alignVert = "center"
+16.95719499999541	EXP	EPrime: wrapWidth = 1
+16.95719499999541	EXP	EPrime: flipHoriz = false
+16.95719499999541	EXP	EPrime: flipVert = false
+16.95719499999541	EXP	Target: units = "height"
+16.95719499999541	EXP	Target: ori = 0
+16.95719499999541	EXP	Target: opacity = 1
+16.95719499999541	EXP	Target: pos = [0,0]
+16.95719499999541	EXP	Target: size = undefined
+16.95719499999541	EXP	Target: text = "default text"
+16.95719499999541	EXP	Target: font = "Arial"
+16.95719499999541	EXP	Target: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	Target: contrast = 1
+16.95719499999541	EXP	Target: height = 0.1
+16.95719499999541	EXP	Target: bold = false
+16.95719499999541	EXP	Target: italic = false
+16.95719499999541	EXP	Target: alignHoriz = "left"
+16.95719499999541	EXP	Target: alignVert = "center"
+16.95719499999541	EXP	Target: wrapWidth = 1
+16.95719499999541	EXP	Target: flipHoriz = false
+16.95719499999541	EXP	Target: flipVert = false
+16.95719499999541	EXP	text_2: units = "height"
+16.95719499999541	EXP	text_2: ori = 0
+16.95719499999541	EXP	text_2: opacity = 1
+16.95719499999541	EXP	text_2: pos = [0,0]
+16.95719499999541	EXP	text_2: size = undefined
+16.95719499999541	EXP	text_2: text = "This is the end of the first experiment.\nIn the next task, a list of words will be presented on screen. Please read out as many words as possible accordingly (from left to right and top to bottom) in 45 seconds.\nAfter 45 seconds, you will be asked to type in the last word you read.\nPlease press the space bar when you are ready to begin the task."
+16.95719499999541	EXP	text_2: font = "Arial"
+16.95719499999541	EXP	text_2: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	text_2: contrast = 1
+16.95719499999541	EXP	text_2: height = 0.06
+16.95719499999541	EXP	text_2: bold = false
+16.95719499999541	EXP	text_2: italic = false
+16.95719499999541	EXP	text_2: alignHoriz = "left"
+16.95719499999541	EXP	text_2: alignVert = "center"
+16.95719499999541	EXP	text_2: wrapWidth = 1
+16.95719499999541	EXP	text_2: flipHoriz = false
+16.95719499999541	EXP	text_2: flipVert = false
+16.95719499999541	EXP	image: units = "height"
+16.95719499999541	EXP	image: ori = 0
+16.95719499999541	EXP	image: opacity = 1
+16.95719499999541	EXP	image: pos = [0,0]
+16.95719499999541	EXP	image: size = [1.5,1]
+16.95719499999541	EXP	image: image = {}
+16.95719499999541	EXP	image: mask = undefined
+16.95719499999541	EXP	image: color = {"_rgb":[1,1,1]}
+16.95719499999541	EXP	image: contrast = 1
+16.95719499999541	EXP	image: texRes = 128
+16.95719499999541	EXP	image: interpolate = true
+16.95719499999541	EXP	image: depth = 0
+16.95719499999541	EXP	image: flipHoriz = false
+16.95719499999541	EXP	image: flipVert = false
+16.95719499999541	EXP	text_feedback: units = "height"
+16.95719499999541	EXP	text_feedback: ori = 0
+16.95719499999541	EXP	text_feedback: opacity = 1
+16.95719499999541	EXP	text_feedback: pos = [0,0]
+16.95719499999541	EXP	text_feedback: size = undefined
+16.95719499999541	EXP	text_feedback: text = ""
+16.95719499999541	EXP	text_feedback: font = "Arial"
+16.95719499999541	EXP	text_feedback: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	text_feedback: contrast = 1
+16.95719499999541	EXP	text_feedback: height = 0.1
+16.95719499999541	EXP	text_feedback: bold = false
+16.95719499999541	EXP	text_feedback: italic = false
+16.95719499999541	EXP	text_feedback: alignHoriz = "left"
+16.95719499999541	EXP	text_feedback: alignVert = "center"
+16.95719499999541	EXP	text_feedback: wrapWidth = 1
+16.95719499999541	EXP	text_feedback: flipHoriz = false
+16.95719499999541	EXP	text_feedback: flipVert = false
+16.95719499999541	EXP	text_4: units = "height"
+16.95719499999541	EXP	text_4: ori = 0
+16.95719499999541	EXP	text_4: opacity = 1
+16.95719499999541	EXP	text_4: pos = [0,0.25]
+16.95719499999541	EXP	text_4: size = undefined
+16.95719499999541	EXP	text_4: text = "Please type in the last word you read in the wordlist in lowercase letters and press 'return' to advance."
+16.95719499999541	EXP	text_4: font = "Arial"
+16.95719499999541	EXP	text_4: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	text_4: contrast = 1
+16.95719499999541	EXP	text_4: height = 0.06
+16.95719499999541	EXP	text_4: bold = false
+16.95719499999541	EXP	text_4: italic = false
+16.95719499999541	EXP	text_4: alignHoriz = "left"
+16.95719499999541	EXP	text_4: alignVert = "center"
+16.95719499999541	EXP	text_4: wrapWidth = 1
+16.95719499999541	EXP	text_4: flipHoriz = false
+16.95719499999541	EXP	text_4: flipVert = false
+16.95719499999541	EXP	text_7: units = "height"
+16.95719499999541	EXP	text_7: ori = 0
+16.95719499999541	EXP	text_7: opacity = 1
+16.95719499999541	EXP	text_7: pos = [0,0]
+16.95719499999541	EXP	text_7: size = undefined
+16.95719499999541	EXP	text_7: text = "In the next task, a passage will be presented on screen, please read out as quickly as possible in 45 seconds.\nAfter 45 seconds, you will be asked to type in the last sentence/few words you read.\nPlease press the space bar when you are ready to begin the task."
+16.95719499999541	EXP	text_7: font = "Arial"
+16.95719499999541	EXP	text_7: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	text_7: contrast = 1
+16.95719499999541	EXP	text_7: height = 0.06
+16.95719499999541	EXP	text_7: bold = false
+16.95719499999541	EXP	text_7: italic = false
+16.95719499999541	EXP	text_7: alignHoriz = "left"
+16.95719499999541	EXP	text_7: alignVert = "center"
+16.95719499999541	EXP	text_7: wrapWidth = 1
+16.95719499999541	EXP	text_7: flipHoriz = false
+16.95719499999541	EXP	text_7: flipVert = false
+16.95719499999541	EXP	image_2: units = "height"
+16.95719499999541	EXP	image_2: ori = 0
+16.95719499999541	EXP	image_2: opacity = 1
+16.95719499999541	EXP	image_2: pos = [0,0]
+16.95719499999541	EXP	image_2: size = [1.5,1]
+16.95719499999541	EXP	image_2: image = {}
+16.95719499999541	EXP	image_2: mask = undefined
+16.95719499999541	EXP	image_2: color = {"_rgb":[1,1,1]}
+16.95719499999541	EXP	image_2: contrast = 1
+16.95719499999541	EXP	image_2: texRes = 128
+16.95719499999541	EXP	image_2: interpolate = true
+16.95719499999541	EXP	image_2: depth = 0
+16.95719499999541	EXP	image_2: flipHoriz = false
+16.95719499999541	EXP	image_2: flipVert = false
+16.95719499999541	EXP	text_feedback2: units = "height"
+16.95719499999541	EXP	text_feedback2: ori = 0
+16.95719499999541	EXP	text_feedback2: opacity = 1
+16.95719499999541	EXP	text_feedback2: pos = [0,0]
+16.95719499999541	EXP	text_feedback2: size = undefined
+16.95719499999541	EXP	text_feedback2: text = ""
+16.95719499999541	EXP	text_feedback2: font = "Arial"
+16.95719499999541	EXP	text_feedback2: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	text_feedback2: contrast = 1
+16.95719499999541	EXP	text_feedback2: height = 0.1
+16.95719499999541	EXP	text_feedback2: bold = false
+16.95719499999541	EXP	text_feedback2: italic = false
+16.95719499999541	EXP	text_feedback2: alignHoriz = "left"
+16.95719499999541	EXP	text_feedback2: alignVert = "center"
+16.95719499999541	EXP	text_feedback2: wrapWidth = 1
+16.95719499999541	EXP	text_feedback2: flipHoriz = false
+16.95719499999541	EXP	text_feedback2: flipVert = false
+16.95719499999541	EXP	text_5: units = "height"
+16.95719499999541	EXP	text_5: ori = 0
+16.95719499999541	EXP	text_5: opacity = 1
+16.95719499999541	EXP	text_5: pos = [0,0.25]
+16.95719499999541	EXP	text_5: size = undefined
+16.95719499999541	EXP	text_5: text = "Please type in the last sentence/ few words you read in the passage in lowercase letters and press 'return' to advance."
+16.95719499999541	EXP	text_5: font = "Arial"
+16.95719499999541	EXP	text_5: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	text_5: contrast = 1
+16.95719499999541	EXP	text_5: height = 0.06
+16.95719499999541	EXP	text_5: bold = false
+16.95719499999541	EXP	text_5: italic = false
+16.95719499999541	EXP	text_5: alignHoriz = "left"
+16.95719499999541	EXP	text_5: alignVert = "center"
+16.95719499999541	EXP	text_5: wrapWidth = 1
+16.95719499999541	EXP	text_5: flipHoriz = false
+16.95719499999541	EXP	text_5: flipVert = false
+16.95719499999541	EXP	TheEnd: units = "height"
+16.95719499999541	EXP	TheEnd: ori = 0
+16.95719499999541	EXP	TheEnd: opacity = 1
+16.95719499999541	EXP	TheEnd: pos = [0,0]
+16.95719499999541	EXP	TheEnd: size = undefined
+16.95719499999541	EXP	TheEnd: text = "This is the end of the experiment, please press any keys to end the experiment and proceed to the post-experiment survey."
+16.95719499999541	EXP	TheEnd: font = "Arial"
+16.95719499999541	EXP	TheEnd: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+16.95719499999541	EXP	TheEnd: contrast = 1
+16.95719499999541	EXP	TheEnd: height = 0.1
+16.95719499999541	EXP	TheEnd: bold = false
+16.95719499999541	EXP	TheEnd: italic = false
+16.95719499999541	EXP	TheEnd: alignHoriz = "left"
+16.95719499999541	EXP	TheEnd: alignVert = "center"
+16.95719499999541	EXP	TheEnd: wrapWidth = 1
+16.95719499999541	EXP	TheEnd: flipHoriz = false
+16.95719499999541	EXP	TheEnd: flipVert = false
+16.95719499999541	EXP	initialinstr: autoDraw = true
+18.09865999998874	DATA	Keydown:  
+18.13112499998533	EXP	initialinstr: autoDraw = false
+18.13112499998533	EXP	exptinstr: autoDraw = true
+26.132834999996703	DATA	Keydown:  
+26.182954999996582	EXP	exptinstr: autoDraw = false
+26.182954999996582	EXP	PTarget1: text = "festival"
+26.182954999996582	EXP	Pprime: text = "fetsival"
+26.69682000001194	EXP	Fix: autoDraw = true
+27.67975499999011	EXP	Fix: autoDraw = false
+27.69836999999825	EXP	PTarget1: autoDraw = true
+27.712930000008782	EXP	PTarget1: autoDraw = false
+27.729649999993853	EXP	Pprime: autoDraw = true
+27.76348500000313	EXP	Fix: autoDraw = false
+27.76348500000313	EXP	PTarget1: autoDraw = false
+27.76348500000313	EXP	Pprime: autoDraw = false
+27.76348500000313	EXP	PTarget: text = "FESTIVAL"
+27.76348500000313	EXP	PTarget: autoDraw = true
+28.796629999997094	DATA	Keydown: m
+28.81300999998348	EXP	PTarget: autoDraw = false
+28.81300999998348	EXP	Feedback_2: text = "Correct!"
+28.81300999998348	EXP	Feedback_2: autoDraw = true
+29.81239999999525	EXP	Feedback_2: autoDraw = false
+29.81239999999525	EXP	Feedback_2: autoDraw = false
+29.81239999999525	EXP	PTarget1: text = "campet"
+29.81239999999525	EXP	Pprime: text = "cantet"
+30.328619999985676	EXP	Fix: autoDraw = true
+31.31093000000692	EXP	Fix: autoDraw = false
+31.32859499999904	EXP	PTarget1: autoDraw = true
+31.346055000001797	EXP	PTarget1: autoDraw = false
+31.346055000001797	EXP	Pprime: autoDraw = true
+31.412615000008373	EXP	Pprime: autoDraw = false
+31.412615000008373	EXP	Fix: autoDraw = false
+31.412615000008373	EXP	PTarget1: autoDraw = false
+31.412615000008373	EXP	Pprime: autoDraw = false
+31.412615000008373	EXP	PTarget: text = "CAMPET"
+31.412615000008373	EXP	PTarget: autoDraw = true
+32.37936500000069	DATA	Keydown: z
+32.3961249999993	EXP	PTarget: autoDraw = false
+32.3961249999993	EXP	Feedback_2: text = "Correct!"
+32.3961249999993	EXP	Feedback_2: autoDraw = true
+33.39549999998417	EXP	Feedback_2: autoDraw = false
+33.39549999998417	EXP	Feedback_2: autoDraw = false
+33.39549999998417	EXP	PTarget1: text = "violin"
+33.39549999998417	EXP	Pprime: text = "viprin"
+33.91213000001153	EXP	Fix: autoDraw = true
+34.89546999998856	EXP	Fix: autoDraw = false
+34.91269500000635	EXP	PTarget1: autoDraw = true
+34.91269500000635	EXP	PTarget1: autoDraw = false
+34.92965999999433	EXP	Pprime: autoDraw = true
+34.998259999993024	EXP	Pprime: autoDraw = false
+34.998259999993024	EXP	Fix: autoDraw = false
+34.998259999993024	EXP	PTarget1: autoDraw = false
+34.998259999993024	EXP	Pprime: autoDraw = false
+34.998259999993024	EXP	PTarget: text = "VIOLIN"
+34.998259999993024	EXP	PTarget: autoDraw = true
+35.72982999999658	DATA	Keydown: m
+35.74666000000434	EXP	PTarget: autoDraw = false
+35.74666000000434	EXP	Feedback_2: text = "Correct!"
+35.74666000000434	EXP	Feedback_2: autoDraw = true
+36.74627999999211	EXP	Feedback_2: autoDraw = false
+36.74627999999211	EXP	Feedback_2: autoDraw = false
+36.74627999999211	EXP	PTarget1: text = "picture"
+36.74627999999211	EXP	Pprime: text = "pimrure"
+37.26259999998729	EXP	Fix: autoDraw = true
+38.24350499999127	EXP	Fix: autoDraw = false
+38.26336499999161	EXP	PTarget1: autoDraw = true
+38.26336499999161	EXP	PTarget1: autoDraw = false
+38.28046000000904	EXP	Pprime: autoDraw = true
+38.34828499998548	EXP	Pprime: autoDraw = false
+38.34828499998548	EXP	Fix: autoDraw = false
+38.34828499998548	EXP	PTarget1: autoDraw = false
+38.34828499998548	EXP	Pprime: autoDraw = false
+38.34828499998548	EXP	PTarget: text = "PICTURE"
+38.34828499998548	EXP	PTarget: autoDraw = true
+39.030529999989085	DATA	Keydown: m
+39.046054999984335	EXP	PTarget: autoDraw = false
+39.046054999984335	EXP	Feedback_2: text = "Correct!"
+39.046054999984335	EXP	Feedback_2: autoDraw = true
+40.04584000000614	EXP	Feedback_2: autoDraw = false
+40.04584000000614	EXP	Feedback_2: autoDraw = false
+40.04584000000614	EXP	PTarget1: text = "bubbfes"
+40.04584000000614	EXP	Pprime: text = "buddfes"
+40.561820000002626	EXP	Fix: autoDraw = true
+41.54591499999515	EXP	Fix: autoDraw = false
+41.56284999998752	EXP	PTarget1: autoDraw = true
+41.56284999998752	EXP	PTarget1: autoDraw = false
+41.580435000010766	EXP	Pprime: autoDraw = true
+41.64702499998384	EXP	Pprime: autoDraw = false
+41.64702499998384	EXP	Fix: autoDraw = false
+41.64702499998384	EXP	PTarget1: autoDraw = false
+41.64702499998384	EXP	Pprime: autoDraw = false
+41.64702499998384	EXP	PTarget: text = "BUBBFES"
+41.64702499998384	EXP	PTarget: autoDraw = true
+42.346409999998286	DATA	Keydown: z
+42.36314999999013	EXP	PTarget: autoDraw = false
+42.36314999999013	EXP	Feedback_2: text = "Correct!"
+42.36314999999013	EXP	Feedback_2: autoDraw = true
+43.36273500000243	EXP	Feedback_2: autoDraw = false
+43.36273500000243	EXP	Feedback_2: autoDraw = false
+43.36273500000243	EXP	PTarget1: text = "coral"
+43.36273500000243	EXP	Pprime: text = "croal"
+43.879610000003595	EXP	Fix: autoDraw = true
+44.859874999994645	EXP	Fix: autoDraw = false
+44.87940499998513	EXP	PTarget1: autoDraw = true
+44.87940499998513	EXP	PTarget1: autoDraw = false
+44.89679999998771	EXP	Pprime: autoDraw = true
+44.96353499998804	EXP	Pprime: autoDraw = false
+44.96353499998804	EXP	Fix: autoDraw = false
+44.96353499998804	EXP	PTarget1: autoDraw = false
+44.96353499998804	EXP	Pprime: autoDraw = false
+44.96353499998804	EXP	PTarget: text = "CORAL"
+44.96353499998804	EXP	PTarget: autoDraw = true
+45.530334999988554	DATA	Keydown: m
+45.54628999999841	EXP	PTarget: autoDraw = false
+45.54628999999841	EXP	Feedback_2: text = "Correct!"
+45.54628999999841	EXP	Feedback_2: autoDraw = true
+46.545879999990575	EXP	Feedback_2: autoDraw = false
+46.545879999990575	EXP	Feedback_2: autoDraw = false
+46.545879999990575	EXP	PTarget1: text = "bacoon"
+46.545879999990575	EXP	Pprime: text = "barkon"
+47.06175500000245	EXP	Fix: autoDraw = true
+48.045429999998305	EXP	Fix: autoDraw = false
+48.06273499998497	EXP	PTarget1: autoDraw = true
+48.06273499998497	EXP	PTarget1: autoDraw = false
+48.080394999997225	EXP	Pprime: autoDraw = true
+48.14640500000678	EXP	Pprime: autoDraw = false
+48.14640500000678	EXP	Fix: autoDraw = false
+48.14640500000678	EXP	PTarget1: autoDraw = false
+48.14640500000678	EXP	Pprime: autoDraw = false
+48.14640500000678	EXP	PTarget: text = "BACOON"
+48.14640500000678	EXP	PTarget: autoDraw = true
+48.796875	DATA	Keydown: z
+48.813040000008186	EXP	PTarget: autoDraw = false
+48.813040000008186	EXP	Feedback_2: text = "Correct!"
+48.813040000008186	EXP	Feedback_2: autoDraw = true
+49.81250500000897	EXP	Feedback_2: autoDraw = false
+49.81250500000897	EXP	Feedback_2: autoDraw = false
+49.81250500000897	EXP	PTarget1: text = "codfort"
+49.81250500000897	EXP	Pprime: text = "cofdort"
+50.31260000000475	EXP	Fix: autoDraw = true
+51.307969999994384	EXP	Fix: autoDraw = false
+51.32850500001223	EXP	PTarget1: autoDraw = true
+51.32850500001223	EXP	PTarget1: autoDraw = false
+51.34576999998535	EXP	Pprime: autoDraw = true
+51.398259999987204	EXP	Pprime: autoDraw = false
+51.398259999987204	EXP	Fix: autoDraw = false
+51.398259999987204	EXP	PTarget1: autoDraw = false
+51.398259999987204	EXP	Pprime: autoDraw = false
+51.398259999987204	EXP	PTarget: text = "CODFORT"
+51.398259999987204	EXP	PTarget: autoDraw = true
+52.16435000000638	DATA	Keydown: z
+52.179570000007516	EXP	PTarget: autoDraw = false
+52.179570000007516	EXP	Feedback_2: text = "Correct!"
+52.179570000007516	EXP	Feedback_2: autoDraw = true
+53.179295000009006	EXP	Feedback_2: autoDraw = false
+53.179295000009006	EXP	Feedback_2: autoDraw = false
+53.179295000009006	EXP	PTarget1: text = "cobcert"
+53.179295000009006	EXP	Pprime: text = "cocbert"
+53.695295000012266	EXP	Fix: autoDraw = true
+54.67921999999089	EXP	Fix: autoDraw = false
+54.69636000000173	EXP	PTarget1: autoDraw = true
+54.713394999998854	EXP	PTarget1: autoDraw = false
+54.713394999998854	EXP	Pprime: autoDraw = true
+54.779799999989336	EXP	Pprime: autoDraw = false
+54.779799999989336	EXP	Fix: autoDraw = false
+54.779799999989336	EXP	PTarget1: autoDraw = false
+54.779799999989336	EXP	Pprime: autoDraw = false
+54.779799999989336	EXP	PTarget: text = "COBCERT"
+54.779799999989336	EXP	PTarget: autoDraw = true
+55.51363999999012	DATA	Keydown: z
+55.529229999985546	EXP	PTarget: autoDraw = false
+55.529229999985546	EXP	Feedback_2: text = "Correct!"
+55.529229999985546	EXP	Feedback_2: autoDraw = true
+56.529000000009546	EXP	Feedback_2: autoDraw = false
+56.529000000009546	EXP	Feedback_2: autoDraw = false
+56.529000000009546	EXP	PTarget1: text = "fifty"
+56.529000000009546	EXP	Pprime: text = "fitfy"
+57.044779999996535	EXP	Fix: autoDraw = true
+58.026284999999916	EXP	Fix: autoDraw = false
+58.045879999990575	EXP	PTarget1: autoDraw = true
+58.045879999990575	EXP	PTarget1: autoDraw = false
+58.06385499998578	EXP	Pprime: autoDraw = true
+58.13011500000721	EXP	Pprime: autoDraw = false
+58.13011500000721	EXP	Fix: autoDraw = false
+58.13011500000721	EXP	PTarget1: autoDraw = false
+58.13011500000721	EXP	Pprime: autoDraw = false
+58.13011500000721	EXP	PTarget: text = "FIFTY"
+58.13011500000721	EXP	PTarget: autoDraw = true
+58.729335000010906	DATA	Keydown: m
+58.746080000011716	EXP	PTarget: autoDraw = false
+58.746080000011716	EXP	Feedback_2: text = "Correct!"
+58.746080000011716	EXP	Feedback_2: autoDraw = true
+59.74591500000679	EXP	Feedback_2: autoDraw = false
+59.74591500000679	EXP	Feedback_2: autoDraw = false
+59.74591500000679	EXP	PTarget1: text = "nursery"
+59.74591500000679	EXP	Pprime: text = "nuftery"
+60.26240499998676	EXP	Fix: autoDraw = true
+61.245785000006435	EXP	Fix: autoDraw = false
+61.262965000001714	EXP	PTarget1: autoDraw = true
+61.27932500001043	EXP	PTarget1: autoDraw = false
+61.27932500001043	EXP	Pprime: autoDraw = true
+61.34458999999333	EXP	Pprime: autoDraw = false
+61.34458999999333	EXP	Fix: autoDraw = false
+61.34458999999333	EXP	PTarget1: autoDraw = false
+61.34458999999333	EXP	Pprime: autoDraw = false
+61.34458999999333	EXP	PTarget: text = "NURSERY"
+61.34458999999333	EXP	PTarget: autoDraw = true
+61.99635999999009	DATA	Keydown: m
+62.012864999996964	EXP	PTarget: autoDraw = false
+62.012864999996964	EXP	Feedback_2: text = "Correct!"
+62.012864999996964	EXP	Feedback_2: autoDraw = true
+63.01257500000065	EXP	Feedback_2: autoDraw = false
+63.01257500000065	EXP	Feedback_2: autoDraw = false
+63.01257500000065	EXP	PTarget1: text = "cnipper"
+63.01257500000065	EXP	Pprime: text = "crupper"
+63.51188999999431	EXP	Fix: autoDraw = true
+64.51261999999406	EXP	Fix: autoDraw = false
+64.51261999999406	EXP	PTarget1: autoDraw = true
+64.528330000001	EXP	PTarget1: autoDraw = false
+64.54459499998484	EXP	Pprime: autoDraw = true
+64.6123849999858	EXP	Pprime: autoDraw = false
+64.6123849999858	EXP	Fix: autoDraw = false
+64.6123849999858	EXP	PTarget1: autoDraw = false
+64.6123849999858	EXP	Pprime: autoDraw = false
+64.6123849999858	EXP	PTarget: text = "CNIPPER"
+64.6123849999858	EXP	PTarget: autoDraw = true
+65.14645000000019	DATA	Keydown: z
+65.16320499998983	EXP	PTarget: autoDraw = false
+65.16320499998983	EXP	Feedback_2: text = "Correct!"
+65.16320499998983	EXP	Feedback_2: autoDraw = true
+66.16215499999817	EXP	Feedback_2: autoDraw = false
+66.16215499999817	EXP	Feedback_2: autoDraw = false
+66.16215499999817	EXP	PTarget1: text = "twitter"
+66.16215499999817	EXP	Pprime: text = "twitofr"
+66.67936499998905	EXP	Fix: autoDraw = true
+67.65974500001175	EXP	Fix: autoDraw = false
+67.67944499998703	EXP	PTarget1: autoDraw = true
+67.67944499998703	EXP	PTarget1: autoDraw = false
+67.69670000000042	EXP	Pprime: autoDraw = true
+67.76516999999876	EXP	Pprime: autoDraw = false
+67.76516999999876	EXP	Fix: autoDraw = false
+67.76516999999876	EXP	PTarget1: autoDraw = false
+67.76516999999876	EXP	Pprime: autoDraw = false
+67.76516999999876	EXP	PTarget: text = "TWITTER"
+67.76516999999876	EXP	PTarget: autoDraw = true
+68.29612499999348	DATA	Keydown: m
+68.31293499999447	EXP	PTarget: autoDraw = false
+68.31293499999447	EXP	Feedback_2: text = "Correct!"
+68.31293499999447	EXP	Feedback_2: autoDraw = true
+69.31216000000131	EXP	Feedback_2: autoDraw = false
+69.31216000000131	EXP	Feedback_2: autoDraw = false
+69.31216000000131	EXP	PTarget1: text = "library"
+69.31216000000131	EXP	Pprime: text = "lirbary"
+69.82879500000854	EXP	Fix: autoDraw = true
+70.81307000000379	EXP	Fix: autoDraw = false
+70.8285699999833	EXP	PTarget1: autoDraw = true
+70.8285699999833	EXP	PTarget1: autoDraw = false
+70.84646500000963	EXP	Pprime: autoDraw = true
+70.91289499998675	EXP	Pprime: autoDraw = false
+70.91289499998675	EXP	Fix: autoDraw = false
+70.91289499998675	EXP	PTarget1: autoDraw = false
+70.91289499998675	EXP	Pprime: autoDraw = false
+70.91289499998675	EXP	PTarget: text = "LIBRARY"
+70.91289499998675	EXP	PTarget: autoDraw = true
+71.36244999998598	DATA	Keydown: m
+71.37893499998609	EXP	PTarget: autoDraw = false
+71.37893499998609	EXP	Feedback_2: text = "Correct!"
+71.37893499998609	EXP	Feedback_2: autoDraw = true
+72.3790399999998	EXP	Feedback_2: autoDraw = false
+72.3790399999998	EXP	Feedback_2: autoDraw = false
+72.3790399999998	EXP	PTarget1: text = "chfistmas"
+72.3790399999998	EXP	Pprime: text = "chrustmas"
+72.87875999999233	EXP	Fix: autoDraw = true
+73.87606999999844	EXP	Fix: autoDraw = false
+73.89595000000554	EXP	PTarget1: autoDraw = true
+73.89595000000554	EXP	PTarget1: autoDraw = false
+73.91317499999423	EXP	Pprime: autoDraw = true
+73.97974499998963	EXP	Pprime: autoDraw = false
+73.97974499998963	EXP	Fix: autoDraw = false
+73.97974499998963	EXP	PTarget1: autoDraw = false
+73.97974499998963	EXP	Pprime: autoDraw = false
+73.97974499998963	EXP	PTarget: text = "CHFISTMAS"
+73.97974499998963	EXP	PTarget: autoDraw = true
+74.6463250000088	DATA	Keydown: z
+74.662565000006	EXP	PTarget: autoDraw = false
+74.662565000006	EXP	Feedback_2: text = "Correct!"
+74.662565000006	EXP	Feedback_2: autoDraw = true
+75.6621799999848	EXP	Feedback_2: autoDraw = false
+75.6621799999848	EXP	Feedback_2: autoDraw = false
+75.6621799999848	EXP	PTarget1: text = "etephant"
+75.6621799999848	EXP	Pprime: text = "etpheant"
+76.16190999999526	EXP	Fix: autoDraw = true
+77.15935500001069	EXP	Fix: autoDraw = false
+77.17939499998465	EXP	PTarget1: autoDraw = true
+77.17939499998465	EXP	PTarget1: autoDraw = false
+77.19600500000524	EXP	Pprime: autoDraw = true
+77.26276000001235	EXP	Pprime: autoDraw = false
+77.26276000001235	EXP	Fix: autoDraw = false
+77.26276000001235	EXP	PTarget1: autoDraw = false
+77.26276000001235	EXP	Pprime: autoDraw = false
+77.26276000001235	EXP	PTarget: text = "ETEPHANT"
+77.26276000001235	EXP	PTarget: autoDraw = true
+78.12823500001105	DATA	Keydown: z
+78.14588999998523	EXP	PTarget: autoDraw = false
+78.14588999998523	EXP	Feedback_2: text = "Correct!"
+78.14588999998523	EXP	Feedback_2: autoDraw = true
+79.1289950000064	EXP	Feedback_2: autoDraw = false
+79.1289950000064	EXP	Feedback_2: autoDraw = false
+79.1289950000064	EXP	PTarget1: text = "elderflower"
+79.1289950000064	EXP	Pprime: text = "elferdower"
+79.64540000000852	EXP	Fix: autoDraw = true
+80.62594500000705	EXP	Fix: autoDraw = false
+80.64605999999912	EXP	PTarget1: autoDraw = true
+80.66284999999334	EXP	PTarget1: autoDraw = false
+80.66284999999334	EXP	Pprime: autoDraw = true
+80.72946999999112	EXP	Pprime: autoDraw = false
+80.72946999999112	EXP	Fix: autoDraw = false
+80.72946999999112	EXP	PTarget1: autoDraw = false
+80.72946999999112	EXP	Pprime: autoDraw = false
+80.72946999999112	EXP	PTarget: text = "ELDERFLOWER"
+80.72946999999112	EXP	PTarget: autoDraw = true
+81.44641499998397	DATA	Keydown: m
+81.46258500000113	EXP	PTarget: autoDraw = false
+81.46258500000113	EXP	Feedback_2: text = "Correct!"
+81.46258500000113	EXP	Feedback_2: autoDraw = true
+82.46169999998529	EXP	Feedback_2: autoDraw = false
+82.46169999998529	EXP	Feedback_2: autoDraw = false
+82.46169999998529	EXP	PTarget1: text = "dinital"
+82.46169999998529	EXP	Pprime: text = "ditinal"
+82.96166500000982	EXP	Fix: autoDraw = true
+83.96226000000024	EXP	Fix: autoDraw = false
+83.96226000000024	EXP	PTarget1: autoDraw = true
+83.978689999989	EXP	PTarget1: autoDraw = false
+83.99568500000169	EXP	Pprime: autoDraw = true
+84.06301499999245	EXP	Pprime: autoDraw = false
+84.06301499999245	EXP	Fix: autoDraw = false
+84.06301499999245	EXP	PTarget1: autoDraw = false
+84.06301499999245	EXP	Pprime: autoDraw = false
+84.06301499999245	EXP	PTarget: text = "DINITAL"
+84.06301499999245	EXP	PTarget: autoDraw = true
+84.76319999998668	DATA	Keydown: z
+84.77904500000295	EXP	PTarget: autoDraw = false
+84.77904500000295	EXP	Feedback_2: text = "Correct!"
+84.77904500000295	EXP	Feedback_2: autoDraw = true
+85.77867500000866	EXP	Feedback_2: autoDraw = false
+85.77867500000866	EXP	Feedback_2: autoDraw = false
+85.77867500000866	EXP	PTarget1: text = "laundry"
+85.77867500000866	EXP	Pprime: text = "laudnry"
+86.29415000000154	EXP	Fix: autoDraw = true
+87.27885000000242	EXP	Fix: autoDraw = false
+87.2952299999888	EXP	PTarget1: autoDraw = true
+87.2952299999888	EXP	PTarget1: autoDraw = false
+87.3127450000029	EXP	Pprime: autoDraw = true
+87.37959999998566	EXP	Pprime: autoDraw = false
+87.37959999998566	EXP	Fix: autoDraw = false
+87.37959999998566	EXP	PTarget1: autoDraw = false
+87.37959999998566	EXP	Pprime: autoDraw = false
+87.37959999998566	EXP	PTarget: text = "LAUNDRY"
+87.37959999998566	EXP	PTarget: autoDraw = true
+87.87960499999463	DATA	Keydown: m
+87.89567500000703	EXP	PTarget: autoDraw = false
+87.89567500000703	EXP	Feedback_2: text = "Correct!"
+87.89567500000703	EXP	Feedback_2: autoDraw = true
+88.89538500001072	EXP	Feedback_2: autoDraw = false
+88.89538500001072	EXP	Feedback_2: autoDraw = false
+88.89538500001072	EXP	PTarget1: text = "parcel"
+88.89538500001072	EXP	Pprime: text = "pafbel"
+89.41190499998629	EXP	Fix: autoDraw = true
+90.39244500000495	EXP	Fix: autoDraw = false
+90.41208999999799	EXP	PTarget1: autoDraw = true
+90.41208999999799	EXP	PTarget1: autoDraw = false
+90.42960000000312	EXP	Pprime: autoDraw = true
+90.49577999999747	EXP	Pprime: autoDraw = false
+90.49577999999747	EXP	Fix: autoDraw = false
+90.49577999999747	EXP	PTarget1: autoDraw = false
+90.49577999999747	EXP	Pprime: autoDraw = false
+90.49577999999747	EXP	PTarget: text = "PARCEL"
+90.49577999999747	EXP	PTarget: autoDraw = true
+91.68088999998872	DATA	Keydown: m
+91.69546499999706	EXP	PTarget: autoDraw = false
+91.69546499999706	EXP	Feedback_2: text = "Correct!"
+91.69546499999706	EXP	Feedback_2: autoDraw = true
+92.69518999999855	EXP	Feedback_2: autoDraw = false
+92.69518999999855	EXP	Feedback_2: autoDraw = false
+92.69518999999855	EXP	PTarget1: text = "alacus"
+92.69518999999855	EXP	Pprime: text = "afogus"
+93.19529500001227	EXP	Fix: autoDraw = true
+94.19487999999546	EXP	Fix: autoDraw = false
+94.21192500001052	EXP	PTarget1: autoDraw = true
+94.21192500001052	EXP	PTarget1: autoDraw = false
+94.2292749999906	EXP	Pprime: autoDraw = true
+94.29611999998451	EXP	Pprime: autoDraw = false
+94.29611999998451	EXP	Fix: autoDraw = false
+94.29611999998451	EXP	PTarget1: autoDraw = false
+94.29611999998451	EXP	Pprime: autoDraw = false
+94.29611999998451	EXP	PTarget: text = "ALACUS"
+94.29611999998451	EXP	PTarget: autoDraw = true
+95.12919000000693	DATA	Keydown: z
+95.14569999999367	EXP	PTarget: autoDraw = false
+95.14569999999367	EXP	Feedback_2: text = "Correct!"
+95.14569999999367	EXP	Feedback_2: autoDraw = true
+96.14480999999796	EXP	Feedback_2: autoDraw = false
+96.14480999999796	EXP	Feedback_2: autoDraw = false
+96.14480999999796	EXP	PTarget1: text = "flech"
+96.14480999999796	EXP	Pprime: text = "felch"
+96.66200499999104	EXP	Fix: autoDraw = true
+97.64568499999586	EXP	Fix: autoDraw = false
+97.64568499999586	EXP	PTarget1: autoDraw = true
+97.66182999999728	EXP	PTarget1: autoDraw = false
+97.67925499999546	EXP	Pprime: autoDraw = true
+97.74567499998375	EXP	Pprime: autoDraw = false
+97.74567499998375	EXP	Fix: autoDraw = false
+97.74567499998375	EXP	PTarget1: autoDraw = false
+97.74567499998375	EXP	Pprime: autoDraw = false
+97.74567499998375	EXP	PTarget: text = "FLECH"
+97.74567499998375	EXP	PTarget: autoDraw = true
+98.46388500000467	DATA	Keydown: z
+98.47903499999666	EXP	PTarget: autoDraw = false
+98.47903499999666	EXP	Feedback_2: text = "Correct!"
+98.47903499999666	EXP	Feedback_2: autoDraw = true
+99.47876500000712	EXP	Feedback_2: autoDraw = false
+99.47876500000712	EXP	Feedback_2: autoDraw = false
+99.47876500000712	EXP	PTarget1: text = "clirate"
+99.47876500000712	EXP	Pprime: text = "crilate"
+99.9953300000052	EXP	Fix: autoDraw = true
+100.97566999998526	EXP	Fix: autoDraw = false
+100.99520499998471	EXP	PTarget1: autoDraw = true
+100.99520499998471	EXP	PTarget1: autoDraw = false
+101.012705000001	EXP	Pprime: autoDraw = true
+101.07928999999422	EXP	Pprime: autoDraw = false
+101.07928999999422	EXP	Fix: autoDraw = false
+101.07928999999422	EXP	PTarget1: autoDraw = false
+101.07928999999422	EXP	Pprime: autoDraw = false
+101.07928999999422	EXP	PTarget: text = "CLIRATE"
+101.07928999999422	EXP	PTarget: autoDraw = true
+103.21262999999453	DATA	Keydown: z
+103.22844999999506	EXP	PTarget: autoDraw = false
+103.22844999999506	EXP	Feedback_2: text = "Correct!"
+103.22844999999506	EXP	Feedback_2: autoDraw = true
+104.2282300000079	EXP	Feedback_2: autoDraw = false
+104.2282300000079	EXP	Feedback_2: autoDraw = false
+104.2282300000079	EXP	PTarget1: text = "monopoly"
+104.2282300000079	EXP	Pprime: text = "mogomoly"
+104.74546000000555	EXP	Fix: autoDraw = true
+105.72795000000042	EXP	Fix: autoDraw = false
+105.74523000000045	EXP	PTarget1: autoDraw = true
+105.74523000000045	EXP	PTarget1: autoDraw = false
+105.76257500000065	EXP	Pprime: autoDraw = true
+105.82869500000379	EXP	Pprime: autoDraw = false
+105.82869500000379	EXP	Fix: autoDraw = false
+105.82869500000379	EXP	PTarget1: autoDraw = false
+105.82869500000379	EXP	Pprime: autoDraw = false
+105.82869500000379	EXP	PTarget: text = "MONOPOLY"
+105.82869500000379	EXP	PTarget: autoDraw = true
+106.51535000000149	DATA	Keydown: m
+106.52875500000664	EXP	PTarget: autoDraw = false
+106.52875500000664	EXP	Feedback_2: text = "Correct!"
+106.52875500000664	EXP	Feedback_2: autoDraw = true
+107.53557499998715	EXP	Feedback_2: autoDraw = false
+107.53557499998715	EXP	Feedback_2: autoDraw = false
+107.53557499998715	EXP	text: autoDraw = true
+110.34776499998407	DATA	Keydown:  
+110.40179000000353	EXP	text: autoDraw = false
+110.40179000000353	EXP	ETarget1: text = "swallow"
+110.40179000000353	EXP	EPrime: text = "swalolw"
+110.91278499999316	EXP	Fixation: autoDraw = true
+111.9134400000039	EXP	Fixation: autoDraw = false
+111.9134400000039	EXP	ETarget1: autoDraw = true
+111.9273600000015	EXP	ETarget1: autoDraw = false
+111.94486499999766	EXP	EPrime: autoDraw = true
+111.96223000000464	EXP	Fixation: autoDraw = false
+111.96223000000464	EXP	ETarget1: autoDraw = false
+111.96223000000464	EXP	EPrime: autoDraw = false
+111.96223000000464	EXP	Target: text = "SWALLOW"
+111.96223000000464	EXP	Target: autoDraw = true
+112.52929999999469	DATA	Keydown: m
+112.54490999999689	EXP	Target: autoDraw = false
+112.54490999999689	EXP	ETarget1: text = "stull"
+112.54490999999689	EXP	EPrime: text = "storl"
+113.06167999998434	EXP	Fixation: autoDraw = true
+114.0452299999888	EXP	Fixation: autoDraw = false
+114.0452299999888	EXP	ETarget1: autoDraw = true
+114.06157499999972	EXP	ETarget1: autoDraw = false
+114.0785099999921	EXP	EPrime: autoDraw = true
+114.14522999999463	EXP	EPrime: autoDraw = false
+114.14522999999463	EXP	Fixation: autoDraw = false
+114.14522999999463	EXP	ETarget1: autoDraw = false
+114.14522999999463	EXP	EPrime: autoDraw = false
+114.14522999999463	EXP	Target: text = "STULL"
+114.14522999999463	EXP	Target: autoDraw = true
+115.09632000001147	DATA	Keydown: z
+115.11165499998606	EXP	Target: autoDraw = false
+115.11165499998606	EXP	ETarget1: text = "tourist"
+115.11165499998606	EXP	EPrime: text = "toursit"
+115.62820000000647	EXP	Fixation: autoDraw = true
+116.61217000000761	EXP	Fixation: autoDraw = false
+116.62814499999513	EXP	ETarget1: autoDraw = true
+116.62814499999513	EXP	ETarget1: autoDraw = false
+116.64579499998945	EXP	EPrime: autoDraw = true
+116.71247500000754	EXP	EPrime: autoDraw = false
+116.71247500000754	EXP	Fixation: autoDraw = false
+116.71247500000754	EXP	ETarget1: autoDraw = false
+116.71247500000754	EXP	EPrime: autoDraw = false
+116.71247500000754	EXP	Target: text = "TOURIST"
+116.71247500000754	EXP	Target: autoDraw = true
+117.36149000001024	DATA	Keydown: m
+117.37843000001158	EXP	Target: autoDraw = false
+117.37843000001158	EXP	ETarget1: text = "wilked"
+117.37843000001158	EXP	EPrime: text = "winted"
+117.89378499999293	EXP	Fixation: autoDraw = true
+118.87789500001236	EXP	Fixation: autoDraw = false
+118.89496000000509	EXP	ETarget1: autoDraw = true
+118.89496000000509	EXP	ETarget1: autoDraw = false
+118.91243500000564	EXP	EPrime: autoDraw = true
+118.97929499999736	EXP	EPrime: autoDraw = false
+118.97929499999736	EXP	Fixation: autoDraw = false
+118.97929499999736	EXP	ETarget1: autoDraw = false
+118.97929499999736	EXP	EPrime: autoDraw = false
+118.97929499999736	EXP	Target: text = "WILKED"
+118.97929499999736	EXP	Target: autoDraw = true
+119.64442500000587	DATA	Keydown: z
+119.6613500000094	EXP	Target: autoDraw = false
+119.6613500000094	EXP	ETarget1: text = "stilks"
+119.6613500000094	EXP	EPrime: text = "stofks"
+120.16153000001214	EXP	Fixation: autoDraw = true
+121.15891999998712	EXP	Fixation: autoDraw = false
+121.17853000000468	EXP	ETarget1: autoDraw = true
+121.17853000000468	EXP	ETarget1: autoDraw = false
+121.19567499999539	EXP	EPrime: autoDraw = true
+121.26215500000399	EXP	EPrime: autoDraw = false
+121.26215500000399	EXP	Fixation: autoDraw = false
+121.26215500000399	EXP	ETarget1: autoDraw = false
+121.26215500000399	EXP	EPrime: autoDraw = false
+121.26215500000399	EXP	Target: text = "STILKS"
+121.26215500000399	EXP	Target: autoDraw = true
+122.04568000001018	DATA	Keydown: z
+122.06116000001202	EXP	Target: autoDraw = false
+122.06116000001202	EXP	ETarget1: text = "awful"
+122.06116000001202	EXP	EPrime: text = "amdul"
+122.57699999999022	EXP	Fixation: autoDraw = true
+123.56151999998838	EXP	Fixation: autoDraw = false
+123.56151999998838	EXP	ETarget1: autoDraw = true
+123.57803499998408	EXP	ETarget1: autoDraw = false
+123.59557999999379	EXP	EPrime: autoDraw = true
+123.66193999999086	EXP	EPrime: autoDraw = false
+123.66193999999086	EXP	Fixation: autoDraw = false
+123.66193999999086	EXP	ETarget1: autoDraw = false
+123.66193999999086	EXP	EPrime: autoDraw = false
+123.66193999999086	EXP	Target: text = "AWFUL"
+123.66193999999086	EXP	Target: autoDraw = true
+124.31202499999199	DATA	Keydown: m
+124.328125	EXP	Target: autoDraw = false
+124.328125	EXP	ETarget1: text = "niffling"
+124.328125	EXP	EPrime: text = "nilffing"
+124.82809999998426	EXP	Fixation: autoDraw = true
+125.8289550000045	EXP	Fixation: autoDraw = false
+125.8289550000045	EXP	ETarget1: autoDraw = true
+125.8449799999944	EXP	ETarget1: autoDraw = false
+125.86184999998659	EXP	EPrime: autoDraw = true
+125.93028500000946	EXP	EPrime: autoDraw = false
+125.93028500000946	EXP	Fixation: autoDraw = false
+125.93028500000946	EXP	ETarget1: autoDraw = false
+125.93028500000946	EXP	EPrime: autoDraw = false
+125.93028500000946	EXP	Target: text = "NIFFLING"
+125.93028500000946	EXP	Target: autoDraw = true
+126.92872500000522	DATA	Keydown: z
+126.94486499999766	EXP	Target: autoDraw = false
+126.94486499999766	EXP	ETarget1: text = "dimotaurs"
+126.94486499999766	EXP	EPrime: text = "diomtaurs"
+127.44466999999713	EXP	Fixation: autoDraw = true
+128.44206000000122	EXP	Fixation: autoDraw = false
+128.46122500000638	EXP	ETarget1: autoDraw = true
+128.46122500000638	EXP	ETarget1: autoDraw = false
+128.47931500000414	EXP	EPrime: autoDraw = true
+128.5447850000055	EXP	EPrime: autoDraw = false
+128.5447850000055	EXP	Fixation: autoDraw = false
+128.5447850000055	EXP	ETarget1: autoDraw = false
+128.5447850000055	EXP	EPrime: autoDraw = false
+128.5447850000055	EXP	Target: text = "DIMOTAURS"
+128.5447850000055	EXP	Target: autoDraw = true
+129.29466499999398	DATA	Keydown: z
+129.3113799999992	EXP	Target: autoDraw = false
+129.3113799999992	EXP	ETarget1: text = "onerall"
+129.3113799999992	EXP	EPrime: text = "onuvall"
+129.82826999999816	EXP	Fixation: autoDraw = true
+130.81158499998855	EXP	Fixation: autoDraw = false
+130.82794499999727	EXP	ETarget1: autoDraw = true
+130.82794499999727	EXP	ETarget1: autoDraw = false
+130.8456850000075	EXP	EPrime: autoDraw = true
+130.91208499998902	EXP	EPrime: autoDraw = false
+130.91208499998902	EXP	Fixation: autoDraw = false
+130.91208499998902	EXP	ETarget1: autoDraw = false
+130.91208499998902	EXP	EPrime: autoDraw = false
+130.91208499998902	EXP	Target: text = "ONERALL"
+130.91208499998902	EXP	Target: autoDraw = true
+132.06205000000773	DATA	Keydown: z
+132.0779099999927	EXP	Target: autoDraw = false
+132.0779099999927	EXP	ETarget1: text = "around"
+132.0779099999927	EXP	EPrime: text = "avaund"
+132.5780650000088	EXP	Fixation: autoDraw = true
+133.57835999998497	EXP	Fixation: autoDraw = false
+133.57835999998497	EXP	ETarget1: autoDraw = true
+133.59453999999096	EXP	ETarget1: autoDraw = false
+133.61119500000495	EXP	EPrime: autoDraw = true
+133.6782499999972	EXP	EPrime: autoDraw = false
+133.6782499999972	EXP	Fixation: autoDraw = false
+133.6782499999972	EXP	ETarget1: autoDraw = false
+133.6782499999972	EXP	EPrime: autoDraw = false
+133.6782499999972	EXP	Target: text = "AROUND"
+133.6782499999972	EXP	Target: autoDraw = true
+134.46146500000032	DATA	Keydown: m
+134.47805000000517	EXP	Target: autoDraw = false
+134.47805000000517	EXP	ETarget1: text = "rolief"
+134.47805000000517	EXP	EPrime: text = "rolalf"
+134.99376000001212	EXP	Fixation: autoDraw = true
+135.97531999999774	EXP	Fixation: autoDraw = false
+135.99481999999261	EXP	ETarget1: autoDraw = true
+135.99481999999261	EXP	ETarget1: autoDraw = false
+136.01140499999747	EXP	EPrime: autoDraw = true
+136.0788949999842	EXP	EPrime: autoDraw = false
+136.0788949999842	EXP	Fixation: autoDraw = false
+136.0788949999842	EXP	ETarget1: autoDraw = false
+136.0788949999842	EXP	EPrime: autoDraw = false
+136.0788949999842	EXP	Target: text = "ROLIEF"
+136.0788949999842	EXP	Target: autoDraw = true
+136.69409999999334	DATA	Keydown: z
+136.71218500001123	EXP	Target: autoDraw = false
+136.71218500001123	EXP	ETarget1: text = "sleeve"
+136.71218500001123	EXP	EPrime: text = "slevee"
+137.22708499999135	EXP	Fixation: autoDraw = true
+138.21238000001176	EXP	Fixation: autoDraw = false
+138.22862000000896	EXP	ETarget1: autoDraw = true
+138.22862000000896	EXP	ETarget1: autoDraw = false
+138.24465000000782	EXP	EPrime: autoDraw = true
+138.3121000000101	EXP	EPrime: autoDraw = false
+138.3121000000101	EXP	Fixation: autoDraw = false
+138.3121000000101	EXP	ETarget1: autoDraw = false
+138.3121000000101	EXP	EPrime: autoDraw = false
+138.3121000000101	EXP	Target: text = "SLEEVE"
+138.3121000000101	EXP	Target: autoDraw = true
+138.91326999999	DATA	Keydown: m
+138.92759499998647	EXP	Target: autoDraw = false
+138.92759499998647	EXP	ETarget1: text = "knorn"
+138.92759499998647	EXP	EPrime: text = "konrn"
+139.44480999998632	EXP	Fixation: autoDraw = true
+140.42770999998902	EXP	Fixation: autoDraw = false
+140.44485500000883	EXP	ETarget1: autoDraw = true
+140.44485500000883	EXP	ETarget1: autoDraw = false
+140.46199999999953	EXP	EPrime: autoDraw = true
+140.52859999999055	EXP	EPrime: autoDraw = false
+140.52859999999055	EXP	Fixation: autoDraw = false
+140.52859999999055	EXP	ETarget1: autoDraw = false
+140.52859999999055	EXP	EPrime: autoDraw = false
+140.52859999999055	EXP	Target: text = "KNORN"
+140.52859999999055	EXP	Target: autoDraw = true
+141.16177000000607	DATA	Keydown: z
+141.17729500000132	EXP	Target: autoDraw = false
+141.17729500000132	EXP	ETarget1: text = "entry"
+141.17729500000132	EXP	EPrime: text = "espry"
+141.69409499998437	EXP	Fixation: autoDraw = true
+142.67514999999548	EXP	Fixation: autoDraw = false
+142.6949650000024	EXP	ETarget1: autoDraw = true
+142.6949650000024	EXP	ETarget1: autoDraw = false
+142.7115000000049	EXP	EPrime: autoDraw = true
+142.77858499999274	EXP	EPrime: autoDraw = false
+142.77858499999274	EXP	Fixation: autoDraw = false
+142.77858499999274	EXP	ETarget1: autoDraw = false
+142.77858499999274	EXP	EPrime: autoDraw = false
+142.77858499999274	EXP	Target: text = "ENTRY"
+142.77858499999274	EXP	Target: autoDraw = true
+143.56148999999277	DATA	Keydown: m
+143.57754999998724	EXP	Target: autoDraw = false
+143.57754999998724	EXP	ETarget1: text = "penguin"
+143.57754999998724	EXP	EPrime: text = "pneguin"
+144.093904999987	EXP	Fixation: autoDraw = true
+145.07530500000576	EXP	Fixation: autoDraw = false
+145.09471000000485	EXP	ETarget1: autoDraw = true
+145.09471000000485	EXP	ETarget1: autoDraw = false
+145.11253499999293	EXP	EPrime: autoDraw = true
+145.17842999999993	EXP	EPrime: autoDraw = false
+145.17842999999993	EXP	Fixation: autoDraw = false
+145.17842999999993	EXP	ETarget1: autoDraw = false
+145.17842999999993	EXP	EPrime: autoDraw = false
+145.17842999999993	EXP	Target: text = "PENGUIN"
+145.17842999999993	EXP	Target: autoDraw = true
+146.0287299999909	DATA	Keydown: m
+146.04483500000788	EXP	Target: autoDraw = false
+146.04483500000788	EXP	ETarget1: text = "chupter"
+146.04483500000788	EXP	EPrime: text = "chutper"
+146.5448949999991	EXP	Fixation: autoDraw = true
+147.5451250000042	EXP	Fixation: autoDraw = false
+147.5451250000042	EXP	ETarget1: autoDraw = true
+147.56099999998696	EXP	ETarget1: autoDraw = false
+147.57858000000124	EXP	EPrime: autoDraw = true
+147.6455249999999	EXP	EPrime: autoDraw = false
+147.6455249999999	EXP	Fixation: autoDraw = false
+147.6455249999999	EXP	ETarget1: autoDraw = false
+147.6455249999999	EXP	EPrime: autoDraw = false
+147.6455249999999	EXP	Target: text = "CHUPTER"
+147.6455249999999	EXP	Target: autoDraw = true
+148.79543500000727	DATA	Keydown: z
+148.8110999999917	EXP	Target: autoDraw = false
+148.8110999999917	EXP	ETarget1: text = "drink"
+148.8110999999917	EXP	EPrime: text = "dwonk"
+149.32770500000333	EXP	Fixation: autoDraw = true
+150.30846999998903	EXP	Fixation: autoDraw = false
+150.32790499998373	EXP	ETarget1: autoDraw = true
+150.32790499998373	EXP	ETarget1: autoDraw = false
+150.34492500001215	EXP	EPrime: autoDraw = true
+150.41198999999324	EXP	EPrime: autoDraw = false
+150.41198999999324	EXP	Fixation: autoDraw = false
+150.41198999999324	EXP	ETarget1: autoDraw = false
+150.41198999999324	EXP	EPrime: autoDraw = false
+150.41198999999324	EXP	Target: text = "DRINK"
+150.41198999999324	EXP	Target: autoDraw = true
+151.19514500000514	DATA	Keydown: m
+151.2110999999859	EXP	Target: autoDraw = false
+151.2110999999859	EXP	ETarget1: text = "wutch"
+151.2110999999859	EXP	EPrime: text = "wursh"
+151.72802000000956	EXP	Fixation: autoDraw = true
+152.70837499998743	EXP	Fixation: autoDraw = false
+152.72810999999638	EXP	ETarget1: autoDraw = true
+152.72810999999638	EXP	ETarget1: autoDraw = false
+152.74515000000247	EXP	EPrime: autoDraw = true
+152.81190500000957	EXP	EPrime: autoDraw = false
+152.81190500000957	EXP	Fixation: autoDraw = false
+152.81190500000957	EXP	ETarget1: autoDraw = false
+152.81190500000957	EXP	EPrime: autoDraw = false
+152.81190500000957	EXP	Target: text = "WUTCH"
+152.81190500000957	EXP	Target: autoDraw = true
+153.7121449999977	DATA	Keydown: z
+153.72777500000666	EXP	Target: autoDraw = false
+153.72777500000666	EXP	ETarget1: text = "thoatre"
+153.72777500000666	EXP	EPrime: text = "thoikre"
+154.24456500000088	EXP	Fixation: autoDraw = true
+155.22465499999817	EXP	Fixation: autoDraw = false
+155.24452000000747	EXP	ETarget1: autoDraw = true
+155.24452000000747	EXP	ETarget1: autoDraw = false
+155.2628899999836	EXP	EPrime: autoDraw = true
+155.32820499999798	EXP	EPrime: autoDraw = false
+155.32820499999798	EXP	Fixation: autoDraw = false
+155.32820499999798	EXP	ETarget1: autoDraw = false
+155.32820499999798	EXP	EPrime: autoDraw = false
+155.32820499999798	EXP	Target: text = "THOATRE"
+155.32820499999798	EXP	Target: autoDraw = true
+156.59501499999897	DATA	Keydown: z
+156.61136999999871	EXP	Target: autoDraw = false
+156.61136999999871	EXP	ETarget1: text = "yowned"
+156.61136999999871	EXP	EPrime: text = "yoazed"
+157.1111549999914	EXP	Fixation: autoDraw = true
+158.10872499999823	EXP	Fixation: autoDraw = false
+158.1276249999937	EXP	ETarget1: autoDraw = true
+158.1276249999937	EXP	ETarget1: autoDraw = false
+158.14506999999867	EXP	EPrime: autoDraw = true
+158.2119749999838	EXP	EPrime: autoDraw = false
+158.2119749999838	EXP	Fixation: autoDraw = false
+158.2119749999838	EXP	ETarget1: autoDraw = false
+158.2119749999838	EXP	EPrime: autoDraw = false
+158.2119749999838	EXP	Target: text = "YOWNED"
+158.2119749999838	EXP	Target: autoDraw = true
+158.91192499999306	DATA	Keydown: z
+158.927635	EXP	Target: autoDraw = false
+158.927635	EXP	ETarget1: text = "following"
+158.927635	EXP	EPrime: text = "farlowing"
+159.42777000000933	EXP	Fixation: autoDraw = true
+160.42732499999693	EXP	Fixation: autoDraw = false
+160.44430000000284	EXP	ETarget1: autoDraw = true
+160.44430000000284	EXP	ETarget1: autoDraw = false
+160.46158500001184	EXP	EPrime: autoDraw = true
+160.52851999999257	EXP	EPrime: autoDraw = false
+160.52851999999257	EXP	Fixation: autoDraw = false
+160.52851999999257	EXP	ETarget1: autoDraw = false
+160.52851999999257	EXP	EPrime: autoDraw = false
+160.52851999999257	EXP	Target: text = "FOLLOWING"
+160.52851999999257	EXP	Target: autoDraw = true
+161.06158999999752	DATA	Keydown: m
+161.07759000000078	EXP	Target: autoDraw = false
+161.07759000000078	EXP	ETarget1: text = "holiday"
+161.07759000000078	EXP	EPrime: text = "holitoy"
+161.5774800000072	EXP	Fixation: autoDraw = true
+162.575130000012	EXP	Fixation: autoDraw = false
+162.59460000001127	EXP	ETarget1: autoDraw = true
+162.59460000001127	EXP	ETarget1: autoDraw = false
+162.61618499999167	EXP	EPrime: autoDraw = true
+162.67745499999728	EXP	EPrime: autoDraw = false
+162.67745499999728	EXP	Fixation: autoDraw = false
+162.67745499999728	EXP	ETarget1: autoDraw = false
+162.67745499999728	EXP	EPrime: autoDraw = false
+162.67745499999728	EXP	Target: text = "HOLIDAY"
+162.67745499999728	EXP	Target: autoDraw = true
+163.36175000001094	DATA	Keydown: m
+163.3772450000106	EXP	Target: autoDraw = false
+163.3772450000106	EXP	ETarget1: text = "tomay"
+163.3772450000106	EXP	EPrime: text = "tovoy"
+163.8776599999983	EXP	Fixation: autoDraw = true
+164.87780499999644	EXP	Fixation: autoDraw = false
+164.87780499999644	EXP	ETarget1: autoDraw = true
+164.89431999999215	EXP	ETarget1: autoDraw = false
+164.91164000000572	EXP	EPrime: autoDraw = true
+164.97828000001027	EXP	EPrime: autoDraw = false
+164.97828000001027	EXP	Fixation: autoDraw = false
+164.97828000001027	EXP	ETarget1: autoDraw = false
+164.97828000001027	EXP	EPrime: autoDraw = false
+164.97828000001027	EXP	Target: text = "TOMAY"
+164.97828000001027	EXP	Target: autoDraw = true
+165.44375999999465	DATA	Keydown: z
+165.4603599999973	EXP	Target: autoDraw = false
+165.4603599999973	EXP	ETarget1: text = "gniching"
+165.4603599999973	EXP	EPrime: text = "ginching"
+165.9608050000097	EXP	Fixation: autoDraw = true
+166.96031999998377	EXP	Fixation: autoDraw = false
+166.97759500000393	EXP	ETarget1: autoDraw = true
+166.97759500000393	EXP	ETarget1: autoDraw = false
+166.99556499999017	EXP	EPrime: autoDraw = true
+167.06135000000359	EXP	EPrime: autoDraw = false
+167.06135000000359	EXP	Fixation: autoDraw = false
+167.06135000000359	EXP	ETarget1: autoDraw = false
+167.06135000000359	EXP	EPrime: autoDraw = false
+167.06135000000359	EXP	Target: text = "GNICHING"
+167.06135000000359	EXP	Target: autoDraw = true
+167.6439449999889	DATA	Keydown: z
+167.6607350000122	EXP	Target: autoDraw = false
+167.6607350000122	EXP	ETarget1: text = "birthday"
+167.6607350000122	EXP	EPrime: text = "banthday"
+168.16088000001037	EXP	Fixation: autoDraw = true
+169.158064999996	EXP	Fixation: autoDraw = false
+169.17764000000898	EXP	ETarget1: autoDraw = true
+169.17764000000898	EXP	ETarget1: autoDraw = false
+169.195704999991	EXP	EPrime: autoDraw = true
+169.26121999998577	EXP	EPrime: autoDraw = false
+169.26121999998577	EXP	Fixation: autoDraw = false
+169.26121999998577	EXP	ETarget1: autoDraw = false
+169.26121999998577	EXP	EPrime: autoDraw = false
+169.26121999998577	EXP	Target: text = "BIRTHDAY"
+169.26121999998577	EXP	Target: autoDraw = true
+169.72844999999506	DATA	Keydown: m
+169.7442100000044	EXP	Target: autoDraw = false
+169.7442100000044	EXP	ETarget1: text = "rimble"
+169.7442100000044	EXP	EPrime: text = "rirkle"
+170.26021000000765	EXP	Fixation: autoDraw = true
+171.24147999999695	EXP	Fixation: autoDraw = false
+171.26126999998814	EXP	ETarget1: autoDraw = true
+171.27781500000856	EXP	ETarget1: autoDraw = false
+171.27781500000856	EXP	EPrime: autoDraw = true
+171.3448700000008	EXP	EPrime: autoDraw = false
+171.3448700000008	EXP	Fixation: autoDraw = false
+171.3448700000008	EXP	ETarget1: autoDraw = false
+171.3448700000008	EXP	EPrime: autoDraw = false
+171.3448700000008	EXP	Target: text = "RIMBLE"
+171.3448700000008	EXP	Target: autoDraw = true
+172.16101999999955	DATA	Keydown: z
+172.1775299999863	EXP	Target: autoDraw = false
+172.1775299999863	EXP	ETarget1: text = "fulore"
+172.1775299999863	EXP	EPrime: text = "fluore"
+172.69322499999544	EXP	Fixation: autoDraw = true
+173.67777000000933	EXP	Fixation: autoDraw = false
+173.67777000000933	EXP	ETarget1: autoDraw = true
+173.6914650000108	EXP	ETarget1: autoDraw = false
+173.71162499999627	EXP	EPrime: autoDraw = true
+173.777854999993	EXP	EPrime: autoDraw = false
+173.777854999993	EXP	Fixation: autoDraw = false
+173.777854999993	EXP	ETarget1: autoDraw = false
+173.777854999993	EXP	EPrime: autoDraw = false
+173.777854999993	EXP	Target: text = "FULORE"
+173.777854999993	EXP	Target: autoDraw = true
+174.32868999999482	DATA	Keydown: z
+174.34403000000748	EXP	Target: autoDraw = false
+174.34403000000748	EXP	ETarget1: text = "emter"
+174.34403000000748	EXP	EPrime: text = "etmer"
+174.8596649999963	EXP	Fixation: autoDraw = true
+175.8435949999839	EXP	Fixation: autoDraw = false
+175.8608050000039	EXP	ETarget1: autoDraw = true
+175.8608050000039	EXP	ETarget1: autoDraw = false
+175.87804499999038	EXP	EPrime: autoDraw = true
+175.94492499998887	EXP	EPrime: autoDraw = false
+175.94492499998887	EXP	Fixation: autoDraw = false
+175.94492499998887	EXP	ETarget1: autoDraw = false
+175.94492499998887	EXP	EPrime: autoDraw = false
+175.94492499998887	EXP	Target: text = "EMTER"
+175.94492499998887	EXP	Target: autoDraw = true
+176.62734000000637	DATA	Keydown: z
+176.644174999994	EXP	Target: autoDraw = false
+176.644174999994	EXP	ETarget1: text = "bidger"
+176.644174999994	EXP	EPrime: text = "bdiger"
+177.14446000001044	EXP	Fixation: autoDraw = true
+178.14389499998651	EXP	Fixation: autoDraw = false
+178.16058500000509	EXP	ETarget1: autoDraw = true
+178.16058500000509	EXP	ETarget1: autoDraw = false
+178.17850000000908	EXP	EPrime: autoDraw = true
+178.2446399999899	EXP	EPrime: autoDraw = false
+178.2446399999899	EXP	Fixation: autoDraw = false
+178.2446399999899	EXP	ETarget1: autoDraw = false
+178.2446399999899	EXP	EPrime: autoDraw = false
+178.2446399999899	EXP	Target: text = "BIDGER"
+178.2446399999899	EXP	Target: autoDraw = true
+178.86068499999237	DATA	Keydown: z
+178.87729999999283	EXP	Target: autoDraw = false
+178.87729999999283	EXP	ETarget1: text = "blanket"
+178.87729999999283	EXP	EPrime: text = "bronket"
+179.3943450000079	EXP	Fixation: autoDraw = true
+180.37768499998492	EXP	Fixation: autoDraw = false
+180.37768499998492	EXP	ETarget1: autoDraw = true
+180.39424500000314	EXP	ETarget1: autoDraw = false
+180.41141000000061	EXP	EPrime: autoDraw = true
+180.47812499999418	EXP	EPrime: autoDraw = false
+180.47812499999418	EXP	Fixation: autoDraw = false
+180.47812499999418	EXP	ETarget1: autoDraw = false
+180.47812499999418	EXP	EPrime: autoDraw = false
+180.47812499999418	EXP	Target: text = "BLANKET"
+180.47812499999418	EXP	Target: autoDraw = true
+180.9610699999903	DATA	Keydown: m
+180.97729999999865	EXP	Target: autoDraw = false
+180.97729999999865	EXP	ETarget1: text = "winter"
+180.97729999999865	EXP	EPrime: text = "winetr"
+181.49426000000676	EXP	Fixation: autoDraw = true
+182.47485500000766	EXP	Fixation: autoDraw = false
+182.49462499999208	EXP	ETarget1: autoDraw = true
+182.49462499999208	EXP	ETarget1: autoDraw = false
+182.51141999999527	EXP	EPrime: autoDraw = true
+182.5782649999892	EXP	EPrime: autoDraw = false
+182.5782649999892	EXP	Fixation: autoDraw = false
+182.5782649999892	EXP	ETarget1: autoDraw = false
+182.5782649999892	EXP	EPrime: autoDraw = false
+182.5782649999892	EXP	Target: text = "WINTER"
+182.5782649999892	EXP	Target: autoDraw = true
+183.01175000000512	DATA	Keydown: m
+183.02758999998332	EXP	Target: autoDraw = false
+183.02758999998332	EXP	ETarget1: text = "statue"
+183.02758999998332	EXP	EPrime: text = "staute"
+183.5438499999873	EXP	Fixation: autoDraw = true
+184.5244749999838	EXP	Fixation: autoDraw = false
+184.54416499999934	EXP	ETarget1: autoDraw = true
+184.54416499999934	EXP	ETarget1: autoDraw = false
+184.56095499999356	EXP	EPrime: autoDraw = true
+184.62839999998687	EXP	EPrime: autoDraw = false
+184.62839999998687	EXP	Fixation: autoDraw = false
+184.62839999998687	EXP	ETarget1: autoDraw = false
+184.62839999998687	EXP	EPrime: autoDraw = false
+184.62839999998687	EXP	Target: text = "STATUE"
+184.62839999998687	EXP	Target: autoDraw = true
+185.32715999998618	DATA	Keydown: m
+185.34364000000642	EXP	Target: autoDraw = false
+185.34364000000642	EXP	ETarget1: text = "crunphy"
+185.34364000000642	EXP	EPrime: text = "curnphy"
+185.8596050000051	EXP	Fixation: autoDraw = true
+186.84441499999957	EXP	Fixation: autoDraw = false
+186.84441499999957	EXP	ETarget1: autoDraw = true
+186.86055499999202	EXP	ETarget1: autoDraw = false
+186.87753999998677	EXP	EPrime: autoDraw = true
+186.94495499998447	EXP	EPrime: autoDraw = false
+186.94495499998447	EXP	Fixation: autoDraw = false
+186.94495499998447	EXP	ETarget1: autoDraw = false
+186.94495499998447	EXP	EPrime: autoDraw = false
+186.94495499998447	EXP	Target: text = "CRUNPHY"
+186.94495499998447	EXP	Target: autoDraw = true
+187.51029000000563	DATA	Keydown: z
+187.52732500000275	EXP	Target: autoDraw = false
+187.52732500000275	EXP	ETarget1: text = "market"
+187.52732500000275	EXP	EPrime: text = "mardot"
+188.04377499999828	EXP	Fixation: autoDraw = true
+189.02444999999716	EXP	Fixation: autoDraw = false
+189.04387500000303	EXP	ETarget1: autoDraw = true
+189.04387500000303	EXP	ETarget1: autoDraw = false
+189.06126499999664	EXP	EPrime: autoDraw = true
+189.12823500001105	EXP	EPrime: autoDraw = false
+189.12823500001105	EXP	Fixation: autoDraw = false
+189.12823500001105	EXP	ETarget1: autoDraw = false
+189.12823500001105	EXP	EPrime: autoDraw = false
+189.12823500001105	EXP	Target: text = "MARKET"
+189.12823500001105	EXP	Target: autoDraw = true
+189.67736999999033	DATA	Keydown: m
+189.6938450000016	EXP	Target: autoDraw = false
+189.6938450000016	EXP	ETarget1: text = "esferiment"
+189.6938450000016	EXP	EPrime: text = "efseriment"
+190.21074000000954	EXP	Fixation: autoDraw = true
+191.19385499999044	EXP	Fixation: autoDraw = false
+191.21103000000585	EXP	ETarget1: autoDraw = true
+191.21103000000585	EXP	ETarget1: autoDraw = false
+191.22716499998933	EXP	EPrime: autoDraw = true
+191.29417999999714	EXP	EPrime: autoDraw = false
+191.29417999999714	EXP	Fixation: autoDraw = false
+191.29417999999714	EXP	ETarget1: autoDraw = false
+191.29417999999714	EXP	EPrime: autoDraw = false
+191.29417999999714	EXP	Target: text = "ESFERIMENT"
+191.29417999999714	EXP	Target: autoDraw = true
+192.0116899999848	DATA	Keydown: z
+192.02708999998868	EXP	Target: autoDraw = false
+192.02708999998868	EXP	ETarget1: text = "chicken"
+192.02708999998868	EXP	EPrime: text = "clecken"
+192.543955000001	EXP	Fixation: autoDraw = true
+193.52732500000275	EXP	Fixation: autoDraw = false
+193.5440149999922	EXP	ETarget1: autoDraw = true
+193.5440149999922	EXP	ETarget1: autoDraw = false
+193.56141500000376	EXP	EPrime: autoDraw = true
+193.627994999988	EXP	EPrime: autoDraw = false
+193.627994999988	EXP	Fixation: autoDraw = false
+193.627994999988	EXP	ETarget1: autoDraw = false
+193.627994999988	EXP	EPrime: autoDraw = false
+193.627994999988	EXP	Target: text = "CHICKEN"
+193.627994999988	EXP	Target: autoDraw = true
+194.07704000000376	DATA	Keydown: m
+194.093675000011	EXP	Target: autoDraw = false
+194.093675000011	EXP	ETarget1: text = "believe"
+194.093675000011	EXP	EPrime: text = "butieve"
+194.6106499999878	EXP	Fixation: autoDraw = true
+195.59352999998373	EXP	Fixation: autoDraw = false
+195.61008499999298	EXP	ETarget1: autoDraw = true
+195.61008499999298	EXP	ETarget1: autoDraw = false
+195.6279050000012	EXP	EPrime: autoDraw = true
+195.69500499998685	EXP	EPrime: autoDraw = false
+195.69500499998685	EXP	Fixation: autoDraw = false
+195.69500499998685	EXP	ETarget1: autoDraw = false
+195.69500499998685	EXP	EPrime: autoDraw = false
+195.69500499998685	EXP	Target: text = "BELIEVE"
+195.69500499998685	EXP	Target: autoDraw = true
+196.21078500000294	DATA	Keydown: m
+196.22662000000128	EXP	Target: autoDraw = false
+196.22662000000128	EXP	ETarget1: text = "heaven"
+196.22662000000128	EXP	EPrime: text = "heamon"
+196.74294500000542	EXP	Fixation: autoDraw = true
+197.72688000000198	EXP	Fixation: autoDraw = false
+197.7439000000013	EXP	ETarget1: autoDraw = true
+197.7439000000013	EXP	ETarget1: autoDraw = false
+197.76039000001037	EXP	EPrime: autoDraw = true
+197.82808499998646	EXP	EPrime: autoDraw = false
+197.82808499998646	EXP	Fixation: autoDraw = false
+197.82808499998646	EXP	ETarget1: autoDraw = false
+197.82808499998646	EXP	EPrime: autoDraw = false
+197.82808499998646	EXP	Target: text = "HEAVEN"
+197.82808499998646	EXP	Target: autoDraw = true
+198.34504499999457	DATA	Keydown: m
+198.36030500000925	EXP	Target: autoDraw = false
+198.36030500000925	EXP	ETarget1: text = "foreign"
+198.36030500000925	EXP	EPrime: text = "foreasn"
+198.87666499998886	EXP	Fixation: autoDraw = true
+199.86045499998727	EXP	Fixation: autoDraw = false
+199.87781999999424	EXP	ETarget1: autoDraw = true
+199.89395500000683	EXP	ETarget1: autoDraw = false
+199.89395500000683	EXP	EPrime: autoDraw = true
+199.96009000000777	EXP	EPrime: autoDraw = false
+199.96009000000777	EXP	Fixation: autoDraw = false
+199.96009000000777	EXP	ETarget1: autoDraw = false
+199.96009000000777	EXP	EPrime: autoDraw = false
+199.96009000000777	EXP	Target: text = "FOREIGN"
+199.96009000000777	EXP	Target: autoDraw = true
+200.3613100000075	DATA	Keydown: m
+200.37695499998517	EXP	Target: autoDraw = false
+200.37695499998517	EXP	ETarget1: text = "sunset"
+200.37695499998517	EXP	EPrime: text = "sunest"
+200.89304500000435	EXP	Fixation: autoDraw = true
+201.8773799999908	EXP	Fixation: autoDraw = false
+201.8773799999908	EXP	ETarget1: autoDraw = true
+201.89379500001087	EXP	ETarget1: autoDraw = false
+201.91117000000668	EXP	EPrime: autoDraw = true
+201.97763999999734	EXP	EPrime: autoDraw = false
+201.97763999999734	EXP	Fixation: autoDraw = false
+201.97763999999734	EXP	ETarget1: autoDraw = false
+201.97763999999734	EXP	EPrime: autoDraw = false
+201.97763999999734	EXP	Target: text = "SUNSET"
+201.97763999999734	EXP	Target: autoDraw = true
+202.3607600000105	DATA	Keydown: m
+202.37660499999765	EXP	Target: autoDraw = false
+202.37660499999765	EXP	ETarget1: text = "arvument"
+202.37660499999765	EXP	EPrime: text = "avrument"
+202.89386999999988	EXP	Fixation: autoDraw = true
+203.87737000000197	EXP	Fixation: autoDraw = false
+203.87737000000197	EXP	ETarget1: autoDraw = true
+203.893390000012	EXP	ETarget1: autoDraw = false
+203.91104000000632	EXP	EPrime: autoDraw = true
+203.97761999999057	EXP	EPrime: autoDraw = false
+203.97761999999057	EXP	Fixation: autoDraw = false
+203.97761999999057	EXP	ETarget1: autoDraw = false
+203.97761999999057	EXP	EPrime: autoDraw = false
+203.97761999999057	EXP	Target: text = "ARVUMENT"
+203.97761999999057	EXP	Target: autoDraw = true
+204.34473000001162	DATA	Keydown: z
+204.36006000000634	EXP	Target: autoDraw = false
+204.36006000000634	EXP	ETarget1: text = "spear"
+204.36006000000634	EXP	EPrime: text = "spaer"
+204.87705000001006	EXP	Fixation: autoDraw = true
+205.86041500000283	EXP	Fixation: autoDraw = false
+205.86041500000283	EXP	ETarget1: autoDraw = true
+205.87685500000953	EXP	ETarget1: autoDraw = false
+205.89439999999013	EXP	EPrime: autoDraw = true
+205.96020999999018	EXP	EPrime: autoDraw = false
+205.96020999999018	EXP	Fixation: autoDraw = false
+205.96020999999018	EXP	ETarget1: autoDraw = false
+205.96020999999018	EXP	EPrime: autoDraw = false
+205.96020999999018	EXP	Target: text = "SPEAR"
+205.96020999999018	EXP	Target: autoDraw = true
+206.3272949999955	DATA	Keydown: m
+206.3427500000107	EXP	Target: autoDraw = false
+206.3427500000107	EXP	ETarget1: text = "petrol"
+206.3427500000107	EXP	EPrime: text = "pterol"
+206.85926500000642	EXP	Fixation: autoDraw = true
+207.84109500001068	EXP	Fixation: autoDraw = false
+207.86081499999273	EXP	ETarget1: autoDraw = true
+207.86081499999273	EXP	ETarget1: autoDraw = false
+207.87687999999616	EXP	EPrime: autoDraw = true
+207.9441850000003	EXP	EPrime: autoDraw = false
+207.9441850000003	EXP	Fixation: autoDraw = false
+207.9441850000003	EXP	ETarget1: autoDraw = false
+207.9441850000003	EXP	EPrime: autoDraw = false
+207.9441850000003	EXP	Target: text = "PETROL"
+207.9441850000003	EXP	Target: autoDraw = true
+208.36113000000478	DATA	Keydown: m
+208.37695499998517	EXP	Target: autoDraw = false
+208.37695499998517	EXP	ETarget1: text = "crockle"
+208.37695499998517	EXP	EPrime: text = "corckle"
+208.8927299999923	EXP	Fixation: autoDraw = true
+209.87455000000773	EXP	Fixation: autoDraw = false
+209.89385500000208	EXP	ETarget1: autoDraw = true
+209.89385500000208	EXP	ETarget1: autoDraw = false
+209.91091000000597	EXP	EPrime: autoDraw = true
+209.96117999998387	EXP	EPrime: autoDraw = false
+209.96117999998387	EXP	Fixation: autoDraw = false
+209.96117999998387	EXP	ETarget1: autoDraw = false
+209.96117999998387	EXP	EPrime: autoDraw = false
+209.96117999998387	EXP	Target: text = "CROCKLE"
+209.96117999998387	EXP	Target: autoDraw = true
+210.41026499998407	DATA	Keydown: z
+210.4262549999985	EXP	Target: autoDraw = false
+210.4262549999985	EXP	ETarget1: text = "motter"
+210.4262549999985	EXP	EPrime: text = "mtoter"
+210.9425099999935	EXP	Fixation: autoDraw = true
+211.9269449999847	EXP	Fixation: autoDraw = false
+211.9436449999921	EXP	ETarget1: autoDraw = true
+211.9436449999921	EXP	ETarget1: autoDraw = false
+211.9608050000097	EXP	EPrime: autoDraw = true
+212.02799999999115	EXP	EPrime: autoDraw = false
+212.02799999999115	EXP	Fixation: autoDraw = false
+212.02799999999115	EXP	ETarget1: autoDraw = false
+212.02799999999115	EXP	EPrime: autoDraw = false
+212.02799999999115	EXP	Target: text = "MOTTER"
+212.02799999999115	EXP	Target: autoDraw = true
+212.56005000000005	DATA	Keydown: z
+212.5762650000106	EXP	Target: autoDraw = false
+212.5762650000106	EXP	ETarget1: text = "prince"
+212.5762650000106	EXP	EPrime: text = "pirnce"
+213.09335999999894	EXP	Fixation: autoDraw = true
+214.0774800000072	EXP	Fixation: autoDraw = false
+214.0774800000072	EXP	ETarget1: autoDraw = true
+214.09330000000773	EXP	ETarget1: autoDraw = false
+214.1107750000083	EXP	EPrime: autoDraw = true
+214.17783999998937	EXP	EPrime: autoDraw = false
+214.17783999998937	EXP	Fixation: autoDraw = false
+214.17783999998937	EXP	ETarget1: autoDraw = false
+214.17783999998937	EXP	EPrime: autoDraw = false
+214.17783999998937	EXP	Target: text = "PRINCE"
+214.17783999998937	EXP	Target: autoDraw = true
+214.54408500000136	DATA	Keydown: m
+214.55976999999257	EXP	Target: autoDraw = false
+214.55976999999257	EXP	ETarget1: text = "winner"
+214.55976999999257	EXP	EPrime: text = "winenr"
+215.0760949999967	EXP	Fixation: autoDraw = true
+216.0603800000099	EXP	Fixation: autoDraw = false
+216.07668500000727	EXP	ETarget1: autoDraw = true
+216.07668500000727	EXP	ETarget1: autoDraw = false
+216.09437000000617	EXP	EPrime: autoDraw = true
+216.15961000000243	EXP	EPrime: autoDraw = false
+216.15961000000243	EXP	Fixation: autoDraw = false
+216.15961000000243	EXP	ETarget1: autoDraw = false
+216.15961000000243	EXP	EPrime: autoDraw = false
+216.15961000000243	EXP	Target: text = "WINNER"
+216.15961000000243	EXP	Target: autoDraw = true
+216.69339500000933	DATA	Keydown: z
+216.70966500000213	EXP	Target: autoDraw = false
+216.70966500000213	EXP	ETarget1: text = "pigeon"
+216.70966500000213	EXP	EPrime: text = "pgieon"
+217.2266149999923	EXP	Fixation: autoDraw = true
+218.20733000000473	EXP	Fixation: autoDraw = false
+218.22751999998582	EXP	ETarget1: autoDraw = true
+218.22751999998582	EXP	ETarget1: autoDraw = false
+218.2440399999905	EXP	EPrime: autoDraw = true
+218.31087499999558	EXP	EPrime: autoDraw = false
+218.31087499999558	EXP	Fixation: autoDraw = false
+218.31087499999558	EXP	ETarget1: autoDraw = false
+218.31087499999558	EXP	EPrime: autoDraw = false
+218.31087499999558	EXP	Target: text = "PIGEON"
+218.31087499999558	EXP	Target: autoDraw = true
+218.74437999998918	DATA	Keydown: m
+218.75946999998996	EXP	Target: autoDraw = false
+218.75946999998996	EXP	ETarget1: text = "clavely"
+218.75946999998996	EXP	EPrime: text = "calvely"
+219.27702999999747	EXP	Fixation: autoDraw = true
+220.25870000000577	EXP	Fixation: autoDraw = false
+220.27752500001225	EXP	ETarget1: autoDraw = true
+220.27752500001225	EXP	ETarget1: autoDraw = false
+220.2937999999849	EXP	EPrime: autoDraw = true
+220.3601900000067	EXP	EPrime: autoDraw = false
+220.3601900000067	EXP	Fixation: autoDraw = false
+220.3601900000067	EXP	ETarget1: autoDraw = false
+220.3601900000067	EXP	EPrime: autoDraw = false
+220.3601900000067	EXP	Target: text = "CLAVELY"
+220.3601900000067	EXP	Target: autoDraw = true
+221.24418999999762	DATA	Keydown: z
+221.25959999999031	EXP	Target: autoDraw = false
+221.25959999999031	EXP	ETarget1: text = "playnime"
+221.25959999999031	EXP	EPrime: text = "plarmime"
+221.77686499999254	EXP	Fixation: autoDraw = true
+222.75755499998922	EXP	Fixation: autoDraw = false
+222.77698999998393	EXP	ETarget1: autoDraw = true
+222.77698999998393	EXP	ETarget1: autoDraw = false
+222.79399000000558	EXP	EPrime: autoDraw = true
+222.86050499998964	EXP	EPrime: autoDraw = false
+222.86050499998964	EXP	Fixation: autoDraw = false
+222.86050499998964	EXP	ETarget1: autoDraw = false
+222.86050499998964	EXP	EPrime: autoDraw = false
+222.86050499998964	EXP	Target: text = "PLAYNIME"
+222.86050499998964	EXP	Target: autoDraw = true
+223.7440549999883	DATA	Keydown: z
+223.75968499999726	EXP	Target: autoDraw = false
+223.75968499999726	EXP	ETarget1: text = "legend"
+223.75968499999726	EXP	EPrime: text = "legord"
+224.2760249999992	EXP	Fixation: autoDraw = true
+225.25592500000494	EXP	Fixation: autoDraw = false
+225.27655499998946	EXP	ETarget1: autoDraw = true
+225.27655499998946	EXP	ETarget1: autoDraw = false
+225.29507500000182	EXP	EPrime: autoDraw = true
+225.36047499999404	EXP	EPrime: autoDraw = false
+225.36047499999404	EXP	Fixation: autoDraw = false
+225.36047499999404	EXP	ETarget1: autoDraw = false
+225.36047499999404	EXP	EPrime: autoDraw = false
+225.36047499999404	EXP	Target: text = "LEGEND"
+225.36047499999404	EXP	Target: autoDraw = true
+225.96113499999046	DATA	Keydown: m
+225.9756650000054	EXP	Target: autoDraw = false
+225.9756650000054	EXP	ETarget1: text = "callage"
+225.9756650000054	EXP	EPrime: text = "callgae"
+226.4927350000071	EXP	Fixation: autoDraw = true
+227.47418499999912	EXP	Fixation: autoDraw = false
+227.49359999998705	EXP	ETarget1: autoDraw = true
+227.49359999998705	EXP	ETarget1: autoDraw = false
+227.5110599999898	EXP	EPrime: autoDraw = true
+227.57777499998338	EXP	EPrime: autoDraw = false
+227.57777499998338	EXP	Fixation: autoDraw = false
+227.57777499998338	EXP	ETarget1: autoDraw = false
+227.57777499998338	EXP	EPrime: autoDraw = false
+227.57777499998338	EXP	Target: text = "CALLAGE"
+227.57777499998338	EXP	Target: autoDraw = true
+228.15971499998705	DATA	Keydown: z
+228.1766549999884	EXP	Target: autoDraw = false
+228.1766549999884	EXP	ETarget1: text = "referee"
+228.1766549999884	EXP	EPrime: text = "rfeeree"
+228.67684000000008	EXP	Fixation: autoDraw = true
+229.6775750000088	EXP	Fixation: autoDraw = false
+229.6775750000088	EXP	ETarget1: autoDraw = true
+229.69339000000036	EXP	ETarget1: autoDraw = false
+229.71061999999802	EXP	EPrime: autoDraw = true
+229.7773149999848	EXP	EPrime: autoDraw = false
+229.7773149999848	EXP	Fixation: autoDraw = false
+229.7773149999848	EXP	ETarget1: autoDraw = false
+229.7773149999848	EXP	EPrime: autoDraw = false
+229.7773149999848	EXP	Target: text = "REFEREE"
+229.7773149999848	EXP	Target: autoDraw = true
+230.310135000007	DATA	Keydown: m
+230.32636999999522	EXP	Target: autoDraw = false
+230.32636999999522	EXP	ETarget1: text = "round"
+230.32636999999522	EXP	EPrime: text = "ruond"
+230.84260499998345	EXP	Fixation: autoDraw = true
+231.8267749999941	EXP	Fixation: autoDraw = false
+231.84357500000624	EXP	ETarget1: autoDraw = true
+231.84357500000624	EXP	ETarget1: autoDraw = false
+231.86062500000116	EXP	EPrime: autoDraw = true
+231.92746000000625	EXP	EPrime: autoDraw = false
+231.92746000000625	EXP	Fixation: autoDraw = false
+231.92746000000625	EXP	ETarget1: autoDraw = false
+231.92746000000625	EXP	EPrime: autoDraw = false
+231.92746000000625	EXP	Target: text = "ROUND"
+231.92746000000625	EXP	Target: autoDraw = true
+232.49424500000896	DATA	Keydown: m
+232.50953000001027	EXP	Target: autoDraw = false
+232.50953000001027	EXP	ETarget1: text = "button"
+232.50953000001027	EXP	EPrime: text = "bizton"
+233.0256250000093	EXP	Fixation: autoDraw = true
+234.0097400000086	EXP	Fixation: autoDraw = false
+234.02666500001214	EXP	ETarget1: autoDraw = true
+234.02666500001214	EXP	ETarget1: autoDraw = false
+234.0442650000041	EXP	EPrime: autoDraw = true
+234.11055000001215	EXP	EPrime: autoDraw = false
+234.11055000001215	EXP	Fixation: autoDraw = false
+234.11055000001215	EXP	ETarget1: autoDraw = false
+234.11055000001215	EXP	EPrime: autoDraw = false
+234.11055000001215	EXP	Target: text = "BUTTON"
+234.11055000001215	EXP	Target: autoDraw = true
+234.64549999998417	DATA	Keydown: m
+234.65932999999495	EXP	Target: autoDraw = false
+234.65932999999495	EXP	ETarget1: text = "lying"
+234.65932999999495	EXP	EPrime: text = "lyorg"
+235.17590999999084	EXP	Fixation: autoDraw = true
+236.1559750000015	EXP	Fixation: autoDraw = false
+236.17652499998803	EXP	ETarget1: autoDraw = true
+236.17652499998803	EXP	ETarget1: autoDraw = false
+236.19331999999122	EXP	EPrime: autoDraw = true
+236.25969000000623	EXP	EPrime: autoDraw = false
+236.25969000000623	EXP	Fixation: autoDraw = false
+236.25969000000623	EXP	ETarget1: autoDraw = false
+236.25969000000623	EXP	EPrime: autoDraw = false
+236.25969000000623	EXP	Target: text = "LYING"
+236.25969000000623	EXP	Target: autoDraw = true
+236.7623700000113	DATA	Keydown: z
+236.77606999999261	EXP	Target: autoDraw = false
+236.77606999999261	EXP	ETarget1: text = "sibble"
+236.77606999999261	EXP	EPrime: text = "sibode"
+237.2767349999922	EXP	Fixation: autoDraw = true
+238.27642999999807	EXP	Fixation: autoDraw = false
+238.29308500001207	EXP	ETarget1: autoDraw = true
+238.29308500001207	EXP	ETarget1: autoDraw = false
+238.31029500000295	EXP	EPrime: autoDraw = true
+238.3771049999923	EXP	EPrime: autoDraw = false
+238.3771049999923	EXP	Fixation: autoDraw = false
+238.3771049999923	EXP	ETarget1: autoDraw = false
+238.3771049999923	EXP	EPrime: autoDraw = false
+238.3771049999923	EXP	Target: text = "SIBBLE"
+238.3771049999923	EXP	Target: autoDraw = true
+238.92635500000324	DATA	Keydown: z
+238.9432450000022	EXP	Target: autoDraw = false
+238.9432450000022	EXP	ETarget1: text = "lopely"
+238.9432450000022	EXP	EPrime: text = "lopley"
+239.45990499999607	EXP	Fixation: autoDraw = true
+240.44350500000292	EXP	Fixation: autoDraw = false
+240.4602399999858	EXP	ETarget1: autoDraw = true
+240.4602399999858	EXP	ETarget1: autoDraw = false
+240.47706999999355	EXP	EPrime: autoDraw = true
+240.5437399999937	EXP	EPrime: autoDraw = false
+240.5437399999937	EXP	Fixation: autoDraw = false
+240.5437399999937	EXP	ETarget1: autoDraw = false
+240.5437399999937	EXP	EPrime: autoDraw = false
+240.5437399999937	EXP	Target: text = "LOPELY"
+240.5437399999937	EXP	Target: autoDraw = true
+241.1438199999975	DATA	Keydown: z
+241.1599200000055	EXP	Target: autoDraw = false
+241.1599200000055	EXP	ETarget1: text = "canivan"
+241.1599200000055	EXP	EPrime: text = "canvian"
+241.67562999998336	EXP	Fixation: autoDraw = true
+242.6597049999982	EXP	Fixation: autoDraw = false
+242.67616999999154	EXP	ETarget1: autoDraw = true
+242.67616999999154	EXP	ETarget1: autoDraw = false
+242.69477000000188	EXP	EPrime: autoDraw = true
+242.7599249999912	EXP	EPrime: autoDraw = false
+242.7599249999912	EXP	Fixation: autoDraw = false
+242.7599249999912	EXP	ETarget1: autoDraw = false
+242.7599249999912	EXP	EPrime: autoDraw = false
+242.7599249999912	EXP	Target: text = "CANIVAN"
+242.7599249999912	EXP	Target: autoDraw = true
+243.31390499998815	DATA	Keydown: z
+243.32657999999356	EXP	Target: autoDraw = false
+243.32657999999356	EXP	ETarget1: text = "orchestra"
+243.32657999999356	EXP	EPrime: text = "orchesdna"
+243.84314000001177	EXP	Fixation: autoDraw = true
+244.82630499999505	EXP	Fixation: autoDraw = false
+244.84335499998997	EXP	ETarget1: autoDraw = true
+244.84335499998997	EXP	ETarget1: autoDraw = false
+244.8608649999951	EXP	EPrime: autoDraw = true
+244.9272350000101	EXP	EPrime: autoDraw = false
+244.9272350000101	EXP	Fixation: autoDraw = false
+244.9272350000101	EXP	ETarget1: autoDraw = false
+244.9272350000101	EXP	EPrime: autoDraw = false
+244.9272350000101	EXP	Target: text = "ORCHESTRA"
+244.9272350000101	EXP	Target: autoDraw = true
+245.50976499999524	DATA	Keydown: m
+245.52621499999077	EXP	Target: autoDraw = false
+245.52621499999077	EXP	ETarget1: text = "alphabet"
+245.52621499999077	EXP	EPrime: text = "anthabet"
+246.04348500000197	EXP	Fixation: autoDraw = true
+247.01040999998804	DATA	Keydown: z
+247.02369500001078	EXP	Fixation: autoDraw = false
+247.0432199999923	EXP	ETarget1: autoDraw = true
+247.0432199999923	EXP	ETarget1: autoDraw = false
+247.06047999998555	EXP	EPrime: autoDraw = true
+247.12719999998808	EXP	EPrime: autoDraw = false
+247.12719999998808	EXP	Fixation: autoDraw = false
+247.12719999998808	EXP	ETarget1: autoDraw = false
+247.12719999998808	EXP	EPrime: autoDraw = false
+247.12719999998808	EXP	Target: text = "ALPHABET"
+247.12719999998808	EXP	Target: autoDraw = true
+247.79334999999264	DATA	Keydown: m
+247.80942999999388	EXP	Target: autoDraw = false
+247.80942999999388	EXP	ETarget1: text = "loarnt"
+247.80942999999388	EXP	EPrime: text = "lorant"
+248.32683000000543	EXP	Fixation: autoDraw = true
+249.3108249999932	EXP	Fixation: autoDraw = false
+249.3108249999932	EXP	ETarget1: autoDraw = true
+249.32395499999984	EXP	ETarget1: autoDraw = false
+249.34369999999763	EXP	EPrime: autoDraw = true
+249.40995000000112	EXP	EPrime: autoDraw = false
+249.40995000000112	EXP	Fixation: autoDraw = false
+249.40995000000112	EXP	ETarget1: autoDraw = false
+249.40995000000112	EXP	EPrime: autoDraw = false
+249.40995000000112	EXP	Target: text = "LOARNT"
+249.40995000000112	EXP	Target: autoDraw = true
+250.0287299999909	DATA	Keydown: z
+250.04287000000477	EXP	Target: autoDraw = false
+250.04287000000477	EXP	ETarget1: text = "hotel"
+250.04287000000477	EXP	EPrime: text = "hopal"
+250.54339000000618	EXP	Fixation: autoDraw = true
+251.54014999998617	EXP	Fixation: autoDraw = false
+251.55994499998633	EXP	ETarget1: autoDraw = true
+251.55994499998633	EXP	ETarget1: autoDraw = false
+251.57706000001053	EXP	EPrime: autoDraw = true
+251.6437750000041	EXP	EPrime: autoDraw = false
+251.6437750000041	EXP	Fixation: autoDraw = false
+251.6437750000041	EXP	ETarget1: autoDraw = false
+251.6437750000041	EXP	EPrime: autoDraw = false
+251.6437750000041	EXP	Target: text = "HOTEL"
+251.6437750000041	EXP	Target: autoDraw = true
+252.19289999999455	DATA	Keydown: m
+252.20890500000678	EXP	Target: autoDraw = false
+252.20890500000678	EXP	ETarget1: text = "spailt"
+252.20890500000678	EXP	EPrime: text = "sparft"
+252.7255550000118	EXP	Fixation: autoDraw = true
+253.70999000000302	EXP	Fixation: autoDraw = false
+253.70999000000302	EXP	ETarget1: autoDraw = true
+253.72584500000812	EXP	ETarget1: autoDraw = false
+253.74335000000428	EXP	EPrime: autoDraw = true
+253.80973000000813	EXP	EPrime: autoDraw = false
+253.80973000000813	EXP	Fixation: autoDraw = false
+253.80973000000813	EXP	ETarget1: autoDraw = false
+253.80973000000813	EXP	EPrime: autoDraw = false
+253.80973000000813	EXP	Target: text = "SPAILT"
+253.80973000000813	EXP	Target: autoDraw = true
+254.34338499998557	DATA	Keydown: z
+254.35941499998444	EXP	Target: autoDraw = false
+254.35941499998444	EXP	ETarget1: text = "natural"
+254.35941499998444	EXP	EPrime: text = "natumel"
+254.87646999998833	EXP	Fixation: autoDraw = true
+255.85908999998355	EXP	Fixation: autoDraw = false
+255.87620999998762	EXP	ETarget1: autoDraw = true
+255.87620999998762	EXP	ETarget1: autoDraw = false
+255.8936499999836	EXP	EPrime: autoDraw = true
+255.96003499999642	EXP	EPrime: autoDraw = false
+255.96003499999642	EXP	Fixation: autoDraw = false
+255.96003499999642	EXP	ETarget1: autoDraw = false
+255.96003499999642	EXP	EPrime: autoDraw = false
+255.96003499999642	EXP	Target: text = "NATURAL"
+255.96003499999642	EXP	Target: autoDraw = true
+256.5103900000104	DATA	Keydown: m
+256.5264099999913	EXP	Target: autoDraw = false
+256.5264099999913	EXP	ETarget1: text = "holmits"
+256.5264099999913	EXP	EPrime: text = "homlits"
+257.0253049999883	EXP	Fixation: autoDraw = true
+258.0239700000093	EXP	Fixation: autoDraw = false
+258.0413450000051	EXP	ETarget1: autoDraw = true
+258.0413450000051	EXP	ETarget1: autoDraw = false
+258.05890000000363	EXP	EPrime: autoDraw = true
+258.1263099999924	EXP	EPrime: autoDraw = false
+258.1263099999924	EXP	Fixation: autoDraw = false
+258.1263099999924	EXP	ETarget1: autoDraw = false
+258.1263099999924	EXP	EPrime: autoDraw = false
+258.1263099999924	EXP	Target: text = "HOLMITS"
+258.1263099999924	EXP	Target: autoDraw = true
+258.609375	DATA	Keydown: z
+258.6260450000118	EXP	Target: autoDraw = false
+258.6260450000118	EXP	ETarget1: text = "child"
+258.6260450000118	EXP	EPrime: text = "crald"
+259.12646999998833	EXP	Fixation: autoDraw = true
+260.1233699999866	EXP	Fixation: autoDraw = false
+260.14330500000506	EXP	ETarget1: autoDraw = true
+260.14330500000506	EXP	ETarget1: autoDraw = false
+260.1599099999876	EXP	EPrime: autoDraw = true
+260.22709999998915	EXP	EPrime: autoDraw = false
+260.22709999998915	EXP	Fixation: autoDraw = false
+260.22709999998915	EXP	ETarget1: autoDraw = false
+260.22709999998915	EXP	EPrime: autoDraw = false
+260.22709999998915	EXP	Target: text = "CHILD"
+260.22709999998915	EXP	Target: autoDraw = true
+260.859529999987	DATA	Keydown: m
+260.87648000000627	EXP	Target: autoDraw = false
+260.87648000000627	EXP	ETarget1: text = "tronch"
+260.87648000000627	EXP	EPrime: text = "taunch"
+261.37638999999035	EXP	Fixation: autoDraw = true
+262.3761499999964	EXP	Fixation: autoDraw = false
+262.3927749999857	EXP	ETarget1: autoDraw = true
+262.3927749999857	EXP	ETarget1: autoDraw = false
+262.4106399999873	EXP	EPrime: autoDraw = true
+262.4769199999864	EXP	EPrime: autoDraw = false
+262.4769199999864	EXP	Fixation: autoDraw = false
+262.4769199999864	EXP	ETarget1: autoDraw = false
+262.4769199999864	EXP	EPrime: autoDraw = false
+262.4769199999864	EXP	Target: text = "TRONCH"
+262.4769199999864	EXP	Target: autoDraw = true
+263.7763949999935	DATA	Keydown: z
+263.79270499999984	EXP	Target: autoDraw = false
+263.79270499999984	EXP	ETarget1: text = "match"
+263.79270499999984	EXP	EPrime: text = "mansh"
+264.3091999999888	EXP	Fixation: autoDraw = true
+265.29202500000247	EXP	Fixation: autoDraw = false
+265.3091499999864	EXP	ETarget1: autoDraw = true
+265.3091499999864	EXP	ETarget1: autoDraw = false
+265.32665500001167	EXP	EPrime: autoDraw = true
+265.39293999999063	EXP	EPrime: autoDraw = false
+265.39293999999063	EXP	Fixation: autoDraw = false
+265.39293999999063	EXP	ETarget1: autoDraw = false
+265.39293999999063	EXP	EPrime: autoDraw = false
+265.39293999999063	EXP	Target: text = "MATCH"
+265.39293999999063	EXP	Target: autoDraw = true
+265.9453199999989	DATA	Keydown: m
+265.959514999995	EXP	Target: autoDraw = false
+265.959514999995	EXP	ETarget1: text = "trapped"
+265.959514999995	EXP	EPrime: text = "trapepd"
+266.4751899999974	EXP	Fixation: autoDraw = true
+267.46012500001234	EXP	Fixation: autoDraw = false
+267.46012500001234	EXP	ETarget1: autoDraw = true
+267.4762749999936	EXP	ETarget1: autoDraw = false
+267.4933949999977	EXP	EPrime: autoDraw = true
+267.56002000000444	EXP	EPrime: autoDraw = false
+267.56002000000444	EXP	Fixation: autoDraw = false
+267.56002000000444	EXP	ETarget1: autoDraw = false
+267.56002000000444	EXP	EPrime: autoDraw = false
+267.56002000000444	EXP	Target: text = "TRAPPED"
+267.56002000000444	EXP	Target: autoDraw = true
+268.0104749999882	DATA	Keydown: m
+268.02629499998875	EXP	Target: autoDraw = false
+268.02629499998875	EXP	ETarget1: text = "outside"
+268.02629499998875	EXP	EPrime: text = "otuside"
+268.5428200000024	EXP	Fixation: autoDraw = true
+269.5235699999903	EXP	Fixation: autoDraw = false
+269.54323999999906	EXP	ETarget1: autoDraw = true
+269.54323999999906	EXP	ETarget1: autoDraw = false
+269.5601150000002	EXP	EPrime: autoDraw = true
+269.62688500000513	EXP	EPrime: autoDraw = false
+269.62688500000513	EXP	Fixation: autoDraw = false
+269.62688500000513	EXP	ETarget1: autoDraw = false
+269.62688500000513	EXP	EPrime: autoDraw = false
+269.62688500000513	EXP	Target: text = "OUTSIDE"
+269.62688500000513	EXP	Target: autoDraw = true
+270.09249499998987	DATA	Keydown: m
+270.1092199999839	EXP	Target: autoDraw = false
+270.1092199999839	EXP	ETarget1: text = "patient"
+270.1092199999839	EXP	EPrime: text = "ptaient"
+270.6094799999846	EXP	Fixation: autoDraw = true
+271.6103749999893	EXP	Fixation: autoDraw = false
+271.6103749999893	EXP	ETarget1: autoDraw = true
+271.62627000000793	EXP	ETarget1: autoDraw = false
+271.64364500000374	EXP	EPrime: autoDraw = true
+271.71009499998763	EXP	EPrime: autoDraw = false
+271.71009499998763	EXP	Fixation: autoDraw = false
+271.71009499998763	EXP	ETarget1: autoDraw = false
+271.71009499998763	EXP	EPrime: autoDraw = false
+271.71009499998763	EXP	Target: text = "PATIENT"
+271.71009499998763	EXP	Target: autoDraw = true
+272.12602500000503	DATA	Keydown: m
+272.1424999999872	EXP	Target: autoDraw = false
+272.1424999999872	EXP	ETarget1: text = "curfomers"
+272.1424999999872	EXP	EPrime: text = "crufomers"
+272.6583099999989	EXP	Fixation: autoDraw = true
+273.6399500000116	EXP	Fixation: autoDraw = false
+273.65977500000736	EXP	ETarget1: autoDraw = true
+273.65977500000736	EXP	ETarget1: autoDraw = false
+273.6771149999986	EXP	EPrime: autoDraw = true
+273.7436549999984	EXP	EPrime: autoDraw = false
+273.7436549999984	EXP	Fixation: autoDraw = false
+273.7436549999984	EXP	ETarget1: autoDraw = false
+273.7436549999984	EXP	EPrime: autoDraw = false
+273.7436549999984	EXP	Target: text = "CURFOMERS"
+273.7436549999984	EXP	Target: autoDraw = true
+274.27614500001073	DATA	Keydown: z
+274.29273499999545	EXP	Target: autoDraw = false
+274.29273499999545	EXP	ETarget1: text = "pevuliar"
+274.29273499999545	EXP	EPrime: text = "panuliar"
+274.7925450000039	EXP	Fixation: autoDraw = true
+275.7898649999988	EXP	Fixation: autoDraw = false
+275.80961999998544	EXP	ETarget1: autoDraw = true
+275.80961999998544	EXP	ETarget1: autoDraw = false
+275.8268000000098	EXP	EPrime: autoDraw = true
+275.89250499999616	EXP	EPrime: autoDraw = false
+275.89250499999616	EXP	Fixation: autoDraw = false
+275.89250499999616	EXP	ETarget1: autoDraw = false
+275.89250499999616	EXP	EPrime: autoDraw = false
+275.89250499999616	EXP	Target: text = "PEVULIAR"
+275.89250499999616	EXP	Target: autoDraw = true
+276.4258249999839	DATA	Keydown: z
+276.4428949999856	EXP	Target: autoDraw = false
+276.4428949999856	EXP	ETarget1: text = "crishing"
+276.4428949999856	EXP	EPrime: text = "cirshing"
+276.9582100000116	EXP	Fixation: autoDraw = true
+277.94318999999086	EXP	Fixation: autoDraw = false
+277.9595350000018	EXP	ETarget1: autoDraw = true
+277.9595350000018	EXP	ETarget1: autoDraw = false
+277.9768899999908	EXP	EPrime: autoDraw = true
+278.0442599999951	EXP	EPrime: autoDraw = false
+278.0442599999951	EXP	Fixation: autoDraw = false
+278.0442599999951	EXP	ETarget1: autoDraw = false
+278.0442599999951	EXP	EPrime: autoDraw = false
+278.0442599999951	EXP	Target: text = "CRISHING"
+278.0442599999951	EXP	Target: autoDraw = true
+278.79236500000115	DATA	Keydown: z
+278.80932999998913	EXP	Target: autoDraw = false
+278.80932999998913	EXP	ETarget1: text = "potato"
+278.80932999998913	EXP	EPrime: text = "ptoato"
+279.3249599999981	EXP	Fixation: autoDraw = true
+280.30989499998395	EXP	Fixation: autoDraw = false
+280.30989499998395	EXP	ETarget1: autoDraw = true
+280.32613500001025	EXP	ETarget1: autoDraw = false
+280.3436400000064	EXP	EPrime: autoDraw = true
+280.4092599999858	EXP	EPrime: autoDraw = false
+280.4092599999858	EXP	Fixation: autoDraw = false
+280.4092599999858	EXP	ETarget1: autoDraw = false
+280.4092599999858	EXP	EPrime: autoDraw = false
+280.4092599999858	EXP	Target: text = "POTATO"
+280.4092599999858	EXP	Target: autoDraw = true
+281.0604400000011	DATA	Keydown: m
+281.0756349999865	EXP	Target: autoDraw = false
+281.0756349999865	EXP	ETarget1: text = "burning"
+281.0756349999865	EXP	EPrime: text = "bozning"
+281.59275999999954	EXP	Fixation: autoDraw = true
+282.572914999997	EXP	Fixation: autoDraw = false
+282.59250999998767	EXP	ETarget1: autoDraw = true
+282.59250999998767	EXP	ETarget1: autoDraw = false
+282.60994999998366	EXP	EPrime: autoDraw = true
+282.6765949999972	EXP	EPrime: autoDraw = false
+282.6765949999972	EXP	Fixation: autoDraw = false
+282.6765949999972	EXP	ETarget1: autoDraw = false
+282.6765949999972	EXP	EPrime: autoDraw = false
+282.6765949999972	EXP	Target: text = "BURNING"
+282.6765949999972	EXP	Target: autoDraw = true
+282.6998200000089	DATA	Keydown: z
+282.7075199999963	EXP	Target: autoDraw = false
+282.7075199999963	EXP	ETarget1: text = "twotched"
+282.7075199999963	EXP	EPrime: text = "tartched"
+283.22602500001085	EXP	Fixation: autoDraw = true
+284.20885999998427	EXP	Fixation: autoDraw = false
+284.2266349999991	EXP	ETarget1: autoDraw = true
+284.24315500000375	EXP	ETarget1: autoDraw = false
+284.24315500000375	EXP	EPrime: autoDraw = true
+284.3098999999929	EXP	EPrime: autoDraw = false
+284.3098999999929	EXP	Fixation: autoDraw = false
+284.3098999999929	EXP	ETarget1: autoDraw = false
+284.3098999999929	EXP	EPrime: autoDraw = false
+284.3098999999929	EXP	Target: text = "TWOTCHED"
+284.3098999999929	EXP	Target: autoDraw = true
+284.859924999997	DATA	Keydown: z
+284.875555000006	EXP	Target: autoDraw = false
+284.875555000006	EXP	ETarget1: text = "swump"
+284.875555000006	EXP	EPrime: text = "scomp"
+285.3925300000119	EXP	Fixation: autoDraw = true
+286.3758450000023	EXP	Fixation: autoDraw = false
+286.39231999998447	EXP	ETarget1: autoDraw = true
+286.39231999998447	EXP	ETarget1: autoDraw = false
+286.4102150000108	EXP	EPrime: autoDraw = true
+286.47802499998943	EXP	EPrime: autoDraw = false
+286.47802499998943	EXP	Fixation: autoDraw = false
+286.47802499998943	EXP	ETarget1: autoDraw = false
+286.47802499998943	EXP	EPrime: autoDraw = false
+286.47802499998943	EXP	Target: text = "SWUMP"
+286.47802499998943	EXP	Target: autoDraw = true
+286.9930250000034	DATA	Keydown: z
+287.0092650000006	EXP	Target: autoDraw = false
+287.0092650000006	EXP	ETarget1: text = "print"
+287.0092650000006	EXP	EPrime: text = "pirnt"
+287.526114999986	EXP	Fixation: autoDraw = true
+288.5066999999981	EXP	Fixation: autoDraw = false
+288.5258299999987	EXP	ETarget1: autoDraw = true
+288.5258299999987	EXP	ETarget1: autoDraw = false
+288.54308500001207	EXP	EPrime: autoDraw = true
+288.6092049999861	EXP	EPrime: autoDraw = false
+288.6092049999861	EXP	Fixation: autoDraw = false
+288.6092049999861	EXP	ETarget1: autoDraw = false
+288.6092049999861	EXP	EPrime: autoDraw = false
+288.6092049999861	EXP	Target: text = "PRINT"
+288.6092049999861	EXP	Target: autoDraw = true
+289.1589549999917	DATA	Keydown: m
+289.17595499998424	EXP	Target: autoDraw = false
+289.17595499998424	EXP	ETarget1: text = "panther"
+289.17595499998424	EXP	EPrime: text = "pnather"
+289.6925099999935	EXP	Fixation: autoDraw = true
+290.672985000012	EXP	Fixation: autoDraw = false
+290.69265499999165	EXP	ETarget1: autoDraw = true
+290.69265499999165	EXP	ETarget1: autoDraw = false
+290.7096099999908	EXP	EPrime: autoDraw = true
+290.7766399999964	EXP	EPrime: autoDraw = false
+290.7766399999964	EXP	Fixation: autoDraw = false
+290.7766399999964	EXP	ETarget1: autoDraw = false
+290.7766399999964	EXP	EPrime: autoDraw = false
+290.7766399999964	EXP	Target: text = "PANTHER"
+290.7766399999964	EXP	Target: autoDraw = true
+291.40894500000286	DATA	Keydown: m
+291.4258499999996	EXP	Target: autoDraw = false
+291.4258499999996	EXP	ETarget1: text = "return"
+291.4258499999996	EXP	EPrime: text = "rteurn"
+291.92588999998407	EXP	Fixation: autoDraw = true
+292.9230899999966	EXP	Fixation: autoDraw = false
+292.9427499999874	EXP	ETarget1: autoDraw = true
+292.9427499999874	EXP	ETarget1: autoDraw = false
+292.95952499998384	EXP	EPrime: autoDraw = true
+293.02640500001144	EXP	EPrime: autoDraw = false
+293.02640500001144	EXP	Fixation: autoDraw = false
+293.02640500001144	EXP	ETarget1: autoDraw = false
+293.02640500001144	EXP	EPrime: autoDraw = false
+293.02640500001144	EXP	Target: text = "RETURN"
+293.02640500001144	EXP	Target: autoDraw = true
+293.55961999998544	DATA	Keydown: m
+293.5758499999938	EXP	Target: autoDraw = false
+293.5758499999938	EXP	ETarget1: text = "snake"
+293.5758499999938	EXP	EPrime: text = "snkae"
+294.0926099999924	EXP	Fixation: autoDraw = true
+295.0756049999909	EXP	Fixation: autoDraw = false
+295.09247999999207	EXP	ETarget1: autoDraw = true
+295.09247999999207	EXP	ETarget1: autoDraw = false
+295.1096700000053	EXP	EPrime: autoDraw = true
+295.1767749999999	EXP	EPrime: autoDraw = false
+295.1767749999999	EXP	Fixation: autoDraw = false
+295.1767749999999	EXP	ETarget1: autoDraw = false
+295.1767749999999	EXP	EPrime: autoDraw = false
+295.1767749999999	EXP	Target: text = "SNAKE"
+295.1767749999999	EXP	Target: autoDraw = true
+296.07579999999143	DATA	Keydown: m
+296.0921999999846	EXP	Target: autoDraw = false
+296.0921999999846	EXP	ETarget1: text = "spirit"
+296.0921999999846	EXP	EPrime: text = "spiirt"
+296.60917999999947	EXP	Fixation: autoDraw = true
+297.59182500001043	EXP	Fixation: autoDraw = false
+297.6091599999927	EXP	ETarget1: autoDraw = true
+297.6091599999927	EXP	ETarget1: autoDraw = false
+297.6267799999914	EXP	EPrime: autoDraw = true
+297.69299499999033	EXP	EPrime: autoDraw = false
+297.69299499999033	EXP	Fixation: autoDraw = false
+297.69299499999033	EXP	ETarget1: autoDraw = false
+297.69299499999033	EXP	EPrime: autoDraw = false
+297.69299499999033	EXP	Target: text = "SPIRIT"
+297.69299499999033	EXP	Target: autoDraw = true
+298.92675499999314	DATA	Keydown: m
+298.9426600000006	EXP	Target: autoDraw = false
+298.9426600000006	EXP	ETarget1: text = "floats"
+298.9426600000006	EXP	EPrime: text = "freats"
+299.4580100000021	EXP	Fixation: autoDraw = true
+300.43963999999687	EXP	Fixation: autoDraw = false
+300.4594900000084	EXP	ETarget1: autoDraw = true
+300.4594900000084	EXP	ETarget1: autoDraw = false
+300.4767350000038	EXP	EPrime: autoDraw = true
+300.54282500001136	EXP	EPrime: autoDraw = false
+300.54282500001136	EXP	Fixation: autoDraw = false
+300.54282500001136	EXP	ETarget1: autoDraw = false
+300.54282500001136	EXP	EPrime: autoDraw = false
+300.54282500001136	EXP	Target: text = "FLOATS"
+300.54282500001136	EXP	Target: autoDraw = true
+301.42723999999	DATA	Keydown: m
+301.4430500000017	EXP	Target: autoDraw = false
+301.4430500000017	EXP	ETarget1: text = "influence"
+301.4430500000017	EXP	EPrime: text = "influorce"
+301.9589949999936	EXP	Fixation: autoDraw = true
+302.94273000000976	EXP	Fixation: autoDraw = false
+302.9589899999846	EXP	ETarget1: autoDraw = true
+302.9589899999846	EXP	ETarget1: autoDraw = false
+302.97657999998773	EXP	EPrime: autoDraw = true
+303.04326000000583	EXP	EPrime: autoDraw = false
+303.04326000000583	EXP	Fixation: autoDraw = false
+303.04326000000583	EXP	ETarget1: autoDraw = false
+303.04326000000583	EXP	EPrime: autoDraw = false
+303.04326000000583	EXP	Target: text = "INFLUENCE"
+303.04326000000583	EXP	Target: autoDraw = true
+303.66211000000476	DATA	Keydown: m
+303.6755300000077	EXP	Target: autoDraw = false
+303.6755300000077	EXP	ETarget1: text = "skirping"
+303.6755300000077	EXP	EPrime: text = "skawping"
+304.19233499999973	EXP	Fixation: autoDraw = true
+305.17271499999333	EXP	Fixation: autoDraw = false
+305.1922949999862	EXP	ETarget1: autoDraw = true
+305.1922949999862	EXP	ETarget1: autoDraw = false
+305.2098549999937	EXP	EPrime: autoDraw = true
+305.2774550000031	EXP	EPrime: autoDraw = false
+305.2774550000031	EXP	Fixation: autoDraw = false
+305.2774550000031	EXP	ETarget1: autoDraw = false
+305.2774550000031	EXP	EPrime: autoDraw = false
+305.2774550000031	EXP	Target: text = "SKIRPING"
+305.2774550000031	EXP	Target: autoDraw = true
+305.7588800000085	DATA	Keydown: z
+305.775415000011	EXP	Target: autoDraw = false
+305.775415000011	EXP	ETarget1: text = "stimp"
+305.775415000011	EXP	EPrime: text = "sturp"
+306.2912500000093	EXP	Fixation: autoDraw = true
+307.27264499999	EXP	Fixation: autoDraw = false
+307.29267500000424	EXP	ETarget1: autoDraw = true
+307.29267500000424	EXP	ETarget1: autoDraw = false
+307.30945000000065	EXP	EPrime: autoDraw = true
+307.37658999999985	EXP	EPrime: autoDraw = false
+307.37658999999985	EXP	Fixation: autoDraw = false
+307.37658999999985	EXP	ETarget1: autoDraw = false
+307.37658999999985	EXP	EPrime: autoDraw = false
+307.37658999999985	EXP	Target: text = "STIMP"
+307.37658999999985	EXP	Target: autoDraw = true
+307.9767050000082	DATA	Keydown: z
+307.99207999999635	EXP	Target: autoDraw = false
+307.99207999999635	EXP	ETarget1: text = "stoff"
+307.99207999999635	EXP	EPrime: text = "skaff"
+308.507970000006	EXP	Fixation: autoDraw = true
+309.4920149999962	EXP	Fixation: autoDraw = false
+309.50885499999276	EXP	ETarget1: autoDraw = true
+309.50885499999276	EXP	ETarget1: autoDraw = false
+309.52635500000906	EXP	EPrime: autoDraw = true
+309.5927399999928	EXP	EPrime: autoDraw = false
+309.5927399999928	EXP	Fixation: autoDraw = false
+309.5927399999928	EXP	ETarget1: autoDraw = false
+309.5927399999928	EXP	EPrime: autoDraw = false
+309.5927399999928	EXP	Target: text = "STOFF"
+309.5927399999928	EXP	Target: autoDraw = true
+310.1092249999929	DATA	Keydown: m
+310.12565500001074	EXP	Target: autoDraw = false
+310.12565500001074	EXP	ETarget1: text = "senved"
+310.12565500001074	EXP	EPrime: text = "sevned"
+310.64246000000276	EXP	Fixation: autoDraw = true
+311.6228300000075	EXP	Fixation: autoDraw = false
+311.64247500000056	EXP	ETarget1: autoDraw = true
+311.64247500000056	EXP	ETarget1: autoDraw = false
+311.6595699999889	EXP	EPrime: autoDraw = true
+311.7256449999986	EXP	EPrime: autoDraw = false
+311.7256449999986	EXP	Fixation: autoDraw = false
+311.7256449999986	EXP	ETarget1: autoDraw = false
+311.7256449999986	EXP	EPrime: autoDraw = false
+311.7256449999986	EXP	Target: text = "SENVED"
+311.7256449999986	EXP	Target: autoDraw = true
+312.6768849999935	DATA	Keydown: z
+312.6918500000029	EXP	Target: autoDraw = false
+312.6918500000029	EXP	ETarget1: text = "forest"
+312.6918500000029	EXP	EPrime: text = "forict"
+313.2079199999862	EXP	Fixation: autoDraw = true
+314.18933500000276	EXP	Fixation: autoDraw = false
+314.20944499998586	EXP	ETarget1: autoDraw = true
+314.20944499998586	EXP	ETarget1: autoDraw = false
+314.2260200000019	EXP	EPrime: autoDraw = true
+314.29273499999545	EXP	EPrime: autoDraw = false
+314.29273499999545	EXP	Fixation: autoDraw = false
+314.29273499999545	EXP	ETarget1: autoDraw = false
+314.29273499999545	EXP	EPrime: autoDraw = false
+314.29273499999545	EXP	Target: text = "FOREST"
+314.29273499999545	EXP	Target: autoDraw = true
+314.91005499998573	DATA	Keydown: m
+314.92525000000023	EXP	Target: autoDraw = false
+314.92525000000023	EXP	ETarget1: text = "mirtioned"
+314.92525000000023	EXP	EPrime: text = "mitrioned"
+315.44093499999144	EXP	Fixation: autoDraw = true
+316.42259000000195	EXP	Fixation: autoDraw = false
+316.44260999999824	EXP	ETarget1: autoDraw = true
+316.44260999999824	EXP	ETarget1: autoDraw = false
+316.45947500001057	EXP	EPrime: autoDraw = true
+316.5264749999915	EXP	EPrime: autoDraw = false
+316.5264749999915	EXP	Fixation: autoDraw = false
+316.5264749999915	EXP	ETarget1: autoDraw = false
+316.5264749999915	EXP	EPrime: autoDraw = false
+316.5264749999915	EXP	Target: text = "MIRTIONED"
+316.5264749999915	EXP	Target: autoDraw = true
+317.26008499998716	DATA	Keydown: z
+317.27452999999514	EXP	Target: autoDraw = false
+317.27452999999514	EXP	ETarget1: text = "scraff"
+317.27452999999514	EXP	EPrime: text = "stoaff"
+317.7923550000123	EXP	Fixation: autoDraw = true
+318.77489999998943	EXP	Fixation: autoDraw = false
+318.7920549999981	EXP	ETarget1: autoDraw = true
+318.7920549999981	EXP	ETarget1: autoDraw = false
+318.80946499999845	EXP	EPrime: autoDraw = true
+318.8760900000052	EXP	EPrime: autoDraw = false
+318.8760900000052	EXP	Fixation: autoDraw = false
+318.8760900000052	EXP	ETarget1: autoDraw = false
+318.8760900000052	EXP	EPrime: autoDraw = false
+318.8760900000052	EXP	Target: text = "SCRAFF"
+318.8760900000052	EXP	Target: autoDraw = true
+319.5926899999904	DATA	Keydown: z
+319.60907499998575	EXP	Target: autoDraw = false
+319.60907499998575	EXP	ETarget1: text = "thought"
+319.60907499998575	EXP	EPrime: text = "thouhgt"
+320.12571500000195	EXP	Fixation: autoDraw = true
+321.10912000000826	EXP	Fixation: autoDraw = false
+321.10912000000826	EXP	ETarget1: autoDraw = true
+321.12545500000124	EXP	ETarget1: autoDraw = false
+321.1426700000011	EXP	EPrime: autoDraw = true
+321.20972499999334	EXP	EPrime: autoDraw = false
+321.20972499999334	EXP	Fixation: autoDraw = false
+321.20972499999334	EXP	ETarget1: autoDraw = false
+321.20972499999334	EXP	EPrime: autoDraw = false
+321.20972499999334	EXP	Target: text = "THOUGHT"
+321.20972499999334	EXP	Target: autoDraw = true
+322.125475000008	DATA	Keydown: m
+322.14165000000503	EXP	Target: autoDraw = false
+322.14165000000503	EXP	ETarget1: text = "woary"
+322.14165000000503	EXP	EPrime: text = "wonvy"
+322.6577399999951	EXP	Fixation: autoDraw = true
+323.6425950000121	EXP	Fixation: autoDraw = false
+323.6425950000121	EXP	ETarget1: autoDraw = true
+323.6586900000111	EXP	ETarget1: autoDraw = false
+323.67581499999505	EXP	EPrime: autoDraw = true
+323.74298499998986	EXP	EPrime: autoDraw = false
+323.74298499998986	EXP	Fixation: autoDraw = false
+323.74298499998986	EXP	ETarget1: autoDraw = false
+323.74298499998986	EXP	EPrime: autoDraw = false
+323.74298499998986	EXP	Target: text = "WOARY"
+323.74298499998986	EXP	Target: autoDraw = true
+324.20924999998533	DATA	Keydown: z
+324.22516500001075	EXP	Target: autoDraw = false
+324.22516500001075	EXP	ETarget1: text = "summer"
+324.22516500001075	EXP	EPrime: text = "sumemr"
+324.74180499999784	EXP	Fixation: autoDraw = true
+325.7228699999978	EXP	Fixation: autoDraw = false
+325.7424400000018	EXP	ETarget1: autoDraw = true
+325.7424400000018	EXP	ETarget1: autoDraw = false
+325.75916499999585	EXP	EPrime: autoDraw = true
+325.8264499999932	EXP	EPrime: autoDraw = false
+325.8264499999932	EXP	Fixation: autoDraw = false
+325.8264499999932	EXP	ETarget1: autoDraw = false
+325.8264499999932	EXP	EPrime: autoDraw = false
+325.8264499999932	EXP	Target: text = "SUMMER"
+325.8264499999932	EXP	Target: autoDraw = true
+326.37634499999695	DATA	Keydown: m
+326.3918549999944	EXP	Target: autoDraw = false
+326.3918549999944	EXP	ETarget1: text = "dored"
+326.3918549999944	EXP	EPrime: text = "droed"
+326.8922200000088	EXP	Fixation: autoDraw = true
+327.8917650000076	EXP	Fixation: autoDraw = false
+327.90857999998843	EXP	ETarget1: autoDraw = true
+327.90857999998843	EXP	ETarget1: autoDraw = false
+327.9258249999839	EXP	EPrime: autoDraw = true
+327.99235499999486	EXP	EPrime: autoDraw = false
+327.99235499999486	EXP	Fixation: autoDraw = false
+327.99235499999486	EXP	ETarget1: autoDraw = false
+327.99235499999486	EXP	EPrime: autoDraw = false
+327.99235499999486	EXP	Target: text = "DORED"
+327.99235499999486	EXP	Target: autoDraw = true
+328.94495999999344	DATA	Keydown: z
+328.95861999999033	EXP	Target: autoDraw = false
+328.95861999999033	EXP	ETarget1: text = "markles"
+328.95861999999033	EXP	EPrime: text = "marlkes"
+329.47448999999324	EXP	Fixation: autoDraw = true
+330.4558149999939	EXP	Fixation: autoDraw = false
+330.4756000000052	EXP	ETarget1: autoDraw = true
+330.4756000000052	EXP	ETarget1: autoDraw = false
+330.49239999998827	EXP	EPrime: autoDraw = true
+330.5594149999961	EXP	EPrime: autoDraw = false
+330.5594149999961	EXP	Fixation: autoDraw = false
+330.5594149999961	EXP	ETarget1: autoDraw = false
+330.5594149999961	EXP	EPrime: autoDraw = false
+330.5594149999961	EXP	Target: text = "MARKLES"
+330.5594149999961	EXP	Target: autoDraw = true
+331.32676500000525	DATA	Keydown: z
+331.34168499999214	EXP	Target: autoDraw = false
+331.34168499999214	EXP	ETarget1: text = "skiffed"
+331.34168499999214	EXP	EPrime: text = "skiftad"
+331.8585449999955	EXP	Fixation: autoDraw = true
+332.84210000000894	EXP	Fixation: autoDraw = false
+332.85895500000333	EXP	ETarget1: autoDraw = true
+332.85895500000333	EXP	ETarget1: autoDraw = false
+332.8758300000045	EXP	EPrime: autoDraw = true
+332.94303999998374	EXP	EPrime: autoDraw = false
+332.94303999998374	EXP	Fixation: autoDraw = false
+332.94303999998374	EXP	ETarget1: autoDraw = false
+332.94303999998374	EXP	EPrime: autoDraw = false
+332.94303999998374	EXP	Target: text = "SKIFFED"
+332.94303999998374	EXP	Target: autoDraw = true
+333.4625400000077	DATA	Keydown: z
+333.47527500000433	EXP	Target: autoDraw = false
+333.47527500000433	EXP	ETarget1: text = "environment"
+333.47527500000433	EXP	EPrime: text = "embironment"
+333.9918999999936	EXP	Fixation: autoDraw = true
+334.97273499998846	EXP	Fixation: autoDraw = false
+334.99195500000496	EXP	ETarget1: autoDraw = true
+334.99195500000496	EXP	ETarget1: autoDraw = false
+335.0095450000081	EXP	EPrime: autoDraw = true
+335.07630499999505	EXP	EPrime: autoDraw = false
+335.07630499999505	EXP	Fixation: autoDraw = false
+335.07630499999505	EXP	ETarget1: autoDraw = false
+335.07630499999505	EXP	EPrime: autoDraw = false
+335.07630499999505	EXP	Target: text = "ENVIRONMENT"
+335.07630499999505	EXP	Target: autoDraw = true
+335.6759200000088	DATA	Keydown: m
+335.69168499999796	EXP	Target: autoDraw = false
+335.69168499999796	EXP	ETarget1: text = "vegetable"
+335.69168499999796	EXP	EPrime: text = "vegetalbe"
+336.2086549999949	EXP	Fixation: autoDraw = true
+337.1890349999885	EXP	Fixation: autoDraw = false
+337.208964999998	EXP	ETarget1: autoDraw = true
+337.208964999998	EXP	ETarget1: autoDraw = false
+337.226404999994	EXP	EPrime: autoDraw = true
+337.29276499999105	EXP	EPrime: autoDraw = false
+337.29276499999105	EXP	Fixation: autoDraw = false
+337.29276499999105	EXP	ETarget1: autoDraw = false
+337.29276499999105	EXP	EPrime: autoDraw = false
+337.29276499999105	EXP	Target: text = "VEGETABLE"
+337.29276499999105	EXP	Target: autoDraw = true
+337.74304999999003	DATA	Keydown: m
+337.75865999999223	EXP	Target: autoDraw = false
+337.75865999999223	EXP	ETarget1: text = "dufty"
+337.75865999999223	EXP	EPrime: text = "dutfy"
+338.2752299999993	EXP	Fixation: autoDraw = true
+339.25575499999104	EXP	Fixation: autoDraw = false
+339.2753049999883	EXP	ETarget1: autoDraw = true
+339.2753049999883	EXP	ETarget1: autoDraw = false
+339.29222500001197	EXP	EPrime: autoDraw = true
+339.3589149999898	EXP	EPrime: autoDraw = false
+339.3589149999898	EXP	Fixation: autoDraw = false
+339.3589149999898	EXP	ETarget1: autoDraw = false
+339.3589149999898	EXP	EPrime: autoDraw = false
+339.3589149999898	EXP	Target: text = "DUFTY"
+339.3589149999898	EXP	Target: autoDraw = true
+339.9942199999932	DATA	Keydown: z
+340.00867000001017	EXP	Target: autoDraw = false
+340.00867000001017	EXP	ETarget1: text = "midute"
+340.00867000001017	EXP	EPrime: text = "midtue"
+340.52424999998766	EXP	Fixation: autoDraw = true
+341.5084499999939	EXP	Fixation: autoDraw = false
+341.52531500000623	EXP	ETarget1: autoDraw = true
+341.52531500000623	EXP	ETarget1: autoDraw = false
+341.54248999999254	EXP	EPrime: autoDraw = true
+341.6089900000079	EXP	EPrime: autoDraw = false
+341.6089900000079	EXP	Fixation: autoDraw = false
+341.6089900000079	EXP	ETarget1: autoDraw = false
+341.6089900000079	EXP	EPrime: autoDraw = false
+341.6089900000079	EXP	Target: text = "MIDUTE"
+341.6089900000079	EXP	Target: autoDraw = true
+342.0255149999866	DATA	Keydown: z
+342.04159999999683	EXP	Target: autoDraw = false
+342.04159999999683	EXP	ETarget1: text = "privary"
+342.04159999999683	EXP	EPrime: text = "privony"
+342.5585999999894	EXP	Fixation: autoDraw = true
+343.5422799999942	EXP	Fixation: autoDraw = false
+343.5422799999942	EXP	ETarget1: autoDraw = true
+343.55831500000204	EXP	ETarget1: autoDraw = false
+343.57514999998966	EXP	EPrime: autoDraw = true
+343.64276499999687	EXP	EPrime: autoDraw = false
+343.64276499999687	EXP	Fixation: autoDraw = false
+343.64276499999687	EXP	ETarget1: autoDraw = false
+343.64276499999687	EXP	EPrime: autoDraw = false
+343.64276499999687	EXP	Target: text = "PRIVARY"
+343.64276499999687	EXP	Target: autoDraw = true
+344.55920499999775	DATA	Keydown: z
+344.57537999999477	EXP	Target: autoDraw = false
+344.57537999999477	EXP	ETarget1: text = "scratch"
+344.57537999999477	EXP	EPrime: text = "srcatch"
+345.0917649999901	EXP	Fixation: autoDraw = true
+346.07584499998484	EXP	Fixation: autoDraw = false
+346.07584499998484	EXP	ETarget1: autoDraw = true
+346.0914749999938	EXP	ETarget1: autoDraw = false
+346.1088799999852	EXP	EPrime: autoDraw = true
+346.17575500000385	EXP	EPrime: autoDraw = false
+346.17575500000385	EXP	Fixation: autoDraw = false
+346.17575500000385	EXP	ETarget1: autoDraw = false
+346.17575500000385	EXP	EPrime: autoDraw = false
+346.17575500000385	EXP	Target: text = "SCRATCH"
+346.17575500000385	EXP	Target: autoDraw = true
+346.6586749999842	DATA	Keydown: m
+346.674949999986	EXP	Target: autoDraw = false
+346.674949999986	EXP	ETarget1: text = "plain"
+346.674949999986	EXP	EPrime: text = "palin"
+347.1912350000057	EXP	Fixation: autoDraw = true
+348.17417499999283	EXP	Fixation: autoDraw = false
+348.1918749999895	EXP	ETarget1: autoDraw = true
+348.1918749999895	EXP	ETarget1: autoDraw = false
+348.2085800000059	EXP	EPrime: autoDraw = true
+348.27543499998865	EXP	EPrime: autoDraw = false
+348.27543499998865	EXP	Fixation: autoDraw = false
+348.27543499998865	EXP	ETarget1: autoDraw = false
+348.27543499998865	EXP	EPrime: autoDraw = false
+348.27543499998865	EXP	Target: text = "PLAIN"
+348.27543499998865	EXP	Target: autoDraw = true
+349.0090349999955	DATA	Keydown: m
+349.0252099999925	EXP	Target: autoDraw = false
+349.0252099999925	EXP	ETarget1: text = "thirns"
+349.0252099999925	EXP	EPrime: text = "thowns"
+349.5418650000065	EXP	Fixation: autoDraw = true
+350.5225849999988	EXP	Fixation: autoDraw = false
+350.5420199999935	EXP	ETarget1: autoDraw = true
+350.5420199999935	EXP	ETarget1: autoDraw = false
+350.5590849999862	EXP	EPrime: autoDraw = true
+350.6259100000025	EXP	EPrime: autoDraw = false
+350.6259100000025	EXP	Fixation: autoDraw = false
+350.6259100000025	EXP	ETarget1: autoDraw = false
+350.6259100000025	EXP	EPrime: autoDraw = false
+350.6259100000025	EXP	Target: text = "THIRNS"
+350.6259100000025	EXP	Target: autoDraw = true
+351.1768799999845	DATA	Keydown: z
+351.1916750000091	EXP	Target: autoDraw = false
+351.1916750000091	EXP	ETarget1: text = "apting"
+351.1916750000091	EXP	EPrime: text = "atping"
+351.69068500000867	EXP	Fixation: autoDraw = true
+352.6888800000015	EXP	Fixation: autoDraw = false
+352.7086999999883	EXP	ETarget1: autoDraw = true
+352.7086999999883	EXP	ETarget1: autoDraw = false
+352.7271349999937	EXP	EPrime: autoDraw = true
+352.7918950000021	EXP	EPrime: autoDraw = false
+352.7918950000021	EXP	Fixation: autoDraw = false
+352.7918950000021	EXP	ETarget1: autoDraw = false
+352.7918950000021	EXP	EPrime: autoDraw = false
+352.7918950000021	EXP	Target: text = "APTING"
+352.7918950000021	EXP	Target: autoDraw = true
+353.3593150000088	DATA	Keydown: z
+353.37481999999727	EXP	Target: autoDraw = false
+353.37481999999727	EXP	ETarget1: text = "almond"
+353.37481999999727	EXP	EPrime: text = "adrond"
+353.87511500000255	EXP	Fixation: autoDraw = true
+354.8750949999958	EXP	Fixation: autoDraw = false
+354.89176999998745	EXP	ETarget1: autoDraw = true
+354.89176999998745	EXP	ETarget1: autoDraw = false
+354.9088500000071	EXP	EPrime: autoDraw = true
+354.9753750000091	EXP	EPrime: autoDraw = false
+354.9753750000091	EXP	Fixation: autoDraw = false
+354.9753750000091	EXP	ETarget1: autoDraw = false
+354.9753750000091	EXP	EPrime: autoDraw = false
+354.9753750000091	EXP	Target: text = "ALMOND"
+354.9753750000091	EXP	Target: autoDraw = true
+355.625475000008	DATA	Keydown: m
+355.6414850000001	EXP	Target: autoDraw = false
+355.6414850000001	EXP	ETarget1: text = "heafs"
+355.6414850000001	EXP	EPrime: text = "hefas"
+356.15727500000503	EXP	Fixation: autoDraw = true
+357.1388549999974	EXP	Fixation: autoDraw = false
+357.15841000000364	EXP	ETarget1: autoDraw = true
+357.15841000000364	EXP	ETarget1: autoDraw = false
+357.1755349999876	EXP	EPrime: autoDraw = true
+357.2426400000113	EXP	EPrime: autoDraw = false
+357.2426400000113	EXP	Fixation: autoDraw = false
+357.2426400000113	EXP	ETarget1: autoDraw = false
+357.2426400000113	EXP	EPrime: autoDraw = false
+357.2426400000113	EXP	Target: text = "HEAFS"
+357.2426400000113	EXP	Target: autoDraw = true
+357.91172999999253	DATA	Keydown: z
+357.9244400000025	EXP	Target: autoDraw = false
+357.9244400000025	EXP	ETarget1: text = "difentions"
+357.9244400000025	EXP	EPrime: text = "difnetions"
+358.4418650000007	EXP	Fixation: autoDraw = true
+359.4249049999926	EXP	Fixation: autoDraw = false
+359.4417400000093	EXP	ETarget1: autoDraw = true
+359.4417400000093	EXP	ETarget1: autoDraw = false
+359.4586699999927	EXP	EPrime: autoDraw = true
+359.52577000000747	EXP	EPrime: autoDraw = false
+359.52577000000747	EXP	Fixation: autoDraw = false
+359.52577000000747	EXP	ETarget1: autoDraw = false
+359.52577000000747	EXP	EPrime: autoDraw = false
+359.52577000000747	EXP	Target: text = "DIFENTIONS"
+359.52577000000747	EXP	Target: autoDraw = true
+360.276114999986	DATA	Keydown: z
+360.29139999998733	EXP	Target: autoDraw = false
+360.29139999998733	EXP	ETarget1: text = "pavement"
+360.29139999998733	EXP	EPrime: text = "pvaement"
+360.8073499999882	EXP	Fixation: autoDraw = true
+361.79091999999946	EXP	Fixation: autoDraw = false
+361.80724999998347	EXP	ETarget1: autoDraw = true
+361.80724999998347	EXP	ETarget1: autoDraw = false
+361.8251900000032	EXP	EPrime: autoDraw = true
+361.89172499999404	EXP	EPrime: autoDraw = false
+361.89172499999404	EXP	Fixation: autoDraw = false
+361.89172499999404	EXP	ETarget1: autoDraw = false
+361.89172499999404	EXP	EPrime: autoDraw = false
+361.89172499999404	EXP	Target: text = "PAVEMENT"
+361.89172499999404	EXP	Target: autoDraw = true
+362.39222999999765	DATA	Keydown: m
+362.4082950000011	EXP	Target: autoDraw = false
+362.4082950000011	EXP	ETarget1: text = "boach"
+362.4082950000011	EXP	EPrime: text = "baoch"
+362.9082650000055	EXP	Fixation: autoDraw = true
+363.9084900000016	EXP	Fixation: autoDraw = false
+363.9084900000016	EXP	ETarget1: autoDraw = true
+363.9249199999904	EXP	ETarget1: autoDraw = false
+363.94211499998346	EXP	EPrime: autoDraw = true
+364.0089750000043	EXP	EPrime: autoDraw = false
+364.0089750000043	EXP	Fixation: autoDraw = false
+364.0089750000043	EXP	ETarget1: autoDraw = false
+364.0089750000043	EXP	EPrime: autoDraw = false
+364.0089750000043	EXP	Target: text = "BOACH"
+364.0089750000043	EXP	Target: autoDraw = true
+364.559024999995	DATA	Keydown: z
+364.5748050000111	EXP	Target: autoDraw = false
+364.5748050000111	EXP	ETarget1: text = "story"
+364.5748050000111	EXP	EPrime: text = "stroy"
+365.0913650000002	EXP	Fixation: autoDraw = true
+366.0748050000111	EXP	Fixation: autoDraw = false
+366.091385000007	EXP	ETarget1: autoDraw = true
+366.091385000007	EXP	ETarget1: autoDraw = false
+366.1088400000008	EXP	EPrime: autoDraw = true
+366.1755899999989	EXP	EPrime: autoDraw = false
+366.1755899999989	EXP	Fixation: autoDraw = false
+366.1755899999989	EXP	ETarget1: autoDraw = false
+366.1755899999989	EXP	EPrime: autoDraw = false
+366.1755899999989	EXP	Target: text = "STORY"
+366.1755899999989	EXP	Target: autoDraw = true
+366.82568999999785	DATA	Keydown: m
+366.84183499999926	EXP	Target: autoDraw = false
+366.84183499999926	EXP	ETarget1: text = "roinwater"
+366.84183499999926	EXP	EPrime: text = "raunwater"
+367.35821499998565	EXP	Fixation: autoDraw = true
+368.3387999999977	EXP	Fixation: autoDraw = false
+368.35875499999383	EXP	ETarget1: autoDraw = true
+368.35875499999383	EXP	ETarget1: autoDraw = false
+368.3756949999952	EXP	EPrime: autoDraw = true
+368.4424449999933	EXP	EPrime: autoDraw = false
+368.4424449999933	EXP	Fixation: autoDraw = false
+368.4424449999933	EXP	ETarget1: autoDraw = false
+368.4424449999933	EXP	EPrime: autoDraw = false
+368.4424449999933	EXP	Target: text = "ROINWATER"
+368.4424449999933	EXP	Target: autoDraw = true
+369.1083949999884	DATA	Keydown: z
+369.12479000000167	EXP	Target: autoDraw = false
+369.12479000000167	EXP	ETarget1: text = "stody"
+369.12479000000167	EXP	EPrime: text = "spady"
+369.6417599999986	EXP	Fixation: autoDraw = true
+370.6247100000037	EXP	Fixation: autoDraw = false
+370.64160000000265	EXP	ETarget1: autoDraw = true
+370.64160000000265	EXP	ETarget1: autoDraw = false
+370.6587850000069	EXP	EPrime: autoDraw = true
+370.7253849999979	EXP	EPrime: autoDraw = false
+370.7253849999979	EXP	Fixation: autoDraw = false
+370.7253849999979	EXP	ETarget1: autoDraw = false
+370.7253849999979	EXP	EPrime: autoDraw = false
+370.7253849999979	EXP	Target: text = "STODY"
+370.7253849999979	EXP	Target: autoDraw = true
+371.24176999999327	DATA	Keydown: z
+371.2574050000112	EXP	Target: autoDraw = false
+371.2574050000112	EXP	ETarget1: text = "renorded"
+371.2574050000112	EXP	EPrime: text = "renaided"
+371.7758299999987	EXP	Fixation: autoDraw = true
+372.7579449999903	EXP	Fixation: autoDraw = false
+372.7748399999982	EXP	ETarget1: autoDraw = true
+372.7748399999982	EXP	ETarget1: autoDraw = false
+372.7918500000087	EXP	EPrime: autoDraw = true
+372.85936500001117	EXP	EPrime: autoDraw = false
+372.85936500001117	EXP	Fixation: autoDraw = false
+372.85936500001117	EXP	ETarget1: autoDraw = false
+372.85936500001117	EXP	EPrime: autoDraw = false
+372.85936500001117	EXP	Target: text = "RENORDED"
+372.85936500001117	EXP	Target: autoDraw = true
+373.92545999999857	DATA	Keydown: z
+373.9410799999896	EXP	Target: autoDraw = false
+373.9410799999896	EXP	ETarget1: text = "pench"
+373.9410799999896	EXP	EPrime: text = "putch"
+374.45763499999885	EXP	Fixation: autoDraw = true
+375.4386999999988	EXP	Fixation: autoDraw = false
+375.4581049999979	EXP	ETarget1: autoDraw = true
+375.4581049999979	EXP	ETarget1: autoDraw = false
+375.47522500000196	EXP	EPrime: autoDraw = true
+375.5419899999979	EXP	EPrime: autoDraw = false
+375.5419899999979	EXP	Fixation: autoDraw = false
+375.5419899999979	EXP	ETarget1: autoDraw = false
+375.5419899999979	EXP	EPrime: autoDraw = false
+375.5419899999979	EXP	Target: text = "PENCH"
+375.5419899999979	EXP	Target: autoDraw = true
+376.3918199999898	DATA	Keydown: z
+376.4072799999849	EXP	Target: autoDraw = false
+376.4072799999849	EXP	ETarget1: text = "instant"
+376.4072799999849	EXP	EPrime: text = "instort"
+376.9080900000117	EXP	Fixation: autoDraw = true
+377.90885499998694	EXP	Fixation: autoDraw = false
+377.90885499998694	EXP	ETarget1: autoDraw = true
+377.9249349999882	EXP	ETarget1: autoDraw = false
+377.94167000000016	EXP	EPrime: autoDraw = true
+378.0088049999904	EXP	EPrime: autoDraw = false
+378.0088049999904	EXP	Fixation: autoDraw = false
+378.0088049999904	EXP	ETarget1: autoDraw = false
+378.0088049999904	EXP	EPrime: autoDraw = false
+378.0088049999904	EXP	Target: text = "INSTANT"
+378.0088049999904	EXP	Target: autoDraw = true
+378.6253549999965	DATA	Keydown: m
+378.64136999999755	EXP	Target: autoDraw = false
+378.64136999999755	EXP	ETarget1: text = "troasure"
+378.64136999999755	EXP	EPrime: text = "tronture"
+379.1580799999938	EXP	Fixation: autoDraw = true
+380.14157000000705	EXP	Fixation: autoDraw = false
+380.15802500001155	EXP	ETarget1: autoDraw = true
+380.15802500001155	EXP	ETarget1: autoDraw = false
+380.1755300000077	EXP	EPrime: autoDraw = true
+380.2421350000077	EXP	EPrime: autoDraw = false
+380.2421350000077	EXP	Fixation: autoDraw = false
+380.2421350000077	EXP	ETarget1: autoDraw = false
+380.2421350000077	EXP	EPrime: autoDraw = false
+380.2421350000077	EXP	Target: text = "TROASURE"
+380.2421350000077	EXP	Target: autoDraw = true
+380.9244400000025	DATA	Keydown: z
+380.94133500001044	EXP	Target: autoDraw = false
+380.94133500001044	EXP	ETarget1: text = "snack"
+380.94133500001044	EXP	EPrime: text = "sncak"
+381.45773999998346	EXP	Fixation: autoDraw = true
+382.44165500000236	EXP	Fixation: autoDraw = false
+382.4576149999921	EXP	ETarget1: autoDraw = true
+382.4576149999921	EXP	ETarget1: autoDraw = false
+382.4754799999937	EXP	EPrime: autoDraw = true
+382.54233500000555	EXP	EPrime: autoDraw = false
+382.54233500000555	EXP	Fixation: autoDraw = false
+382.54233500000555	EXP	ETarget1: autoDraw = false
+382.54233500000555	EXP	EPrime: autoDraw = false
+382.54233500000555	EXP	Target: text = "SNACK"
+382.54233500000555	EXP	Target: autoDraw = true
+383.9435649999941	DATA	Keydown: m
+383.95762000000104	EXP	Target: autoDraw = false
+383.95762000000104	EXP	ETarget1: text = "basket"
+383.95762000000104	EXP	EPrime: text = "binket"
+384.4745600000024	EXP	Fixation: autoDraw = true
+385.45856999998796	EXP	Fixation: autoDraw = false
+385.45856999998796	EXP	ETarget1: autoDraw = true
+385.4744800000044	EXP	ETarget1: autoDraw = false
+385.49135999998543	EXP	EPrime: autoDraw = true
+385.5586100000073	EXP	EPrime: autoDraw = false
+385.5586100000073	EXP	Fixation: autoDraw = false
+385.5586100000073	EXP	ETarget1: autoDraw = false
+385.5586100000073	EXP	EPrime: autoDraw = false
+385.5586100000073	EXP	Target: text = "BASKET"
+385.5586100000073	EXP	Target: autoDraw = true
+386.2269199999864	DATA	Keydown: m
+386.2406600000104	EXP	Target: autoDraw = false
+386.2406600000104	EXP	ETarget1: text = "hospital"
+386.2406600000104	EXP	EPrime: text = "hospidol"
+386.74066499999026	EXP	Fixation: autoDraw = true
+387.7421650000033	EXP	Fixation: autoDraw = false
+387.7421650000033	EXP	ETarget1: autoDraw = true
+387.7578649999923	EXP	ETarget1: autoDraw = false
+387.77534500000183	EXP	EPrime: autoDraw = true
+387.84258999998565	EXP	EPrime: autoDraw = false
+387.84258999998565	EXP	Fixation: autoDraw = false
+387.84258999998565	EXP	ETarget1: autoDraw = false
+387.84258999998565	EXP	EPrime: autoDraw = false
+387.84258999998565	EXP	Target: text = "HOSPITAL"
+387.84258999998565	EXP	Target: autoDraw = true
+388.50860500001	DATA	Keydown: m
+388.52455999999074	EXP	Target: autoDraw = false
+388.52455999999074	EXP	ETarget1: text = "enezies"
+388.52455999999074	EXP	EPrime: text = "eneizes"
+389.0402349999931	EXP	Fixation: autoDraw = true
+390.02174999998533	EXP	Fixation: autoDraw = false
+390.0416550000082	EXP	ETarget1: autoDraw = true
+390.0416550000082	EXP	ETarget1: autoDraw = false
+390.059024999995	EXP	EPrime: autoDraw = true
+390.1252749999985	EXP	EPrime: autoDraw = false
+390.1252749999985	EXP	Fixation: autoDraw = false
+390.1252749999985	EXP	ETarget1: autoDraw = false
+390.1252749999985	EXP	EPrime: autoDraw = false
+390.1252749999985	EXP	Target: text = "ENEZIES"
+390.1252749999985	EXP	Target: autoDraw = true
+390.68251499999315	DATA	Keydown: z
+390.69148999999743	EXP	Target: autoDraw = false
+390.69148999999743	EXP	ETarget1: text = "ghost"
+390.69148999999743	EXP	EPrime: text = "ghurt"
+391.20715500001097	EXP	Fixation: autoDraw = true
+392.1884349999891	EXP	Fixation: autoDraw = false
+392.20841500000097	EXP	ETarget1: autoDraw = true
+392.2252799999842	EXP	ETarget1: autoDraw = false
+392.2252799999842	EXP	EPrime: autoDraw = true
+392.29222999999183	EXP	EPrime: autoDraw = false
+392.29222999999183	EXP	Fixation: autoDraw = false
+392.29222999999183	EXP	ETarget1: autoDraw = false
+392.29222999999183	EXP	EPrime: autoDraw = false
+392.29222999999183	EXP	Target: text = "GHOST"
+392.29222999999183	EXP	Target: autoDraw = true
+392.80780499998946	DATA	Keydown: m
+392.82425999999396	EXP	Target: autoDraw = false
+392.82425999999396	EXP	ETarget1: text = "stoze"
+392.82425999999396	EXP	EPrime: text = "skaze"
+393.34127000000444	EXP	Fixation: autoDraw = true
+394.3249599999981	EXP	Fixation: autoDraw = false
+394.3249599999981	EXP	ETarget1: autoDraw = true
+394.34134499999345	EXP	ETarget1: autoDraw = false
+394.35835500000394	EXP	EPrime: autoDraw = true
+394.42483000000357	EXP	EPrime: autoDraw = false
+394.42483000000357	EXP	Fixation: autoDraw = false
+394.42483000000357	EXP	ETarget1: autoDraw = false
+394.42483000000357	EXP	EPrime: autoDraw = false
+394.42483000000357	EXP	Target: text = "STOZE"
+394.42483000000357	EXP	Target: autoDraw = true
+394.99173000000883	DATA	Keydown: z
+395.0075899999938	EXP	Target: autoDraw = false
+395.0075899999938	EXP	ETarget1: text = "sturfish"
+395.0075899999938	EXP	EPrime: text = "stonfish"
+395.5247849999869	EXP	Fixation: autoDraw = true
+396.50781499998993	EXP	Fixation: autoDraw = false
+396.5245649999997	EXP	ETarget1: autoDraw = true
+396.5245649999997	EXP	ETarget1: autoDraw = false
+396.54222999999183	EXP	EPrime: autoDraw = true
+396.6085599999933	EXP	EPrime: autoDraw = false
+396.6085599999933	EXP	Fixation: autoDraw = false
+396.6085599999933	EXP	ETarget1: autoDraw = false
+396.6085599999933	EXP	EPrime: autoDraw = false
+396.6085599999933	EXP	Target: text = "STURFISH"
+396.6085599999933	EXP	Target: autoDraw = true
+397.2087349999929	DATA	Keydown: z
+397.22451	EXP	Target: autoDraw = false
+397.22451	EXP	ETarget1: text = "hibernate"
+397.22451	EXP	EPrime: text = "hibernole"
+397.7243449999951	EXP	Fixation: autoDraw = true
+398.7254200000025	EXP	Fixation: autoDraw = false
+398.7254200000025	EXP	ETarget1: autoDraw = true
+398.7416249999951	EXP	ETarget1: autoDraw = false
+398.75802499998827	EXP	EPrime: autoDraw = true
+398.82561500000884	EXP	EPrime: autoDraw = false
+398.82561500000884	EXP	Fixation: autoDraw = false
+398.82561500000884	EXP	ETarget1: autoDraw = false
+398.82561500000884	EXP	EPrime: autoDraw = false
+398.82561500000884	EXP	Target: text = "HIBERNATE"
+398.82561500000884	EXP	Target: autoDraw = true
+399.4251149999909	DATA	Keydown: m
+399.440815000009	EXP	Target: autoDraw = false
+399.440815000009	EXP	ETarget1: text = "kitchen"
+399.440815000009	EXP	EPrime: text = "kitckon"
+399.94093499999144	EXP	Fixation: autoDraw = true
+400.9410949999874	EXP	Fixation: autoDraw = false
+400.95786500000395	EXP	ETarget1: autoDraw = true
+400.95786500000395	EXP	ETarget1: autoDraw = false
+400.9747600000119	EXP	EPrime: autoDraw = true
+401.0413100000005	EXP	EPrime: autoDraw = false
+401.0413100000005	EXP	Fixation: autoDraw = false
+401.0413100000005	EXP	ETarget1: autoDraw = false
+401.0413100000005	EXP	EPrime: autoDraw = false
+401.0413100000005	EXP	Target: text = "KITCHEN"
+401.0413100000005	EXP	Target: autoDraw = true
+401.62536000000546	DATA	Keydown: m
+401.6410549999855	EXP	Target: autoDraw = false
+401.6410549999855	EXP	ETarget1: text = "hoafe"
+401.6410549999855	EXP	EPrime: text = "hofae"
+402.1581850000075	EXP	Fixation: autoDraw = true
+403.14084999999614	EXP	Fixation: autoDraw = false
+403.15774500000407	EXP	ETarget1: autoDraw = true
+403.15774500000407	EXP	ETarget1: autoDraw = false
+403.1749450000061	EXP	EPrime: autoDraw = true
+403.2415350000083	EXP	EPrime: autoDraw = false
+403.2415350000083	EXP	Fixation: autoDraw = false
+403.2415350000083	EXP	ETarget1: autoDraw = false
+403.2415350000083	EXP	EPrime: autoDraw = false
+403.2415350000083	EXP	Target: text = "HOAFE"
+403.2415350000083	EXP	Target: autoDraw = true
+403.7088400000066	DATA	Keydown: z
+403.72428999998374	EXP	Target: autoDraw = false
+403.72428999998374	EXP	ETarget1: text = "crims"
+403.72428999998374	EXP	EPrime: text = "cirms"
+404.2412600000098	EXP	Fixation: autoDraw = true
+405.2216199999966	EXP	Fixation: autoDraw = false
+405.24154499999713	EXP	ETarget1: autoDraw = true
+405.24154499999713	EXP	ETarget1: autoDraw = false
+405.2583699999959	EXP	EPrime: autoDraw = true
+405.32501500000944	EXP	EPrime: autoDraw = false
+405.32501500000944	EXP	Fixation: autoDraw = false
+405.32501500000944	EXP	ETarget1: autoDraw = false
+405.32501500000944	EXP	EPrime: autoDraw = false
+405.32501500000944	EXP	Target: text = "CRIMS"
+405.32501500000944	EXP	Target: autoDraw = true
+405.8094449999917	DATA	Keydown: z
+405.8240100000112	EXP	Target: autoDraw = false
+405.8240100000112	EXP	ETarget1: text = "stipping"
+405.8240100000112	EXP	EPrime: text = "stipporg"
+406.34076500000083	EXP	Fixation: autoDraw = true
+407.32146499998635	EXP	Fixation: autoDraw = false
+407.3410750000039	EXP	ETarget1: autoDraw = true
+407.3410750000039	EXP	ETarget1: autoDraw = false
+407.35884500000975	EXP	EPrime: autoDraw = true
+407.42517000000225	EXP	EPrime: autoDraw = false
+407.42517000000225	EXP	Fixation: autoDraw = false
+407.42517000000225	EXP	ETarget1: autoDraw = false
+407.42517000000225	EXP	EPrime: autoDraw = false
+407.42517000000225	EXP	Target: text = "STIPPING"
+407.42517000000225	EXP	Target: autoDraw = true
+408.15864000000875	DATA	Keydown: z
+408.1741299999994	EXP	Target: autoDraw = false
+408.1741299999994	EXP	ETarget1: text = "meanwhile"
+408.1741299999994	EXP	EPrime: text = "meanwhote"
+408.6744450000115	EXP	Fixation: autoDraw = true
+409.67512500000885	EXP	Fixation: autoDraw = false
+409.67512500000885	EXP	ETarget1: autoDraw = true
+409.69109000000753	EXP	ETarget1: autoDraw = false
+409.7080600000045	EXP	EPrime: autoDraw = true
+409.7753349999839	EXP	EPrime: autoDraw = false
+409.7753349999839	EXP	Fixation: autoDraw = false
+409.7753349999839	EXP	ETarget1: autoDraw = false
+409.7753349999839	EXP	EPrime: autoDraw = false
+409.7753349999839	EXP	Target: text = "MEANWHILE"
+409.7753349999839	EXP	Target: autoDraw = true
+410.52470999999787	DATA	Keydown: m
+410.540559999994	EXP	Target: autoDraw = false
+410.540559999994	EXP	ETarget1: text = "smooth"
+410.540559999994	EXP	EPrime: text = "smotoh"
+411.0581649999949	EXP	Fixation: autoDraw = true
+412.03831000000355	EXP	Fixation: autoDraw = false
+412.05759000001126	EXP	ETarget1: autoDraw = true
+412.05759000001126	EXP	ETarget1: autoDraw = false
+412.0770349999948	EXP	EPrime: autoDraw = true
+412.1419149999856	EXP	EPrime: autoDraw = false
+412.1419149999856	EXP	Fixation: autoDraw = false
+412.1419149999856	EXP	ETarget1: autoDraw = false
+412.1419149999856	EXP	EPrime: autoDraw = false
+412.1419149999856	EXP	Target: text = "SMOOTH"
+412.1419149999856	EXP	Target: autoDraw = true
+412.96054999998887	DATA	Keydown: m
+412.9740649999876	EXP	Target: autoDraw = false
+412.9740649999876	EXP	ETarget1: text = "rolin"
+412.9740649999876	EXP	EPrime: text = "rofan"
+413.4905849999923	EXP	Fixation: autoDraw = true
+414.4715499999875	EXP	Fixation: autoDraw = false
+414.490770000004	EXP	ETarget1: autoDraw = true
+414.490770000004	EXP	ETarget1: autoDraw = false
+414.507970000006	EXP	EPrime: autoDraw = true
+414.57478500000434	EXP	EPrime: autoDraw = false
+414.57478500000434	EXP	Fixation: autoDraw = false
+414.57478500000434	EXP	ETarget1: autoDraw = false
+414.57478500000434	EXP	EPrime: autoDraw = false
+414.57478500000434	EXP	Target: text = "ROLIN"
+414.57478500000434	EXP	Target: autoDraw = true
+415.3745099999942	DATA	Keydown: z
+415.39084999999614	EXP	Target: autoDraw = false
+415.39084999999614	EXP	ETarget1: text = "plastic"
+415.39084999999614	EXP	EPrime: text = "palstic"
+415.9077749999997	EXP	Fixation: autoDraw = true
+416.8881049999909	EXP	Fixation: autoDraw = false
+416.90763999999035	EXP	ETarget1: autoDraw = true
+416.90763999999035	EXP	ETarget1: autoDraw = false
+416.9251050000021	EXP	EPrime: autoDraw = true
+416.99156999998377	EXP	EPrime: autoDraw = false
+416.99156999998377	EXP	Fixation: autoDraw = false
+416.99156999998377	EXP	ETarget1: autoDraw = false
+416.99156999998377	EXP	EPrime: autoDraw = false
+416.99156999998377	EXP	Target: text = "PLASTIC"
+416.99156999998377	EXP	Target: autoDraw = true
+417.6257200000109	DATA	Keydown: m
+417.64066499998444	EXP	Target: autoDraw = false
+417.64066499998444	EXP	ETarget1: text = "biscuit"
+417.64066499998444	EXP	EPrime: text = "borcuit"
+418.1565000000119	EXP	Fixation: autoDraw = true
+419.13824999998906	EXP	Fixation: autoDraw = false
+419.15762499999255	EXP	ETarget1: autoDraw = true
+419.15762499999255	EXP	ETarget1: autoDraw = false
+419.17472000001	EXP	EPrime: autoDraw = true
+419.24173999999766	EXP	EPrime: autoDraw = false
+419.24173999999766	EXP	Fixation: autoDraw = false
+419.24173999999766	EXP	ETarget1: autoDraw = false
+419.24173999999766	EXP	EPrime: autoDraw = false
+419.24173999999766	EXP	Target: text = "BISCUIT"
+419.24173999999766	EXP	Target: autoDraw = true
+419.9574999999895	DATA	Keydown: m
+419.97405499999877	EXP	Target: autoDraw = false
+419.97405499999877	EXP	ETarget1: text = "sporks"
+419.97405499999877	EXP	EPrime: text = "spilks"
+420.4901649999956	EXP	Fixation: autoDraw = true
+421.47141500000726	EXP	Fixation: autoDraw = false
+421.4908899999864	EXP	ETarget1: autoDraw = true
+421.4908899999864	EXP	ETarget1: autoDraw = false
+421.50800000000163	EXP	EPrime: autoDraw = true
+421.5752999999968	EXP	EPrime: autoDraw = false
+421.5752999999968	EXP	Fixation: autoDraw = false
+421.5752999999968	EXP	ETarget1: autoDraw = false
+421.5752999999968	EXP	EPrime: autoDraw = false
+421.5752999999968	EXP	Target: text = "SPORKS"
+421.5752999999968	EXP	Target: autoDraw = true
+423.02683499999694	DATA	Keydown: m
+423.041035000002	EXP	Target: autoDraw = false
+423.041035000002	EXP	ETarget1: text = "leopard"
+423.041035000002	EXP	EPrime: text = "leopond"
+423.55748499999754	EXP	Fixation: autoDraw = true
+424.53800000000047	EXP	Fixation: autoDraw = false
+424.5575700000045	EXP	ETarget1: autoDraw = true
+424.5575700000045	EXP	ETarget1: autoDraw = false
+424.5748050000111	EXP	EPrime: autoDraw = true
+424.6414850000001	EXP	EPrime: autoDraw = false
+424.6414850000001	EXP	Fixation: autoDraw = false
+424.6414850000001	EXP	ETarget1: autoDraw = false
+424.6414850000001	EXP	EPrime: autoDraw = false
+424.6414850000001	EXP	Target: text = "LEOPARD"
+424.6414850000001	EXP	Target: autoDraw = true
+425.2074399999983	DATA	Keydown: m
+425.22411999999895	EXP	Target: autoDraw = false
+425.22411999999895	EXP	ETarget1: text = "powerful"
+425.22411999999895	EXP	EPrime: text = "pwoerful"
+425.74111500001163	EXP	Fixation: autoDraw = true
+426.72416499999235	EXP	Fixation: autoDraw = false
+426.740839999984	EXP	ETarget1: autoDraw = true
+426.740839999984	EXP	ETarget1: autoDraw = false
+426.7584999999963	EXP	EPrime: autoDraw = true
+426.8246400000062	EXP	EPrime: autoDraw = false
+426.8246400000062	EXP	Fixation: autoDraw = false
+426.8246400000062	EXP	ETarget1: autoDraw = false
+426.8246400000062	EXP	EPrime: autoDraw = false
+426.8246400000062	EXP	Target: text = "POWERFUL"
+426.8246400000062	EXP	Target: autoDraw = true
+427.3915649999981	DATA	Keydown: m
+427.4073750000098	EXP	Target: autoDraw = false
+427.4073750000098	EXP	ETarget1: text = "asbrunaut"
+427.4073750000098	EXP	EPrime: text = "absrunaut"
+427.92412499999045	EXP	Fixation: autoDraw = true
+428.9069099999906	EXP	Fixation: autoDraw = false
+428.9241049999837	EXP	ETarget1: autoDraw = true
+428.9241049999837	EXP	ETarget1: autoDraw = false
+428.9412799999991	EXP	EPrime: autoDraw = true
+429.00802999999723	EXP	EPrime: autoDraw = false
+429.00802999999723	EXP	Fixation: autoDraw = false
+429.00802999999723	EXP	ETarget1: autoDraw = false
+429.00802999999723	EXP	EPrime: autoDraw = false
+429.00802999999723	EXP	Target: text = "ASBRUNAUT"
+429.00802999999723	EXP	Target: autoDraw = true
+429.82582500000717	DATA	Keydown: z
+429.8404950000113	EXP	Target: autoDraw = false
+429.8404950000113	EXP	ETarget1: text = "singer"
+429.8404950000113	EXP	EPrime: text = "sniger"
+430.3409650000103	EXP	Fixation: autoDraw = true
+431.3373450000072	EXP	Fixation: autoDraw = false
+431.3579299999983	EXP	ETarget1: autoDraw = true
+431.3579299999983	EXP	ETarget1: autoDraw = false
+431.374049999984	EXP	EPrime: autoDraw = true
+431.44161000000895	EXP	EPrime: autoDraw = false
+431.44161000000895	EXP	Fixation: autoDraw = false
+431.44161000000895	EXP	ETarget1: autoDraw = false
+431.44161000000895	EXP	EPrime: autoDraw = false
+431.44161000000895	EXP	Target: text = "SINGER"
+431.44161000000895	EXP	Target: autoDraw = true
+432.35814999998547	DATA	Keydown: z
+432.37370500000543	EXP	Target: autoDraw = false
+432.37370500000543	EXP	ETarget1: text = "talking"
+432.37370500000543	EXP	EPrime: text = "talknig"
+432.89064999998664	EXP	Fixation: autoDraw = true
+433.8712050000031	EXP	Fixation: autoDraw = false
+433.89104499999667	EXP	ETarget1: autoDraw = true
+433.89104499999667	EXP	ETarget1: autoDraw = false
+433.9082000000053	EXP	EPrime: autoDraw = true
+433.9741400000057	EXP	EPrime: autoDraw = false
+433.9741400000057	EXP	Fixation: autoDraw = false
+433.9741400000057	EXP	ETarget1: autoDraw = false
+433.9741400000057	EXP	EPrime: autoDraw = false
+433.9741400000057	EXP	Target: text = "TALKING"
+433.9741400000057	EXP	Target: autoDraw = true
+434.47462500000256	DATA	Keydown: m
+434.49063499999465	EXP	Target: autoDraw = false
+434.49063499999465	EXP	ETarget1: text = "wardrobe"
+434.49063499999465	EXP	EPrime: text = "wardrboe"
+435.0069000000076	EXP	Fixation: autoDraw = true
+435.9907050000038	EXP	Fixation: autoDraw = false
+435.9907050000038	EXP	ETarget1: autoDraw = true
+436.0076699999918	EXP	ETarget1: autoDraw = false
+436.02429999999003	EXP	EPrime: autoDraw = true
+436.09101999999257	EXP	EPrime: autoDraw = false
+436.09101999999257	EXP	Fixation: autoDraw = false
+436.09101999999257	EXP	ETarget1: autoDraw = false
+436.09101999999257	EXP	EPrime: autoDraw = false
+436.09101999999257	EXP	Target: text = "WARDROBE"
+436.09101999999257	EXP	Target: autoDraw = true
+436.5579800000123	DATA	Keydown: m
+436.5736099999922	EXP	Target: autoDraw = false
+436.5736099999922	EXP	ETarget1: text = "proffed"
+436.5736099999922	EXP	EPrime: text = "pauffed"
+437.0905849999981	EXP	Fixation: autoDraw = true
+437.6582200000121	DATA	Keydown: z
+438.0711650000012	EXP	Fixation: autoDraw = false
+438.09060500000487	EXP	ETarget1: autoDraw = true
+438.09060500000487	EXP	ETarget1: autoDraw = false
+438.1076049999974	EXP	EPrime: autoDraw = true
+438.17478500001016	EXP	EPrime: autoDraw = false
+438.17478500001016	EXP	Fixation: autoDraw = false
+438.17478500001016	EXP	ETarget1: autoDraw = false
+438.17478500001016	EXP	EPrime: autoDraw = false
+438.17478500001016	EXP	Target: text = "PROFFED"
+438.17478500001016	EXP	Target: autoDraw = true
+438.8735549999983	DATA	Keydown: z
+438.8903149999969	EXP	Target: autoDraw = false
+438.8903149999969	EXP	ETarget1: text = "spoff"
+438.8903149999969	EXP	EPrime: text = "swoff"
+439.3903299999947	EXP	Fixation: autoDraw = true
+440.38790000000154	EXP	Fixation: autoDraw = false
+440.4070049999864	EXP	ETarget1: autoDraw = true
+440.4070049999864	EXP	ETarget1: autoDraw = false
+440.4242599999998	EXP	EPrime: autoDraw = true
+440.49145000000135	EXP	EPrime: autoDraw = false
+440.49145000000135	EXP	Fixation: autoDraw = false
+440.49145000000135	EXP	ETarget1: autoDraw = false
+440.49145000000135	EXP	EPrime: autoDraw = false
+440.49145000000135	EXP	Target: text = "SPOFF"
+440.49145000000135	EXP	Target: autoDraw = true
+441.0243649999902	DATA	Keydown: z
+441.0406849999854	EXP	Target: autoDraw = false
+441.0406849999854	EXP	ETarget1: text = "forty"
+441.0406849999854	EXP	EPrime: text = "fosky"
+441.54098499999964	EXP	Fixation: autoDraw = true
+442.5410799999954	EXP	Fixation: autoDraw = false
+442.5410799999954	EXP	ETarget1: autoDraw = true
+442.55691499999375	EXP	ETarget1: autoDraw = false
+442.57450499999686	EXP	EPrime: autoDraw = true
+442.6409500000009	EXP	EPrime: autoDraw = false
+442.6409500000009	EXP	Fixation: autoDraw = false
+442.6409500000009	EXP	ETarget1: autoDraw = false
+442.6409500000009	EXP	EPrime: autoDraw = false
+442.6409500000009	EXP	Target: text = "FORTY"
+442.6409500000009	EXP	Target: autoDraw = true
+443.32420000000275	DATA	Keydown: m
+443.34051499998895	EXP	Target: autoDraw = false
+443.34051499998895	EXP	ETarget1: text = "grufes"
+443.34051499998895	EXP	EPrime: text = "gurfes"
+443.85726499999873	EXP	Fixation: autoDraw = true
+444.8401099999901	EXP	Fixation: autoDraw = false
+444.8572249999852	EXP	ETarget1: autoDraw = true
+444.8572249999852	EXP	ETarget1: autoDraw = false
+444.8746749999991	EXP	EPrime: autoDraw = true
+444.94122499998775	EXP	EPrime: autoDraw = false
+444.94122499998775	EXP	Fixation: autoDraw = false
+444.94122499998775	EXP	ETarget1: autoDraw = false
+444.94122499998775	EXP	EPrime: autoDraw = false
+444.94122499998775	EXP	Target: text = "GRUFES"
+444.94122499998775	EXP	Target: autoDraw = true
+446.1745499999961	DATA	Keydown: z
+446.1897250000038	EXP	Target: autoDraw = false
+446.1897250000038	EXP	ETarget1: text = "standust"
+446.1897250000038	EXP	EPrime: text = "stalkust"
+446.70668000000296	EXP	Fixation: autoDraw = true
+447.6878199999919	EXP	Fixation: autoDraw = false
+447.70751000000746	EXP	ETarget1: autoDraw = true
+447.70751000000746	EXP	ETarget1: autoDraw = false
+447.72437999999966	EXP	EPrime: autoDraw = true
+447.79097000000183	EXP	EPrime: autoDraw = false
+447.79097000000183	EXP	Fixation: autoDraw = false
+447.79097000000183	EXP	ETarget1: autoDraw = false
+447.79097000000183	EXP	EPrime: autoDraw = false
+447.79097000000183	EXP	Target: text = "STANDUST"
+447.79097000000183	EXP	Target: autoDraw = true
+449.04105999998865	DATA	Keydown: z
+449.05695999998716	EXP	Target: autoDraw = false
+449.05695999998716	EXP	ETarget1: text = "stomach"
+449.05695999998716	EXP	EPrime: text = "stomcah"
+449.57414000001154	EXP	Fixation: autoDraw = true
+450.55429999998887	EXP	Fixation: autoDraw = false
+450.57433999999193	EXP	ETarget1: autoDraw = true
+450.57433999999193	EXP	ETarget1: autoDraw = false
+450.59101999999257	EXP	EPrime: autoDraw = true
+450.65771999998833	EXP	EPrime: autoDraw = false
+450.65771999998833	EXP	Fixation: autoDraw = false
+450.65771999998833	EXP	ETarget1: autoDraw = false
+450.65771999998833	EXP	EPrime: autoDraw = false
+450.65771999998833	EXP	Target: text = "STOMACH"
+450.65771999998833	EXP	Target: autoDraw = true
+451.3072800000082	DATA	Keydown: m
+451.3238399999973	EXP	Target: autoDraw = false
+451.3238399999973	EXP	ETarget1: text = "robber"
+451.3238399999973	EXP	EPrime: text = "rbober"
+451.8392949999834	EXP	Fixation: autoDraw = true
+452.8237450000015	EXP	Fixation: autoDraw = false
+452.8402650000062	EXP	ETarget1: autoDraw = true
+452.8402650000062	EXP	ETarget1: autoDraw = false
+452.8578850000049	EXP	EPrime: autoDraw = true
+452.9245499999961	EXP	EPrime: autoDraw = false
+452.9245499999961	EXP	Fixation: autoDraw = false
+452.9245499999961	EXP	ETarget1: autoDraw = false
+452.9245499999961	EXP	EPrime: autoDraw = false
+452.9245499999961	EXP	Target: text = "ROBBER"
+452.9245499999961	EXP	Target: autoDraw = true
+453.6079800000007	DATA	Keydown: m
+453.6238799999992	EXP	Target: autoDraw = false
+453.6238799999992	EXP	ETarget1: text = "cammied"
+453.6238799999992	EXP	EPrime: text = "cammeid"
+454.14063499998883	EXP	Fixation: autoDraw = true
+455.1236199999985	EXP	Fixation: autoDraw = false
+455.1236199999985	EXP	ETarget1: autoDraw = true
+455.1370600000082	EXP	ETarget1: autoDraw = false
+455.15706999998656	EXP	EPrime: autoDraw = true
+455.22373500000685	EXP	EPrime: autoDraw = false
+455.22373500000685	EXP	Fixation: autoDraw = false
+455.22373500000685	EXP	ETarget1: autoDraw = false
+455.22373500000685	EXP	EPrime: autoDraw = false
+455.22373500000685	EXP	Target: text = "CAMMIED"
+455.22373500000685	EXP	Target: autoDraw = true
+457.0409149999905	DATA	Keydown: z
+457.0571699999855	EXP	Target: autoDraw = false
+457.0571699999855	EXP	ETarget1: text = "flazer"
+457.0571699999855	EXP	EPrime: text = "falzer"
+457.5738499999861	EXP	Fixation: autoDraw = true
+458.5576149999979	EXP	Fixation: autoDraw = false
+458.5576149999979	EXP	ETarget1: autoDraw = true
+458.57388000001083	EXP	ETarget1: autoDraw = false
+458.59059499998693	EXP	EPrime: autoDraw = true
+458.65791499998886	EXP	EPrime: autoDraw = false
+458.65791499998886	EXP	Fixation: autoDraw = false
+458.65791499998886	EXP	ETarget1: autoDraw = false
+458.65791499998886	EXP	EPrime: autoDraw = false
+458.65791499998886	EXP	Target: text = "FLAZER"
+458.65791499998886	EXP	Target: autoDraw = true
+459.50792000000365	DATA	Keydown: z
+459.523595000006	EXP	Target: autoDraw = false
+459.523595000006	EXP	ETarget1: text = "taidor"
+459.523595000006	EXP	EPrime: text = "tordor"
+460.0400800000061	EXP	Fixation: autoDraw = true
+461.02069000000483	EXP	Fixation: autoDraw = false
+461.04055000000517	EXP	ETarget1: autoDraw = true
+461.04055000000517	EXP	ETarget1: autoDraw = false
+461.0573999999906	EXP	EPrime: autoDraw = true
+461.1244899999874	EXP	EPrime: autoDraw = false
+461.1244899999874	EXP	Fixation: autoDraw = false
+461.1244899999874	EXP	ETarget1: autoDraw = false
+461.1244899999874	EXP	EPrime: autoDraw = false
+461.1244899999874	EXP	Target: text = "TAIDOR"
+461.1244899999874	EXP	Target: autoDraw = true
+461.6744550000003	DATA	Keydown: z
+461.68970499999705	EXP	Target: autoDraw = false
+461.68970499999705	EXP	ETarget1: text = "caterpiddar"
+461.68970499999705	EXP	EPrime: text = "catrepiddar"
+462.205890000012	EXP	Fixation: autoDraw = true
+463.1876500000071	EXP	Fixation: autoDraw = false
+463.2066099999938	EXP	ETarget1: autoDraw = true
+463.2066099999938	EXP	ETarget1: autoDraw = false
+463.2243899999885	EXP	EPrime: autoDraw = true
+463.29113500000676	EXP	EPrime: autoDraw = false
+463.29113500000676	EXP	Fixation: autoDraw = false
+463.29113500000676	EXP	ETarget1: autoDraw = false
+463.29113500000676	EXP	EPrime: autoDraw = false
+463.29113500000676	EXP	Target: text = "CATERPIDDAR"
+463.29113500000676	EXP	Target: autoDraw = true
+464.87437499998487	DATA	Keydown: z
+464.889915000007	EXP	Target: autoDraw = false
+464.889915000007	EXP	ETarget1: text = "dentist"
+464.889915000007	EXP	EPrime: text = "durtist"
+465.40682499998366	EXP	Fixation: autoDraw = true
+466.39014000000316	EXP	Fixation: autoDraw = false
+466.4069449999952	EXP	ETarget1: autoDraw = true
+466.4069449999952	EXP	ETarget1: autoDraw = false
+466.42438499999116	EXP	EPrime: autoDraw = true
+466.4907400000084	EXP	EPrime: autoDraw = false
+466.4907400000084	EXP	Fixation: autoDraw = false
+466.4907400000084	EXP	ETarget1: autoDraw = false
+466.4907400000084	EXP	EPrime: autoDraw = false
+466.4907400000084	EXP	Target: text = "DENTIST"
+466.4907400000084	EXP	Target: autoDraw = true
+467.3907750000071	DATA	Keydown: z
+467.4189849999966	EXP	Target: autoDraw = false
+467.4189849999966	EXP	text_2: autoDraw = true
+481.90685500000836	DATA	Keydown:  
+482.05256499999086	EXP	text_2: autoDraw = false
+482.05256499999086	EXP	image: autoDraw = true
+526.9226349999954	EXP	image: autoDraw = false
+526.9226349999954	EXP	image: autoDraw = false
+526.9226349999954	EXP	text_feedback: text = ""
+526.9226349999954	EXP	text_feedback: autoDraw = true
+526.9226349999954	EXP	text_4: autoDraw = true
+526.9381599999906	EXP	text_feedback: text = " "
+529.6928849999967	DATA	Keydown: s
+529.7051999999967	EXP	text_feedback: text = " s"
+530.5731650000089	DATA	Keydown: h
+530.5879249999998	EXP	text_feedback: text = " sh"
+530.8056550000038	DATA	Keydown: o
+530.8212500000081	EXP	text_feedback: text = " sho"
+530.9562600000063	DATA	Keydown: e
+530.9720500000112	EXP	text_feedback: text = " shoe"
+531.192234999995	DATA	Keydown: s
+531.2044999999925	EXP	text_feedback: text = " shoes"
+531.621519999986	DATA	Keydown: Enter
+531.6418499999854	EXP	text_feedback: autoDraw = false
+531.6418499999854	EXP	text_4: autoDraw = false
+531.6418499999854	EXP	text_7: autoDraw = true
+539.722775000002	DATA	Keydown:  
+539.8791499999934	EXP	text_7: autoDraw = false
+539.8791499999934	EXP	image_2: autoDraw = true
+584.740289999987	EXP	image_2: autoDraw = false
+584.740289999987	EXP	image_2: autoDraw = false
+584.740289999987	EXP	text_feedback2: text = ""
+584.740289999987	EXP	text_feedback2: autoDraw = true
+584.740289999987	EXP	text_5: autoDraw = true
+584.7541250000068	EXP	text_feedback2: text = " "
+592.4562950000109	DATA	Keydown: w
+592.471034999995	EXP	text_feedback2: text = " w"
+592.5379149999935	DATA	Keydown: e
+592.553259999986	EXP	text_feedback2: text = " we"
+593.839810000005	DATA	Keydown:  
+593.871370000008	EXP	text_feedback2: text = " we "
+594.3387349999975	DATA	Keydown: s
+594.3545849999937	EXP	text_feedback2: text = " we s"
+594.5885800000106	DATA	Keydown: h
+594.604640000005	EXP	text_feedback2: text = " we sh"
+594.8220900000015	DATA	Keydown: o
+594.8379699999932	EXP	text_feedback2: text = " we sho"
+595.0553899999941	DATA	Keydown: u
+595.0712500000081	EXP	text_feedback2: text = " we shou"
+595.3055999999924	DATA	Keydown: l
+595.3213000000105	EXP	text_feedback2: text = " we shoul"
+595.4556250000023	DATA	Keydown: d
+595.4711449999886	EXP	text_feedback2: text = " we should"
+595.6052299999865	DATA	Keydown:  
+595.6378749999858	EXP	text_feedback2: text = " we should "
+595.771934999997	DATA	Keydown: o
+595.7880299999961	EXP	text_feedback2: text = " we should o"
+595.9044200000062	DATA	Keydown: r
+595.9213600000076	EXP	text_feedback2: text = " we should or"
+596.1722550000122	DATA	Keydown: g
+596.1869899999874	EXP	text_feedback2: text = " we should org"
+596.3721099999966	DATA	Keydown: a
+596.3879549999838	EXP	text_feedback2: text = " we should orga"
+596.6057150000124	DATA	Keydown: n
+596.6212850000011	EXP	text_feedback2: text = " we should organ"
+596.8225450000027	DATA	Keydown: i
+596.838224999985	EXP	text_feedback2: text = " we should organi"
+596.9553850000084	DATA	Keydown: s
+596.9717050000036	EXP	text_feedback2: text = " we should organis"
+597.1384799999942	DATA	Keydown: e
+597.154749999987	EXP	text_feedback2: text = " we should organise"
+597.2722899999935	DATA	Keydown:  
+597.3045799999963	EXP	text_feedback2: text = " we should organise "
+597.371684999991	DATA	Keydown: a
+597.3880699999863	EXP	text_feedback2: text = " we should organise a"
+597.4555300000065	DATA	Keydown:  
+597.4882299999881	EXP	text_feedback2: text = " we should organise a "
+597.6058900000062	DATA	Keydown: s
+597.6214549999859	EXP	text_feedback2: text = " we should organise a s"
+597.7384500000044	DATA	Keydown: p
+597.75456999999	EXP	text_feedback2: text = " we should organise a sp"
+597.9550549999985	DATA	Keydown: o
+597.972065000009	EXP	text_feedback2: text = " we should organise a spo"
+598.1047299999918	DATA	Keydown: r
+598.1221950000036	EXP	text_feedback2: text = " we should organise a spor"
+598.6728650000005	DATA	Keydown: t
+598.689155	EXP	text_feedback2: text = " we should organise a sport"
+599.0560049999913	DATA	Keydown: s
+599.0722349999996	EXP	text_feedback2: text = " we should organise a sports"
+599.289844999992	DATA	Keydown:  
+599.3222999999998	EXP	text_feedback2: text = " we should organise a sports "
+599.4089450000029	DATA	Keydown: d
+599.4220849999983	EXP	text_feedback2: text = " we should organise a sports d"
+599.6231099999859	DATA	Keydown: a
+599.6375249999983	EXP	text_feedback2: text = " we should organise a sports da"
+599.6889549999905	DATA	Keydown: y
+599.7046449999907	EXP	text_feedback2: text = " we should organise a sports day"
+599.8393799999903	DATA	Keydown:  
+599.870504999999	EXP	text_feedback2: text = " we should organise a sports day "
+600.1387099999993	DATA	Keydown: i
+600.1388999999908	DATA	Keydown: n
+600.1537050000043	EXP	text_feedback2: text = " we should organise a sports day n"
+600.7236599999887	DATA	Keydown: Backspace
+600.7389899999835	EXP	text_feedback2: text = " we should organise a sports day "
+601.2712600000086	DATA	Keydown: i
+601.2872550000029	EXP	text_feedback2: text = " we should organise a sports day i"
+601.3719599999895	DATA	Keydown: n
+601.3879099999904	EXP	text_feedback2: text = " we should organise a sports day in"
+601.6559100000013	DATA	Keydown: s
+601.6717300000018	EXP	text_feedback2: text = " we should organise a sports day ins"
+602.1707549999992	DATA	Keydown: r
+602.188135000004	EXP	text_feedback2: text = " we should organise a sports day insr"
+602.4880100000009	DATA	Keydown: Backspace
+602.5032549999887	EXP	text_feedback2: text = " we should organise a sports day ins"
+602.6220200000098	DATA	Keydown: t
+602.6370049999969	EXP	text_feedback2: text = " we should organise a sports day inst"
+602.8715000000084	DATA	Keydown: e
+602.8880800000043	EXP	text_feedback2: text = " we should organise a sports day inste"
+603.0545449999918	DATA	Keydown: a
+603.0706099999952	EXP	text_feedback2: text = " we should organise a sports day instea"
+603.522564999992	DATA	Keydown: d
+603.538429999986	EXP	text_feedback2: text = " we should organise a sports day instead"
+605.155694999994	DATA	Keydown: '
+605.1702900000091	EXP	text_feedback2: text = " we should organise a sports day insteadapostrophe"
+606.6547950000095	DATA	Keydown: Backspace
+606.6716249999881	EXP	text_feedback2: text = " we should organise a sports day insteadapostroph"
+607.3714599999948	DATA	Keydown: Backspace
+607.3882400000002	EXP	text_feedback2: text = " we should organise a sports day insteadapostrop"
+607.8722300000081	DATA	Keydown: Backspace
+607.8873200000089	EXP	text_feedback2: text = " we should organise a sports day insteadapostro"
+607.9555899999978	DATA	Keydown: Backspace
+607.9706000000006	EXP	text_feedback2: text = " we should organise a sports day insteadapostr"
+608.0379550000071	DATA	Keydown: Backspace
+608.0538449999876	EXP	text_feedback2: text = " we should organise a sports day insteadapost"
+608.1218149999913	DATA	Keydown: Backspace
+608.1380049999862	EXP	text_feedback2: text = " we should organise a sports day insteadapos"
+608.2056450000091	DATA	Keydown: Backspace
+608.2207150000031	EXP	text_feedback2: text = " we should organise a sports day insteadapo"
+608.2898099999875	DATA	Keydown: Backspace
+608.3033050000085	EXP	text_feedback2: text = " we should organise a sports day insteadap"
+608.373270000011	DATA	Keydown: Backspace
+608.3867099999916	EXP	text_feedback2: text = " we should organise a sports day insteada"
+609.0885049999924	DATA	Keydown: Backspace
+609.1043350000109	EXP	text_feedback2: text = " we should organise a sports day instead"
+609.7381699999969	DATA	Keydown: ,
+609.7537350000057	EXP	text_feedback2: text = " we should organise a sports day insteadcomma"
+610.4716299999855	DATA	Keydown: Backspace
+610.4878549999848	EXP	text_feedback2: text = " we should organise a sports day insteadcomm"
+610.7880149999983	DATA	Keydown: Backspace
+610.8046850000101	EXP	text_feedback2: text = " we should organise a sports day insteadcom"
+610.9721049999935	DATA	Keydown: Backspace
+610.9876799999911	EXP	text_feedback2: text = " we should organise a sports day insteadco"
+611.1387450000038	DATA	Keydown: Backspace
+611.1536799999885	EXP	text_feedback2: text = " we should organise a sports day insteadc"
+611.4721300000092	DATA	Keydown: Backspace
+611.4868649999844	EXP	text_feedback2: text = " we should organise a sports day instead"
+615.0390949999855	DATA	Keydown:  
+615.0714799999841	EXP	text_feedback2: text = " we should organise a sports day instead "
+615.3220300000103	DATA	Keydown: w
+615.3373150000116	EXP	text_feedback2: text = " we should organise a sports day instead w"
+615.3891200000071	DATA	Keydown: e
+615.4048199999961	EXP	text_feedback2: text = " we should organise a sports day instead we"
+615.9892049999908	DATA	Keydown:  
+616.0205549999955	EXP	text_feedback2: text = " we should organise a sports day instead we "
+616.3216250000114	DATA	Keydown: w
+616.3378650000086	EXP	text_feedback2: text = " we should organise a sports day instead we w"
+616.3911249999946	DATA	Keydown: i
+616.4049449999875	EXP	text_feedback2: text = " we should organise a sports day instead we wi"
+616.6220700000122	DATA	Keydown: l
+616.6374249999935	EXP	text_feedback2: text = " we should organise a sports day instead we wil"
+616.7556150000019	DATA	Keydown: l
+616.7713649999932	EXP	text_feedback2: text = " we should organise a sports day instead we will"
+616.8219000000099	DATA	Keydown:  
+616.853774999996	EXP	text_feedback2: text = " we should organise a sports day instead we will "
+616.9744950000022	DATA	Keydown: a
+616.9876799999911	EXP	text_feedback2: text = " we should organise a sports day instead we will a"
+617.1226800000004	DATA	Keydown: l
+617.1377949999878	EXP	text_feedback2: text = " we should organise a sports day instead we will al"
+617.2406949999859	DATA	Keydown: l
+617.2539499999839	EXP	text_feedback2: text = " we should organise a sports day instead we will all"
+617.4900900000066	DATA	Keydown:  
+617.5203399999882	EXP	text_feedback2: text = " we should organise a sports day instead we will all "
+617.6218649999937	DATA	Keydown: s
+617.6377400000056	EXP	text_feedback2: text = " we should organise a sports day instead we will all s"
+617.9378300000099	DATA	Keydown: w
+617.9535449999967	EXP	text_feedback2: text = " we should organise a sports day instead we will all sw"
+618.1391050000093	DATA	Keydown: e
+618.1547649999848	EXP	text_feedback2: text = " we should organise a sports day instead we will all swe"
+618.254495000001	DATA	Keydown: a
+618.2702350000036	EXP	text_feedback2: text = " we should organise a sports day instead we will all swea"
+618.5416949999926	DATA	Keydown: t
+618.5552200000093	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat"
+618.7216100000078	DATA	Keydown:  
+618.7539600000018	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat "
+618.9240700000082	DATA	Keydown: a
+618.9380999999994	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a"
+618.9718749999884	DATA	Keydown:  
+619.0043550000119	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a "
+619.1726600000111	DATA	Keydown:  
+619.2050549999985	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a  "
+619.6713450000098	DATA	Keydown: Backspace
+619.6878399999987	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a "
+619.9874600000039	DATA	Keydown: l
+620.0043700000097	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a l"
+620.1716249999881	DATA	Keydown: o
+620.1863299999968	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lo"
+620.3243249999941	DATA	Keydown: t
+620.3376449999923	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot"
+620.7222699999984	DATA	Keydown:  
+620.7538950000016	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot "
+620.8879749999905	DATA	Keydown: s
+620.9046899999958	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot s"
+621.037565000006	DATA	Keydown: a
+621.0535349999845	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot sa"
+621.4219849999936	DATA	Keydown: i
+621.4371999999858	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot sai"
+621.554369999998	DATA	Keydown: d
+621.5717449999938	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said"
+621.6723399999901	DATA	Keydown:  
+621.70478	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said "
+622.4066699999967	DATA	Keydown: e
+622.420299999998	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said e"
+622.5711350000056	DATA	Keydown: l
+622.5872249999957	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said el"
+622.7213249999913	DATA	Keydown: e
+622.7378949999984	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said ele"
+622.8890149999934	DATA	Keydown: p
+622.9048149999871	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elep"
+623.1890100000019	DATA	Keydown: h
+623.2053650000016	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said eleph"
+623.3739549999882	DATA	Keydown: a
+623.3892150000029	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elepha"
+623.5382999999856	DATA	Keydown: n
+623.5538299999898	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephan"
+623.7052649999969	DATA	Keydown: t
+623.7205949999916	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant"
+624.1375950000074	DATA	Keydown:  
+624.171325000003	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant "
+624.4377899999963	DATA	Keydown: h
+624.454070000007	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant h"
+624.6389949999866	DATA	Keydown: o
+624.6547349999892	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant ho"
+624.7890250000055	DATA	Keydown: w
+624.8044999999984	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how"
+625.0050300000003	DATA	Keydown:  
+625.0376950000064	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how "
+625.1383849999984	DATA	Keydown: a
+625.1543149999925	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how a"
+625.2886850000068	DATA	Keydown: b
+625.304134999984	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how ab"
+625.5414649999875	DATA	Keydown: o
+625.5539700000081	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how abo"
+625.6213149999967	DATA	Keydown: u
+625.6373050000111	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how abou"
+625.7550300000003	DATA	Keydown: t
+625.7693450000079	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about"
+625.871450000006	DATA	Keydown:  
+625.9040600000008	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about "
+626.0571500000078	DATA	Keydown: w
+626.0704850000038	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about w"
+626.2413100000122	DATA	Keydown:  
+626.2700699999987	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about w "
+626.655144999997	DATA	Keydown: Backspace
+626.6705049999873	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about w"
+626.8386649999884	DATA	Keydown: e
+626.8532450000057	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we"
+626.9896299999964	DATA	Keydown:  
+627.0205100000021	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we "
+627.4217650000064	DATA	Keydown: j
+627.4372349999903	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we j"
+627.5725450000027	DATA	Keydown: u
+627.5870949999953	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we ju"
+627.6727149999933	DATA	Keydown: s
+627.6865699999908	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we jus"
+627.8222349999996	DATA	Keydown: t
+627.8375850000011	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just"
+627.9386149999918	DATA	Keydown:  
+627.9710649999906	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just "
+628.0888550000091	DATA	Keydown: w
+628.1035899999843	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just w"
+628.1576549999882	DATA	Keydown: a
+628.1712800000096	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just wa"
+628.4895499999984	DATA	Keydown: t
+628.5041649999912	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just wat"
+628.6558950000035	DATA	Keydown: c
+628.6713849999942	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watc"
+628.7390799999994	DATA	Keydown: h
+628.7546149999835	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch"
+628.8397699999914	DATA	Keydown:  
+628.8726749999914	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch "
+628.9558200000029	DATA	Keydown: a
+628.9708000000101	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a"
+629.0416350000014	DATA	Keydown:  
+629.0732699999935	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a "
+629.2391399999906	DATA	Keydown: f
+629.2535250000074	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a f"
+629.3249000000069	DATA	Keydown: i
+629.3385199999902	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a fi"
+629.5378649999911	DATA	Keydown: l
+629.5541699999885	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a fil"
+629.738485000009	DATA	Keydown: m
+629.7538049999857	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film"
+629.8557699999947	DATA	Keydown:  
+629.8876699999964	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film "
+630.5209650000033	DATA	Keydown: t
+630.5374449999945	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film t"
+631.2395200000028	DATA	Keydown: Backspace
+631.2542400000093	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film "
+631.7043650000123	DATA	Keydown: o
+631.7205350000004	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film o"
+632.0212900000042	DATA	Keydown: Backspace
+632.0377950000111	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film "
+632.1380399999907	DATA	Keydown: t
+632.1541950000101	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film t"
+632.3053000000073	DATA	Keydown: o
+632.3201100000006	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film to"
+632.7221349999891	DATA	Keydown: g
+632.7376299999887	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film tog"
+632.8730400000059	DATA	Keydown: e
+632.8872050000064	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film toge"
+633.0873649999849	DATA	Keydown: t
+633.1031199999852	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film toget"
+633.2552199999918	DATA	Keydown: h
+633.2704199999862	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film togeth"
+633.4065049999917	DATA	Keydown: e
+633.4214199999988	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film togethe"
+633.4572850000113	DATA	Keydown: r
+633.4708999999857	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film together"
+633.5887400000065	DATA	Keydown:  
+633.6215749999974	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film together "
+633.7887650000048	DATA	Keydown: i
+633.8029549999919	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film together i"
+633.9234799999977	DATA	Keydown: n
+633.9366100000043	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film together in"
+634.0386749999889	DATA	Keydown: s
+634.0532250000106	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film together ins"
+634.4555300000065	DATA	Keydown: t
+634.4704600000114	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film together inst"
+634.6717000000062	DATA	Keydown: e
+634.6874050000042	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film together inste"
+634.8551149999839	DATA	Keydown: a
+634.8706850000017	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film together instea"
+635.2053949999972	DATA	Keydown: d
+635.2200749999902	EXP	text_feedback2: text = " we should organise a sports day instead we will all sweat a lot said elephant how about we just watch a film together instead"
+640.1552500000107	DATA	Keydown: Enter
+640.1753899999894	EXP	text_feedback2: autoDraw = false
+640.1753899999894	EXP	text_5: autoDraw = false
+640.1753899999894	EXP	TheEnd: autoDraw = true
+643.3066000000108	DATA	Keydown: Enter
